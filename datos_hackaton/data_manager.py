@@ -9,8 +9,8 @@ def load_data():
     """
     Carga los datos de entrenamiento y testeo
     """
-    data_train = pd.read_csv(os.path.join('datos_hackaton', 'train_data.csv'))
-    data_test = pd.read_csv(os.path.join('datos_hackaton', 'test_data.csv'))
+    data_train = pd.read_csv(os.path.join('..','datos_hackaton', 'train_data.csv'))
+    data_test = pd.read_csv(os.path.join('..', 'datos_hackaton', 'test_data.csv'))
     return data_train, data_test
 
 def show_data(data_train, data_test):
@@ -41,8 +41,11 @@ def data_transformation(data_train):
         print("Existen datos categoricos en el dataset?")
         print(data_train.select_dtypes(include=['object']).columns)
         return data_train
+    
     data_train  = encode_data(data_train)
 
-    return
+    return data_train
 
+data_train = pd.read_csv('test_data.csv')
 
+print(data_train.head())
