@@ -1,0 +1,2021 @@
+modalidad_trabajo,genero,canal_reclutamiento,estado_civil,id_colaborador,id_ultimo_jefe,seniority,distancia_oficina,dias_baja_salud,permanencia_promedio,salario,performance_score,psi_score,edad_ingreso
+Híbrida,Hombre,Ferias & Networking,Soltero,100486.0,102115.0,1.0,1.0,2.0,2.0,181654.0,99.0,81.0,24.0
+Híbrida,Mujer,Ferias & Networking,Soltero,103752.0,102074.0,1.0,2.0,1.0,1.0,140986.0,97.0,75.0,19.0
+Híbrida,Hombre,Portal Web,Soltero,103937.0,102150.0,1.0,2.0,1.0,6.0,406690.0,96.0,69.0,38.0
+Híbrida,Hombre,Linkedin,Casado,101744.0,102172.0,1.0,2.0,3.0,3.0,249107.0,95.0,73.0,31.0
+Híbrida,Hombre,Referidos,Viudo,101037.0,102060.0,1.0,5.0,3.0,10.0,698318.0,95.0,81.0,46.0
+Híbrida,Hombre,Linkedin,Casado,103465.0,102172.0,1.0,2.0,3.0,3.0,245356.0,95.0,73.0,31.0
+Híbrida,Mujer,Portal Web,Soltero,103718.0,102078.0,1.0,1.0,2.0,3.0,370517.0,95.0,70.0,31.0
+Híbrida,Mujer,Referidos,Viudo,103206.0,102060.0,1.0,5.0,2.0,11.0,676490.0,95.0,74.0,45.0
+Híbrida,Hombre,Referidos,Viudo,102932.0,102060.0,1.0,5.0,3.0,10.0,697802.0,95.0,81.0,46.0
+Híbrida,Mujer,Linkedin,Soltero,103179.0,102144.0,1.0,2.0,7.0,5.0,856648.0,95.0,65.0,56.0
+Híbrida,Mujer,Portal Web,Casado,101424.0,102039.0,1.0,2.0,3.0,5.0,412667.0,94.0,76.0,31.0
+Híbrida,Mujer,Portal Web,Casado,103534.0,102039.0,1.0,2.0,2.0,5.0,407037.0,94.0,76.0,31.0
+Híbrida,Mujer,Linkedin,Divorciado,101680.0,102061.0,1.0,5.0,8.0,10.0,677898.0,92.0,87.0,45.0
+Híbrida,Hombre,Portal Web,Viudo,100332.0,102140.0,1.0,4.0,10.0,9.0,854702.0,92.0,75.0,55.0
+Híbrida,Hombre,Ferias & Networking,Soltero,103739.0,102070.0,1.0,2.0,3.0,2.0,228780.0,92.0,76.0,23.0
+Híbrida,Hombre,Referidos,Soltero,100086.0,102140.0,1.0,4.0,1.0,1.0,82596.0,91.0,75.0,20.0
+Híbrida,Mujer,Referidos,Casado,101520.0,102015.0,1.0,6.0,2.0,1.0,102758.0,91.0,80.0,11.0
+Híbrida,Mujer,Referidos,Soltero,101657.0,102118.0,1.0,2.0,2.0,3.0,138291.0,91.0,77.0,21.0
+Híbrida,Hombre,Portal Web,Casado,101410.0,102044.0,1.0,5.0,3.0,2.0,141023.0,91.0,72.0,14.0
+Híbrida,Mujer,Referidos,Soltero,101277.0,102083.0,1.0,1.0,2.0,4.0,164792.0,91.0,73.0,20.0
+Híbrida,Hombre,Linkedin,Casado,101655.0,102117.0,1.0,3.0,2.0,1.0,231963.0,91.0,78.0,28.0
+Híbrida,Hombre,Ferias & Networking,Soltero,101753.0,102125.0,1.0,2.0,0.0,5.0,305031.0,91.0,79.0,30.0
+Híbrida,Mujer,Portal Web,Casado,101737.0,102112.0,1.0,1.0,0.0,7.0,329714.0,91.0,74.0,31.0
+Híbrida,Hombre,Portal Web,Soltero,101275.0,102050.0,1.0,1.0,2.0,2.0,327251.0,91.0,78.0,26.0
+Híbrida,Mujer,Linkedin,Soltero,100408.0,102022.0,1.0,3.0,5.0,5.0,351175.0,91.0,73.0,26.0
+Híbrida,Hombre,Referidos,Soltero,100158.0,102134.0,1.0,6.0,3.0,4.0,428085.0,91.0,72.0,39.0
+Híbrida,Hombre,Linkedin,Casado,100729.0,102113.0,1.0,3.0,1.0,5.0,448262.0,91.0,70.0,37.0
+Híbrida,Hombre,Linkedin,Soltero,100851.0,102104.0,1.0,4.0,5.0,10.0,430638.0,91.0,77.0,37.0
+Híbrida,Hombre,Referidos,Soltero,101000.0,102071.0,1.0,3.0,1.0,11.0,428419.0,91.0,76.0,33.0
+Híbrida,Hombre,Portal Web,Casado,101409.0,102031.0,1.0,5.0,3.0,4.0,473280.0,91.0,63.0,32.0
+Híbrida,Hombre,Linkedin,Soltero,101824.0,102045.0,1.0,2.0,9.0,11.0,252043.0,91.0,83.0,33.0
+Híbrida,Mujer,Linkedin,Soltero,101259.0,102045.0,1.0,2.0,2.0,5.0,257498.0,91.0,81.0,37.0
+Híbrida,Mujer,Ferias & Networking,Casado,100736.0,102042.0,1.0,3.0,2.0,10.0,378369.0,91.0,64.0,36.0
+Híbrida,Mujer,Portal Web,Divorciado,101903.0,102054.0,1.0,2.0,2.0,14.0,282057.0,91.0,78.0,37.0
+Híbrida,Mujer,Linkedin,Viudo,100171.0,102159.0,1.0,2.0,1.0,11.0,294147.0,91.0,70.0,49.0
+Híbrida,Hombre,Ferias & Networking,Divorciado,101949.0,102153.0,1.0,4.0,1.0,3.0,400367.0,91.0,76.0,48.0
+Híbrida,Hombre,Referidos,Viudo,101371.0,102073.0,1.0,1.0,0.0,8.0,680247.0,91.0,82.0,45.0
+Híbrida,Mujer,Portal Web,Divorciado,100451.0,102043.0,1.0,2.0,5.0,11.0,761732.0,91.0,74.0,44.0
+Híbrida,Mujer,Linkedin,Divorciado,101952.0,102077.0,1.0,3.0,3.0,7.0,815402.0,91.0,76.0,50.0
+Híbrida,Hombre,Portal Web,Viudo,101721.0,102129.0,1.0,3.0,2.0,4.0,895670.0,91.0,68.0,57.0
+Híbrida,Mujer,Ferias & Networking,Soltero,102802.0,102133.0,1.0,5.0,0.0,1.0,141446.0,91.0,77.0,20.0
+Híbrida,Hombre,Portal Web,Soltero,103824.0,102026.0,1.0,2.0,6.0,3.0,120417.0,91.0,76.0,12.0
+Híbrida,Mujer,Portal Web,Soltero,104042.0,102132.0,1.0,3.0,2.0,3.0,142128.0,91.0,85.0,23.0
+Híbrida,Hombre,Linkedin,Soltero,103566.0,102069.0,1.0,2.0,2.0,3.0,140841.0,91.0,81.0,16.0
+Híbrida,Hombre,Ferias & Networking,Soltero,104031.0,102084.0,1.0,2.0,2.0,3.0,183516.0,91.0,74.0,20.0
+Híbrida,Hombre,Portal Web,Casado,103381.0,102142.0,1.0,3.0,6.0,4.0,209682.0,91.0,74.0,29.0
+Híbrida,Mujer,Portal Web,Casado,103594.0,102065.0,1.0,2.0,2.0,5.0,251797.0,91.0,77.0,23.0
+Híbrida,Mujer,Portal Web,Casado,103053.0,102050.0,1.0,2.0,4.0,7.0,284920.0,91.0,73.0,22.0
+Híbrida,Hombre,Portal Web,Casado,102297.0,102025.0,1.0,5.0,3.0,3.0,291458.0,91.0,76.0,23.0
+Híbrida,Mujer,Linkedin,Soltero,103210.0,102068.0,1.0,4.0,0.0,4.0,305028.0,91.0,73.0,27.0
+Híbrida,Mujer,Portal Web,Divorciado,103521.0,102069.0,1.0,3.0,8.0,5.0,309212.0,91.0,77.0,27.0
+Híbrida,Hombre,Portal Web,Casado,104099.0,102080.0,1.0,5.0,3.0,2.0,327551.0,91.0,79.0,27.0
+Híbrida,Hombre,Portal Web,Soltero,103121.0,102050.0,1.0,1.0,1.0,2.0,333345.0,91.0,78.0,26.0
+Híbrida,Hombre,Referidos,Casado,103168.0,102126.0,1.0,2.0,1.0,7.0,370173.0,91.0,70.0,36.0
+Híbrida,Mujer,Portal Web,Casado,102526.0,102158.0,1.0,4.0,1.0,10.0,390316.0,91.0,81.0,37.0
+Híbrida,Mujer,Ferias & Networking,Soltero,103712.0,102044.0,1.0,2.0,1.0,6.0,391289.0,91.0,61.0,28.0
+Híbrida,Hombre,Portal Web,Soltero,102670.0,102040.0,1.0,1.0,1.0,9.0,427278.0,91.0,81.0,31.0
+Híbrida,Hombre,Linkedin,Soltero,103556.0,102067.0,1.0,4.0,3.0,5.0,831125.0,91.0,73.0,32.0
+Híbrida,Mujer,Linkedin,Soltero,102817.0,102028.0,1.0,2.0,11.0,10.0,464595.0,91.0,73.0,32.0
+Híbrida,Hombre,Portal Web,Casado,102391.0,102031.0,1.0,5.0,3.0,4.0,467480.0,91.0,63.0,32.0
+Híbrida,Mujer,Portal Web,Divorciado,104145.0,102119.0,1.0,1.0,0.0,14.0,254905.0,91.0,81.0,43.0
+Híbrida,Mujer,Referidos,Soltero,102944.0,102086.0,1.0,4.0,3.0,6.0,248830.0,91.0,80.0,39.0
+Híbrida,Mujer,Portal Web,Casado,103705.0,102056.0,1.0,3.0,5.0,7.0,911302.0,91.0,73.0,34.0
+Híbrida,Hombre,Portal Web,Soltero,102682.0,102133.0,1.0,4.0,3.0,13.0,255157.0,91.0,65.0,42.0
+Híbrida,Hombre,Portal Web,Soltero,103690.0,102142.0,1.0,2.0,1.0,13.0,264979.0,91.0,89.0,45.0
+Híbrida,Mujer,Portal Web,Divorciado,104076.0,102054.0,1.0,2.0,2.0,14.0,274224.0,91.0,78.0,37.0
+Híbrida,Mujer,Portal Web,Soltero,104094.0,102039.0,1.0,5.0,21.0,15.0,413558.0,91.0,81.0,38.0
+Híbrida,Mujer,Linkedin,Divorciado,103592.0,102103.0,1.0,5.0,2.0,15.0,300844.0,91.0,66.0,45.0
+Híbrida,Hombre,Ferias & Networking,Viudo,102681.0,102064.0,1.0,5.0,2.0,10.0,778707.0,91.0,73.0,46.0
+Híbrida,Hombre,Linkedin,Divorciado,104049.0,102084.0,1.0,2.0,10.0,16.0,676291.0,91.0,80.0,48.0
+Híbrida,Mujer,Portal Web,Casado,102598.0,102061.0,1.0,5.0,1.0,8.0,679378.0,91.0,76.0,44.0
+Híbrida,Mujer,Linkedin,Divorciado,104082.0,102077.0,1.0,3.0,3.0,7.0,816455.0,91.0,76.0,50.0
+Híbrida,Hombre,Ferias & Networking,Divorciado,103544.0,102068.0,1.0,3.0,1.0,18.0,741713.0,91.0,71.0,50.0
+Híbrida,Hombre,Ferias & Networking,Viudo,102954.0,102068.0,1.0,1.0,2.0,6.0,733700.0,91.0,80.0,48.0
+Híbrida,Mujer,Referidos,Soltero,101362.0,102082.0,1.0,1.0,2.0,1.0,78932.0,90.0,89.0,14.0
+Híbrida,Hombre,Linkedin,Soltero,100255.0,102127.0,1.0,1.0,7.0,1.0,142966.0,90.0,71.0,22.0
+Híbrida,Mujer,Portal Web,Soltero,100647.0,102156.0,1.0,2.0,1.0,3.0,188544.0,90.0,87.0,26.0
+Híbrida,Mujer,Portal Web,Soltero,101953.0,102067.0,1.0,4.0,0.0,1.0,186190.0,90.0,68.0,20.0
+Híbrida,Hombre,Portal Web,Soltero,101339.0,102171.0,1.0,2.0,1.0,5.0,210218.0,90.0,66.0,29.0
+Híbrida,Hombre,Ferias & Networking,Soltero,101826.0,102126.0,1.0,3.0,2.0,3.0,207356.0,90.0,86.0,27.0
+Híbrida,Hombre,Referidos,Casado,100415.0,102141.0,1.0,2.0,1.0,3.0,248798.0,90.0,73.0,29.0
+Híbrida,Mujer,Portal Web,Casado,101170.0,102036.0,1.0,3.0,1.0,5.0,267679.0,90.0,74.0,21.0
+Híbrida,Mujer,Portal Web,Casado,100850.0,102050.0,1.0,2.0,4.0,7.0,292096.0,90.0,73.0,22.0
+Híbrida,Mujer,Linkedin,Soltero,101984.0,102074.0,1.0,2.0,1.0,6.0,288111.0,90.0,64.0,27.0
+Híbrida,Mujer,Portal Web,Soltero,100419.0,102024.0,1.0,5.0,0.0,4.0,311613.0,90.0,59.0,23.0
+Híbrida,Hombre,Referidos,Casado,100062.0,102126.0,1.0,2.0,1.0,7.0,370388.0,90.0,70.0,36.0
+Híbrida,Mujer,Portal Web,Casado,100800.0,102158.0,1.0,4.0,2.0,10.0,389553.0,90.0,81.0,37.0
+Híbrida,Hombre,Ferias & Networking,Soltero,100353.0,102129.0,1.0,2.0,3.0,2.0,384951.0,90.0,66.0,37.0
+Híbrida,Mujer,Ferias & Networking,Soltero,101200.0,102035.0,1.0,3.0,3.0,11.0,406978.0,90.0,74.0,29.0
+Híbrida,Mujer,Linkedin,Soltero,101397.0,102003.0,1.0,2.0,6.0,8.0,772441.0,90.0,77.0,28.0
+Híbrida,Hombre,Ferias & Networking,Casado,101820.0,102052.0,1.0,3.0,3.0,4.0,769448.0,90.0,80.0,35.0
+Híbrida,Mujer,Linkedin,Soltero,100079.0,102028.0,1.0,2.0,10.0,10.0,466737.0,90.0,73.0,32.0
+Híbrida,Hombre,Referidos,Casado,100650.0,102105.0,1.0,1.0,1.0,3.0,529395.0,90.0,77.0,41.0
+Híbrida,Mujer,Referidos,Soltero,100634.0,102086.0,1.0,4.0,3.0,6.0,245459.0,90.0,80.0,39.0
+Híbrida,Mujer,Portal Web,Casado,101026.0,102042.0,1.0,6.0,1.0,13.0,272032.0,90.0,73.0,35.0
+Híbrida,Hombre,Portal Web,Soltero,101908.0,102142.0,1.0,2.0,2.0,13.0,267966.0,90.0,89.0,45.0
+Híbrida,Mujer,Portal Web,Casado,101472.0,102126.0,1.0,3.0,9.0,7.0,281771.0,90.0,73.0,45.0
+Híbrida,Hombre,Linkedin,Casado,100757.0,102078.0,1.0,1.0,10.0,10.0,275691.0,90.0,73.0,41.0
+Híbrida,Mujer,Portal Web,Viudo,100251.0,102012.0,1.0,2.0,1.0,14.0,293524.0,90.0,75.0,38.0
+Híbrida,Hombre,Portal Web,Soltero,101474.0,102028.0,1.0,1.0,1.0,13.0,387143.0,90.0,71.0,41.0
+Híbrida,Hombre,Portal Web,Casado,101588.0,102034.0,1.0,3.0,0.0,14.0,642641.0,90.0,68.0,42.0
+Híbrida,Hombre,Portal Web,Soltero,101745.0,102106.0,1.0,2.0,4.0,4.0,675783.0,90.0,74.0,49.0
+Híbrida,Mujer,Portal Web,Casado,100847.0,102061.0,1.0,5.0,0.0,8.0,680049.0,90.0,76.0,44.0
+Híbrida,Hombre,Portal Web,Divorciado,100549.0,102100.0,1.0,4.0,1.0,19.0,718149.0,90.0,87.0,49.0
+Híbrida,Mujer,Linkedin,Viudo,101868.0,102114.0,1.0,6.0,11.0,7.0,917317.0,90.0,74.0,51.0
+Híbrida,Hombre,Portal Web,Divorciado,102121.0,102074.0,2.0,2.0,2.0,4.0,1616000.0,90.0,77.0,45.0
+Híbrida,Hombre,Linkedin,Soltero,104154.0,102127.0,1.0,1.0,6.0,1.0,141787.0,90.0,71.0,22.0
+Híbrida,Mujer,Referidos,Casado,102865.0,102124.0,1.0,1.0,1.0,2.0,180573.0,90.0,66.0,23.0
+Híbrida,Mujer,Portal Web,Soltero,102313.0,102067.0,1.0,4.0,1.0,1.0,185388.0,90.0,68.0,20.0
+Híbrida,Hombre,Linkedin,Casado,103025.0,102117.0,1.0,3.0,2.0,1.0,232322.0,90.0,78.0,28.0
+Híbrida,Mujer,Linkedin,Soltero,103717.0,102074.0,1.0,2.0,1.0,6.0,292555.0,90.0,64.0,26.0
+Híbrida,Mujer,Portal Web,Casado,103229.0,102112.0,1.0,1.0,1.0,7.0,326478.0,90.0,74.0,31.0
+Híbrida,Mujer,Linkedin,Soltero,104002.0,102022.0,1.0,3.0,6.0,5.0,350184.0,90.0,73.0,26.0
+Híbrida,Hombre,Ferias & Networking,Soltero,103635.0,102111.0,1.0,3.0,1.0,2.0,366504.0,90.0,67.0,32.0
+Híbrida,Mujer,Ferias & Networking,Soltero,103688.0,102035.0,1.0,3.0,2.0,11.0,404653.0,90.0,74.0,29.0
+Híbrida,Mujer,Linkedin,Casado,103734.0,102003.0,1.0,2.0,6.0,8.0,769704.0,90.0,77.0,28.0
+Híbrida,Mujer,Portal Web,Viudo,103871.0,102042.0,1.0,6.0,1.0,3.0,424477.0,90.0,74.0,29.0
+Híbrida,Hombre,Linkedin,Soltero,102712.0,102045.0,1.0,2.0,9.0,11.0,246554.0,90.0,83.0,33.0
+Híbrida,Hombre,Portal Web,Divorciado,103495.0,102099.0,1.0,4.0,5.0,3.0,269781.0,90.0,65.0,40.0
+Híbrida,Mujer,Portal Web,Casado,103942.0,102126.0,1.0,3.0,8.0,7.0,281601.0,90.0,73.0,45.0
+Híbrida,Hombre,Linkedin,Casado,103213.0,102078.0,1.0,1.0,9.0,10.0,275572.0,90.0,73.0,42.0
+Híbrida,Mujer,Portal Web,Viudo,102374.0,102012.0,1.0,2.0,1.0,14.0,299734.0,90.0,75.0,38.0
+Híbrida,Hombre,Linkedin,Casado,102520.0,102034.0,1.0,2.0,7.0,5.0,299717.0,90.0,80.0,38.0
+Híbrida,Hombre,Portal Web,Divorciado,103779.0,102082.0,1.0,2.0,2.0,7.0,774688.0,90.0,65.0,45.0
+Híbrida,Hombre,Portal Web,Casado,102300.0,102034.0,1.0,3.0,1.0,14.0,634294.0,90.0,68.0,42.0
+Híbrida,Mujer,Portal Web,Casado,102287.0,102079.0,1.0,2.0,0.0,15.0,817952.0,90.0,70.0,45.0
+Híbrida,Hombre,Portal Web,Soltero,102535.0,102112.0,1.0,1.0,1.0,10.0,701522.0,90.0,72.0,52.0
+Híbrida,Hombre,Portal Web,Divorciado,103986.0,102100.0,1.0,4.0,1.0,19.0,721711.0,90.0,87.0,49.0
+Híbrida,Mujer,Portal Web,Casado,100100.0,102125.0,1.0,2.0,5.0,2.0,209741.0,89.0,62.0,27.0
+Híbrida,Mujer,Portal Web,Viudo,101631.0,102042.0,1.0,6.0,2.0,3.0,426271.0,89.0,74.0,29.0
+Híbrida,Mujer,Ferias & Networking,Casado,101989.0,102068.0,1.0,1.0,1.0,5.0,430836.0,88.0,68.0,32.0
+Híbrida,Hombre,Referidos,Viudo,101232.0,102064.0,1.0,2.0,0.0,7.0,696295.0,88.0,78.0,46.0
+Híbrida,Hombre,Linkedin,Soltero,102438.0,102059.0,1.0,1.0,0.0,4.0,425511.0,88.0,68.0,34.0
+Híbrida,Hombre,Referidos,Viudo,102291.0,102064.0,1.0,2.0,1.0,7.0,694163.0,88.0,78.0,46.0
+Híbrida,Hombre,Portal Web,Casado,100643.0,102054.0,1.0,2.0,1.0,2.0,180814.0,87.0,88.0,19.0
+Híbrida,Hombre,Linkedin,Soltero,100287.0,102059.0,1.0,1.0,1.0,4.0,427406.0,87.0,68.0,34.0
+Híbrida,Mujer,Ferias & Networking,Casado,101786.0,102035.0,1.0,3.0,1.0,4.0,287978.0,87.0,78.0,37.0
+Híbrida,Mujer,Ferias & Networking,Soltero,100382.0,102035.0,1.0,2.0,0.0,2.0,661749.0,87.0,76.0,41.0
+Híbrida,Hombre,Portal Web,Casado,102650.0,102054.0,1.0,1.0,0.0,2.0,183947.0,87.0,88.0,18.0
+Híbrida,Mujer,Portal Web,Soltero,102588.0,102106.0,1.0,1.0,3.0,6.0,788525.0,87.0,62.0,37.0
+Híbrida,Mujer,Ferias & Networking,Casado,103283.0,102035.0,1.0,3.0,1.0,5.0,290314.0,87.0,78.0,37.0
+Híbrida,Mujer,Ferias & Networking,Soltero,100737.0,102092.0,1.0,5.0,1.0,1.0,121171.0,86.0,90.0,18.0
+Híbrida,Hombre,Ferias & Networking,Casado,102373.0,102064.0,1.0,2.0,2.0,6.0,307294.0,86.0,78.0,24.0
+Híbrida,Mujer,Portal Web,Casado,102224.0,102017.0,1.0,5.0,2.0,13.0,277708.0,86.0,86.0,36.0
+Híbrida,Mujer,Ferias & Networking,Soltero,102565.0,102035.0,1.0,2.0,0.0,2.0,659393.0,86.0,76.0,41.0
+Híbrida,Hombre,Referidos,Viudo,103614.0,102066.0,1.0,3.0,2.0,7.0,780052.0,86.0,75.0,48.0
+Híbrida,Hombre,Ferias & Networking,Soltero,101875.0,102063.0,1.0,1.0,3.0,3.0,168402.0,85.0,83.0,18.0
+Híbrida,Mujer,Portal Web,Soltero,101457.0,102091.0,1.0,5.0,0.0,5.0,425593.0,85.0,73.0,34.0
+Híbrida,Hombre,Portal Web,Divorciado,101635.0,102142.0,1.0,3.0,11.0,8.0,301780.0,85.0,74.0,48.0
+Híbrida,Hombre,Referidos,Viudo,101815.0,102066.0,1.0,3.0,2.0,7.0,774831.0,85.0,75.0,48.0
+Híbrida,Mujer,Portal Web,Casado,102666.0,102137.0,1.0,3.0,12.0,10.0,386747.0,85.0,73.0,45.0
+Híbrida,Mujer,Referidos,Soltero,101372.0,102087.0,1.0,2.0,2.0,4.0,143282.0,84.0,77.0,17.0
+Híbrida,Mujer,Referidos,Soltero,101158.0,102117.0,1.0,3.0,0.0,6.0,247486.0,84.0,73.0,41.0
+Híbrida,Mujer,Portal Web,Casado,100858.0,102137.0,1.0,3.0,11.0,10.0,384696.0,84.0,73.0,45.0
+Híbrida,Hombre,Ferias & Networking,Soltero,104156.0,102063.0,1.0,1.0,2.0,3.0,164991.0,84.0,83.0,18.0
+Híbrida,Hombre,Portal Web,Soltero,103917.0,102108.0,1.0,2.0,2.0,4.0,269267.0,84.0,73.0,28.0
+Híbrida,Hombre,Portal Web,Soltero,101400.0,102061.0,1.0,2.0,3.0,16.0,774236.0,83.0,78.0,44.0
+Híbrida,Hombre,Ferias & Networking,Soltero,101441.0,102086.0,1.0,3.0,14.0,6.0,426429.0,82.0,86.0,35.0
+Híbrida,Mujer,Linkedin,Casado,100233.0,102031.0,1.0,1.0,7.0,4.0,839816.0,82.0,78.0,43.0
+Híbrida,Hombre,Referidos,Soltero,100830.0,102134.0,1.0,2.0,3.0,4.0,209256.0,81.0,80.0,29.0
+Híbrida,Mujer,Portal Web,Casado,101511.0,102028.0,1.0,2.0,4.0,6.0,331238.0,81.0,79.0,25.0
+Híbrida,Mujer,Portal Web,Casado,100996.0,102038.0,1.0,3.0,1.0,9.0,505872.0,81.0,79.0,35.0
+Híbrida,Hombre,Portal Web,Viudo,100054.0,102060.0,1.0,5.0,6.0,16.0,310561.0,81.0,84.0,42.0
+Híbrida,Hombre,Referidos,Soltero,102474.0,102134.0,1.0,2.0,3.0,4.0,212769.0,81.0,80.0,29.0
+Híbrida,Hombre,Portal Web,Viudo,103253.0,102060.0,1.0,5.0,6.0,16.0,306316.0,81.0,84.0,42.0
+Híbrida,Hombre,Linkedin,Divorciado,103539.0,102042.0,1.0,6.0,3.0,3.0,634592.0,81.0,74.0,42.0
+Híbrida,Mujer,Linkedin,Casado,103019.0,102031.0,1.0,1.0,7.0,4.0,833884.0,81.0,78.0,42.0
+Híbrida,Hombre,Portal Web,Casado,100081.0,102056.0,1.0,3.0,3.0,6.0,309463.0,81.0,67.0,25.0
+Híbrida,Mujer,Portal Web,Casado,100165.0,102144.0,1.0,2.0,1.0,7.0,489901.0,83.0,79.0,43.0
+Híbrida,Hombre,Linkedin,Divorciado,100652.0,102076.0,1.0,3.0,2.0,9.0,512929.0,83.0,72.0,38.0
+Híbrida,Hombre,Ferias & Networking,Casado,101503.0,102031.0,1.0,7.0,2.0,8.0,277183.0,82.0,77.0,38.0
+Híbrida,Mujer,Referidos,Soltero,103069.0,102085.0,1.0,3.0,2.0,3.0,145034.0,81.0,63.0,18.0
+Híbrida,Mujer,Portal Web,Casado,103036.0,102028.0,1.0,2.0,4.0,6.0,329443.0,87.0,79.0,25.0
+Híbrida,Hombre,Linkedin,Divorciado,102483.0,102076.0,1.0,3.0,2.0,9.0,507016.0,93.0,72.0,38.0
+Híbrida,Mujer,Linkedin,Casado,103847.0,102052.0,1.0,2.0,2.0,6.0,507656.0,84.0,75.0,36.0
+Híbrida,Mujer,Linkedin,Divorciado,102581.0,102108.0,1.0,1.0,3.0,4.0,255758.0,96.0,78.0,43.0
+Híbrida,Hombre,Linkedin,Soltero,100990.0,102037.0,1.0,7.0,7.0,1.0,140589.0,86.0,74.0,13.0
+Híbrida,Mujer,Linkedin,Divorciado,100836.0,102108.0,1.0,1.0,4.0,4.0,261381.0,96.0,78.0,43.0
+Híbrida,Hombre,Linkedin,Soltero,100844.0,102143.0,1.0,2.0,7.0,5.0,259594.0,90.0,89.0,43.0
+Híbrida,Mujer,Ferias & Networking,Soltero,103749.0,102133.0,1.0,2.0,2.0,1.0,117204.0,91.0,75.0,22.0
+Híbrida,Hombre,Linkedin,Soltero,104151.0,102037.0,1.0,7.0,7.0,1.0,141097.0,80.0,74.0,13.0
+Híbrida,Hombre,Portal Web,Casado,102906.0,102056.0,1.0,3.0,3.0,6.0,313655.0,91.0,67.0,25.0
+Híbrida,Hombre,Portal Web,Casado,102826.0,102103.0,1.0,3.0,1.0,3.0,389604.0,95.0,82.0,34.0
+Híbrida,Mujer,Portal Web,Casado,103140.0,102094.0,1.0,3.0,2.0,14.0,642595.0,96.0,87.0,45.0
+Híbrida,Hombre,Linkedin,Viudo,102586.0,102154.0,1.0,2.0,2.0,1.0,901603.0,88.0,76.0,56.0
+Híbrida,Hombre,Ferias & Networking,Soltero,100484.0,102041.0,1.0,4.0,1.0,1.0,115391.0,89.0,80.0,15.0
+Híbrida,Hombre,Portal Web,Soltero,100700.0,102040.0,1.0,2.0,8.0,1.0,118314.0,82.0,63.0,15.0
+Híbrida,Hombre,Referidos,Soltero,101747.0,102160.0,1.0,2.0,2.0,4.0,165624.0,84.0,65.0,25.0
+Híbrida,Hombre,Linkedin,Casado,101623.0,102131.0,1.0,4.0,2.0,5.0,490460.0,95.0,80.0,40.0
+Híbrida,Hombre,Linkedin,Divorciado,101803.0,102033.0,1.0,5.0,3.0,8.0,288057.0,92.0,74.0,37.0
+Híbrida,Mujer,Portal Web,Casado,101975.0,102107.0,1.0,3.0,8.0,14.0,312306.0,92.0,73.0,46.0
+Híbrida,Hombre,Portal Web,Casado,102978.0,102039.0,1.0,7.0,1.0,4.0,206350.0,87.0,64.0,18.0
+Híbrida,Hombre,Linkedin,Soltero,103281.0,102075.0,1.0,3.0,1.0,9.0,332572.0,86.0,77.0,29.0
+Híbrida,Hombre,Referidos,Soltero,103523.0,102129.0,1.0,1.0,2.0,8.0,468281.0,84.0,67.0,41.0
+Híbrida,Hombre,Linkedin,Casado,102328.0,102131.0,1.0,4.0,2.0,5.0,490891.0,82.0,80.0,40.0
+Híbrida,Hombre,Linkedin,Casado,102707.0,102134.0,1.0,2.0,3.0,7.0,489873.0,84.0,78.0,40.0
+Híbrida,Hombre,Linkedin,Divorciado,103420.0,102033.0,1.0,5.0,2.0,8.0,291042.0,83.0,74.0,37.0
+Híbrida,Mujer,Linkedin,Soltero,104018.0,102042.0,1.0,6.0,11.0,3.0,287253.0,89.0,79.0,37.0
+Híbrida,Mujer,Linkedin,Viudo,103170.0,102011.0,1.0,2.0,1.0,15.0,304412.0,96.0,73.0,39.0
+Híbrida,Mujer,Ferias & Networking,Soltero,100032.0,102094.0,1.0,6.0,3.0,5.0,351231.0,90.0,77.0,28.0
+Híbrida,Mujer,Referidos,Soltero,101139.0,102067.0,1.0,2.0,1.0,3.0,366822.0,88.0,73.0,28.0
+Híbrida,Mujer,Linkedin,Divorciado,101886.0,102134.0,1.0,4.0,11.0,4.0,466002.0,87.0,59.0,40.0
+Híbrida,Hombre,Linkedin,Soltero,102133.0,102074.0,2.0,3.0,2.0,4.0,1255430.0,98.0,65.0,36.0
+Híbrida,Hombre,Linkedin,Casado,101449.0,102151.0,1.0,3.0,8.0,15.0,280724.0,92.0,73.0,46.0
+Híbrida,Hombre,Portal Web,Viudo,100172.0,102049.0,1.0,2.0,11.0,13.0,781171.0,83.0,70.0,41.0
+Híbrida,Hombre,Linkedin,Casado,100201.0,102028.0,1.0,6.0,6.0,15.0,639005.0,89.0,76.0,41.0
+Híbrida,Hombre,Ferias & Networking,Soltero,103251.0,102041.0,1.0,4.0,1.0,1.0,123145.0,89.0,80.0,15.0
+Híbrida,Hombre,Linkedin,Soltero,103965.0,102096.0,1.0,2.0,5.0,2.0,168731.0,94.0,80.0,22.0
+Híbrida,Hombre,Portal Web,Soltero,103729.0,102105.0,1.0,2.0,2.0,2.0,190540.0,86.0,71.0,24.0
+Híbrida,Mujer,Ferias & Networking,Soltero,103295.0,102094.0,1.0,6.0,2.0,5.0,348107.0,82.0,77.0,29.0
+Híbrida,Mujer,Portal Web,Soltero,103394.0,102122.0,1.0,2.0,2.0,7.0,391176.0,91.0,65.0,34.0
+Híbrida,Mujer,Portal Web,Soltero,103738.0,102130.0,1.0,6.0,0.0,4.0,447108.0,81.0,77.0,37.0
+Híbrida,Mujer,Ferias & Networking,Soltero,102980.0,102060.0,1.0,2.0,2.0,5.0,432682.0,81.0,65.0,32.0
+Híbrida,Hombre,Linkedin,Casado,102773.0,102134.0,1.0,2.0,1.0,7.0,445164.0,90.0,83.0,38.0
+Híbrida,Hombre,Portal Web,Soltero,102733.0,102160.0,1.0,7.0,3.0,10.0,489576.0,85.0,87.0,41.0
+Híbrida,Mujer,Ferias & Networking,Soltero,103845.0,102172.0,1.0,2.0,1.0,13.0,396914.0,82.0,74.0,44.0
+Híbrida,Hombre,Ferias & Networking,Divorciado,103864.0,102131.0,1.0,3.0,1.0,10.0,781434.0,82.0,73.0,48.0
+Híbrida,Hombre,Portal Web,Viudo,104058.0,102049.0,1.0,2.0,11.0,13.0,774948.0,95.0,70.0,41.0
+Híbrida,Hombre,Portal Web,Divorciado,101544.0,102055.0,1.0,3.0,4.0,8.0,406928.0,90.0,70.0,31.0
+Híbrida,Mujer,Portal Web,Casado,100945.0,102080.0,1.0,4.0,3.0,8.0,469298.0,83.0,66.0,35.0
+Híbrida,Mujer,Ferias & Networking,Soltero,100446.0,102172.0,1.0,2.0,1.0,13.0,399733.0,83.0,74.0,44.0
+Híbrida,Mujer,Linkedin,Casado,101534.0,102026.0,1.0,7.0,1.0,5.0,262300.0,95.0,81.0,36.0
+Híbrida,Mujer,Portal Web,Soltero,101998.0,102002.0,1.0,3.0,1.0,4.0,271551.0,85.0,74.0,35.0
+Híbrida,Mujer,Portal Web,Casado,101028.0,102130.0,1.0,1.0,1.0,12.0,634324.0,95.0,74.0,48.0
+Híbrida,Mujer,Portal Web,Viudo,101124.0,102129.0,1.0,2.0,1.0,15.0,696574.0,87.0,71.0,53.0
+Híbrida,Hombre,Linkedin,Casado,100936.0,102124.0,1.0,2.0,2.0,5.0,741716.0,88.0,70.0,52.0
+Híbrida,Mujer,Portal Web,Casado,102493.0,102046.0,1.0,4.0,2.0,6.0,269828.0,82.0,79.0,24.0
+Híbrida,Hombre,Portal Web,Divorciado,102936.0,102055.0,1.0,3.0,3.0,8.0,412142.0,94.0,70.0,31.0
+Híbrida,Mujer,Portal Web,Casado,102963.0,102170.0,1.0,4.0,2.0,7.0,785378.0,87.0,78.0,40.0
+Híbrida,Hombre,Portal Web,Casado,103952.0,102162.0,1.0,2.0,2.0,10.0,472417.0,82.0,69.0,42.0
+Híbrida,Mujer,Portal Web,Casado,103559.0,102102.0,1.0,3.0,9.0,11.0,407030.0,90.0,83.0,42.0
+Híbrida,Mujer,Portal Web,Soltero,102632.0,102002.0,1.0,3.0,0.0,4.0,263689.0,86.0,74.0,35.0
+Híbrida,Mujer,Portal Web,Soltero,103217.0,102146.0,1.0,5.0,5.0,8.0,274088.0,82.0,77.0,45.0
+Híbrida,Mujer,Portal Web,Casado,102543.0,102054.0,1.0,8.0,0.0,4.0,284916.0,80.0,70.0,38.0
+Híbrida,Hombre,Referidos,Divorciado,103532.0,102140.0,1.0,7.0,1.0,10.0,676357.0,83.0,76.0,52.0
+Híbrida,Hombre,Ferias & Networking,Divorciado,102734.0,102106.0,1.0,2.0,0.0,20.0,801620.0,92.0,80.0,48.0
+Híbrida,Mujer,Portal Web,Viudo,103359.0,102129.0,1.0,2.0,1.0,15.0,696061.0,93.0,71.0,53.0
+Híbrida,Mujer,Portal Web,Soltero,101113.0,102014.0,1.0,4.0,5.0,1.0,82186.0,92.0,81.0,11.0
+Híbrida,Mujer,Portal Web,Soltero,101011.0,102097.0,1.0,3.0,0.0,3.0,119998.0,88.0,61.0,18.0
+Híbrida,Mujer,Ferias & Networking,Soltero,101012.0,102068.0,1.0,2.0,2.0,1.0,101487.0,85.0,83.0,16.0
+Híbrida,Mujer,Referidos,Divorciado,101914.0,102051.0,1.0,2.0,0.0,4.0,288245.0,85.0,66.0,26.0
+Híbrida,Hombre,Referidos,Casado,101798.0,102122.0,1.0,5.0,1.0,5.0,811507.0,80.0,87.0,38.0
+Híbrida,Mujer,Linkedin,Viudo,100159.0,102097.0,1.0,3.0,3.0,6.0,261390.0,89.0,73.0,39.0
+Híbrida,Mujer,Portal Web,Casado,100124.0,102102.0,1.0,3.0,9.0,11.0,406373.0,81.0,83.0,42.0
+Híbrida,Mujer,Linkedin,Viudo,100943.0,102090.0,1.0,4.0,1.0,13.0,309188.0,95.0,81.0,43.0
+Híbrida,Mujer,Portal Web,Casado,101187.0,102152.0,1.0,3.0,1.0,8.0,720127.0,95.0,63.0,53.0
+Híbrida,Hombre,Referidos,Casado,101881.0,102051.0,1.0,4.0,2.0,12.0,914684.0,80.0,76.0,47.0
+Híbrida,Mujer,Portal Web,Soltero,103227.0,102014.0,1.0,4.0,5.0,1.0,77097.0,93.0,81.0,11.0
+Híbrida,Hombre,Referidos,Casado,103772.0,102158.0,1.0,6.0,1.0,2.0,230031.0,82.0,85.0,29.0
+Híbrida,Mujer,Referidos,Divorciado,103627.0,102051.0,1.0,2.0,1.0,4.0,285575.0,87.0,66.0,26.0
+Híbrida,Mujer,Portal Web,Casado,102334.0,102128.0,1.0,2.0,1.0,3.0,371196.0,96.0,73.0,34.0
+Híbrida,Mujer,Portal Web,Casado,102955.0,102080.0,1.0,4.0,3.0,8.0,471092.0,92.0,66.0,35.0
+Híbrida,Hombre,Linkedin,Soltero,102991.0,102143.0,1.0,3.0,8.0,5.0,273716.0,98.0,87.0,45.0
+Híbrida,Hombre,Linkedin,Casado,103435.0,102124.0,1.0,2.0,2.0,5.0,735216.0,91.0,70.0,52.0
+Híbrida,Mujer,Portal Web,Soltero,100821.0,102088.0,1.0,5.0,0.0,2.0,208240.0,84.0,71.0,25.0
+Híbrida,Mujer,Linkedin,Casado,100722.0,102113.0,1.0,2.0,2.0,2.0,211088.0,90.0,77.0,24.0
+Híbrida,Hombre,Referidos,Casado,101814.0,102158.0,1.0,6.0,0.0,2.0,228396.0,87.0,85.0,29.0
+Híbrida,Mujer,Portal Web,Casado,100924.0,102128.0,1.0,2.0,1.0,3.0,370483.0,89.0,73.0,34.0
+Híbrida,Hombre,Ferias & Networking,Soltero,103157.0,102047.0,1.0,2.0,2.0,3.0,504839.0,98.0,80.0,35.0
+Híbrida,Mujer,Linkedin,Viudo,103216.0,102097.0,1.0,3.0,3.0,6.0,257510.0,93.0,73.0,39.0
+Híbrida,Hombre,Portal Web,Casado,100559.0,102062.0,1.0,2.0,0.0,2.0,386000.0,89.0,73.0,29.0
+Híbrida,Hombre,Portal Web,Casado,103294.0,102062.0,1.0,2.0,0.0,2.0,387304.0,86.0,73.0,29.0
+Híbrida,Mujer,Referidos,Soltero,101591.0,102107.0,1.0,4.0,3.0,2.0,142094.0,82.0,75.0,20.0
+Híbrida,Mujer,Portal Web,Soltero,100607.0,102099.0,1.0,2.0,8.0,5.0,291624.0,88.0,83.0,29.0
+Híbrida,Hombre,Linkedin,Viudo,100225.0,102113.0,1.0,2.0,2.0,13.0,311094.0,85.0,91.0,46.0
+Híbrida,Hombre,Referidos,Casado,100709.0,102012.0,1.0,3.0,1.0,7.0,642683.0,98.0,73.0,40.0
+Híbrida,Mujer,Referidos,Soltero,102396.0,102150.0,1.0,3.0,2.0,7.0,281661.0,80.0,83.0,44.0
+Híbrida,Hombre,Referidos,Casado,102758.0,102012.0,1.0,3.0,0.0,7.0,634492.0,82.0,73.0,40.0
+Híbrida,Mujer,Portal Web,Casado,100816.0,102081.0,1.0,1.0,2.0,17.0,720841.0,81.0,88.0,50.0
+Híbrida,Hombre,Portal Web,Soltero,103280.0,102023.0,1.0,2.0,1.0,2.0,102719.0,84.0,66.0,12.0
+Híbrida,Mujer,Referidos,Soltero,102253.0,102107.0,1.0,4.0,3.0,2.0,140792.0,98.0,75.0,20.0
+Híbrida,Mujer,Portal Web,Casado,104090.0,102081.0,1.0,1.0,3.0,17.0,717126.0,90.0,88.0,50.0
+Híbrida,Mujer,Referidos,Casado,101957.0,102054.0,1.0,2.0,2.0,3.0,407200.0,94.0,79.0,29.0
+Híbrida,Mujer,Portal Web,Casado,100450.0,102134.0,1.0,1.0,0.0,12.0,816997.0,97.0,64.0,49.0
+Híbrida,Mujer,Portal Web,Casado,102992.0,102011.0,1.0,3.0,2.0,8.0,441648.0,85.0,78.0,37.0
+Híbrida,Hombre,Ferias & Networking,Soltero,101669.0,102131.0,1.0,3.0,2.0,2.0,118801.0,97.0,74.0,22.0
+Híbrida,Mujer,Linkedin,Casado,102730.0,102049.0,1.0,7.0,1.0,1.0,185949.0,80.0,84.0,17.0
+Híbrida,Hombre,Linkedin,Viudo,103611.0,102068.0,1.0,1.0,1.0,3.0,225522.0,95.0,77.0,22.0
+Híbrida,Mujer,Portal Web,Soltero,103570.0,102023.0,1.0,3.0,2.0,6.0,306754.0,91.0,76.0,24.0
+Híbrida,Hombre,Ferias & Networking,Soltero,102638.0,102064.0,1.0,6.0,1.0,8.0,351896.0,87.0,71.0,28.0
+Híbrida,Mujer,Portal Web,Casado,103888.0,102134.0,1.0,3.0,0.0,12.0,505481.0,87.0,67.0,42.0
+Híbrida,Hombre,Portal Web,Casado,102999.0,102115.0,1.0,5.0,0.0,12.0,279134.0,97.0,71.0,42.0
+Híbrida,Hombre,Linkedin,Viudo,101983.0,102068.0,1.0,1.0,1.0,3.0,226438.0,88.0,77.0,22.0
+Híbrida,Mujer,Referidos,Soltero,101967.0,102023.0,1.0,3.0,3.0,6.0,307880.0,92.0,76.0,23.0
+Híbrida,Mujer,Linkedin,Casado,100301.0,102143.0,1.0,3.0,1.0,11.0,827629.0,86.0,71.0,40.0
+Híbrida,Mujer,Referidos,Soltero,102836.0,102064.0,1.0,2.0,1.0,1.0,146993.0,82.0,74.0,19.0
+Híbrida,Mujer,Portal Web,Casado,103248.0,102124.0,1.0,7.0,2.0,6.0,268165.0,93.0,86.0,29.0
+Híbrida,Hombre,Ferias & Networking,Soltero,102510.0,102059.0,1.0,4.0,3.0,4.0,386354.0,86.0,69.0,31.0
+Híbrida,Hombre,Linkedin,Divorciado,104077.0,102054.0,1.0,2.0,3.0,13.0,265162.0,88.0,77.0,39.0
+Híbrida,Mujer,Portal Web,Casado,100793.0,102124.0,1.0,7.0,1.0,6.0,270932.0,94.0,86.0,29.0
+Híbrida,Hombre,Referidos,Casado,100035.0,102150.0,1.0,2.0,1.0,5.0,425866.0,83.0,72.0,40.0
+Híbrida,Hombre,Referidos,Casado,100367.0,102145.0,1.0,6.0,1.0,9.0,468469.0,97.0,76.0,41.0
+Híbrida,Hombre,Linkedin,Soltero,100991.0,102076.0,1.0,4.0,2.0,13.0,266712.0,88.0,80.0,38.0
+Híbrida,Hombre,Referidos,Divorciado,101966.0,102118.0,1.0,1.0,2.0,8.0,319452.0,93.0,70.0,46.0
+Híbrida,Hombre,Portal Web,Soltero,104147.0,102109.0,1.0,2.0,2.0,1.0,144569.0,96.0,75.0,22.0
+Híbrida,Hombre,Referidos,Casado,103698.0,102145.0,1.0,6.0,2.0,9.0,470520.0,90.0,76.0,41.0
+Híbrida,Mujer,Referidos,Divorciado,103741.0,102150.0,1.0,4.0,2.0,11.0,443635.0,98.0,80.0,44.0
+Híbrida,Hombre,Referidos,Divorciado,103340.0,102118.0,1.0,1.0,2.0,8.0,319609.0,80.0,70.0,46.0
+Híbrida,Hombre,Portal Web,Soltero,100033.0,102109.0,1.0,2.0,1.0,1.0,144872.0,90.0,75.0,22.0
+Híbrida,Hombre,Linkedin,Soltero,103388.0,102076.0,1.0,4.0,3.0,13.0,265975.0,98.0,80.0,38.0
+Híbrida,Hombre,Portal Web,Casado,103296.0,102032.0,1.0,4.0,6.0,17.0,681511.0,94.0,73.0,43.0
+Híbrida,Mujer,Portal Web,Casado,101446.0,102127.0,1.0,2.0,1.0,8.0,330668.0,96.0,74.0,33.0
+Híbrida,Hombre,Portal Web,Soltero,100808.0,102119.0,1.0,7.0,1.0,7.0,308775.0,80.0,67.0,32.0
+Híbrida,Hombre,Linkedin,Soltero,101394.0,102127.0,1.0,2.0,5.0,7.0,465192.0,94.0,80.0,38.0
+Híbrida,Mujer,Portal Web,Casado,100641.0,102050.0,1.0,2.0,6.0,12.0,807538.0,97.0,66.0,32.0
+Híbrida,Mujer,Portal Web,Soltero,100529.0,102129.0,1.0,3.0,10.0,11.0,917445.0,81.0,70.0,48.0
+Híbrida,Mujer,Portal Web,Soltero,101272.0,102100.0,1.0,2.0,7.0,8.0,858522.0,87.0,79.0,47.0
+Híbrida,Mujer,Linkedin,Casado,102788.0,102098.0,1.0,7.0,1.0,6.0,410330.0,88.0,73.0,34.0
+Híbrida,Mujer,Portal Web,Casado,102858.0,102050.0,1.0,2.0,5.0,12.0,811396.0,85.0,66.0,32.0
+Híbrida,Hombre,Portal Web,Soltero,100907.0,102071.0,1.0,2.0,0.0,1.0,84347.0,97.0,79.0,12.0
+Híbrida,Hombre,Portal Web,Soltero,100598.0,102042.0,1.0,1.0,8.0,4.0,164920.0,84.0,73.0,18.0
+Híbrida,Mujer,Linkedin,Soltero,101842.0,102095.0,1.0,1.0,1.0,7.0,309884.0,85.0,75.0,28.0
+Híbrida,Hombre,Portal Web,Soltero,103261.0,102071.0,1.0,2.0,1.0,1.0,79070.0,84.0,79.0,12.0
+Híbrida,Hombre,Portal Web,Soltero,103859.0,102042.0,1.0,1.0,8.0,4.0,168808.0,87.0,73.0,18.0
+Híbrida,Hombre,Portal Web,Casado,103768.0,102110.0,1.0,4.0,3.0,4.0,183599.0,94.0,72.0,25.0
+Híbrida,Mujer,Linkedin,Soltero,102846.0,102095.0,1.0,1.0,0.0,7.0,313021.0,93.0,75.0,28.0
+Híbrida,Mujer,Referidos,Casado,103836.0,102072.0,1.0,2.0,3.0,5.0,411629.0,89.0,81.0,32.0
+Híbrida,Mujer,Portal Web,Casado,102330.0,102007.0,1.0,2.0,3.0,4.0,259970.0,86.0,83.0,34.0
+Híbrida,Hombre,Portal Web,Soltero,101801.0,102046.0,1.0,2.0,0.0,5.0,261229.0,84.0,77.0,36.0
+Híbrida,Mujer,Headhunter,Casado,101765.0,102128.0,1.0,2.0,11.0,13.0,301057.0,83.0,69.0,48.0
+Híbrida,Mujer,Referidos,Casado,103517.0,102047.0,1.0,3.0,2.0,4.0,428330.0,88.0,88.0,30.0
+Híbrida,Mujer,Linkedin,Soltero,103761.0,102054.0,1.0,1.0,2.0,5.0,381819.0,85.0,87.0,35.0
+Híbrida,Mujer,Portal Web,Casado,100949.0,102139.0,1.0,5.0,1.0,3.0,208884.0,97.0,71.0,26.0
+Híbrida,Mujer,Portal Web,Soltero,102104.0,102089.0,2.0,7.0,1.0,6.0,743000.0,91.0,61.0,31.0
+Híbrida,Mujer,Referidos,Soltero,100375.0,102129.0,1.0,1.0,3.0,4.0,431734.0,86.0,80.0,38.0
+Híbrida,Hombre,Portal Web,Casado,103520.0,102172.0,1.0,2.0,2.0,7.0,305135.0,84.0,67.0,34.0
+Híbrida,Hombre,Portal Web,Soltero,102205.0,102038.0,1.0,5.0,1.0,7.0,371567.0,83.0,73.0,28.0
+Híbrida,Mujer,Referidos,Soltero,102956.0,102129.0,1.0,1.0,2.0,4.0,430964.0,85.0,80.0,38.0
+Híbrida,Hombre,Portal Web,Soltero,102910.0,102046.0,1.0,2.0,0.0,5.0,259833.0,86.0,77.0,36.0
+Híbrida,Hombre,Linkedin,Divorciado,101546.0,102123.0,1.0,5.0,1.0,5.0,716735.0,92.0,75.0,51.0
+Híbrida,Hombre,Portal Web,Casado,103707.0,102087.0,1.0,1.0,1.0,4.0,328697.0,92.0,60.0,29.0
+Híbrida,Mujer,Portal Web,Soltero,103953.0,102074.0,1.0,2.0,11.0,6.0,391429.0,81.0,73.0,30.0
+Híbrida,Mujer,Linkedin,Casado,103374.0,102059.0,1.0,2.0,0.0,3.0,717366.0,86.0,80.0,45.0
+Híbrida,Mujer,Ferias & Networking,Soltero,101055.0,102134.0,1.0,2.0,2.0,2.0,116906.0,80.0,71.0,21.0
+Híbrida,Hombre,Ferias & Networking,Casado,101297.0,102142.0,1.0,4.0,1.0,1.0,227685.0,97.0,75.0,28.0
+Híbrida,Hombre,Portal Web,Casado,101396.0,102087.0,1.0,1.0,1.0,4.0,326924.0,93.0,60.0,29.0
+Híbrida,Mujer,Linkedin,Casado,100819.0,102023.0,1.0,3.0,0.0,7.0,365292.0,91.0,73.0,26.0
+Híbrida,Mujer,Portal Web,Casado,101819.0,102125.0,1.0,6.0,3.0,14.0,276802.0,81.0,74.0,45.0
+Híbrida,Hombre,Portal Web,Soltero,101096.0,102115.0,1.0,5.0,2.0,9.0,390386.0,98.0,76.0,45.0
+Híbrida,Mujer,Portal Web,Soltero,103582.0,102134.0,1.0,2.0,3.0,2.0,115484.0,93.0,71.0,21.0
+Híbrida,Mujer,Linkedin,Casado,103928.0,102042.0,1.0,5.0,11.0,3.0,863449.0,83.0,81.0,36.0
+Híbrida,Mujer,Portal Web,Casado,102883.0,102040.0,1.0,2.0,1.0,12.0,301002.0,82.0,73.0,40.0
+Híbrida,Hombre,Linkedin,Divorciado,103608.0,102123.0,1.0,5.0,2.0,5.0,717745.0,91.0,75.0,51.0
+Híbrida,Hombre,Ferias & Networking,Soltero,100494.0,102069.0,1.0,3.0,1.0,1.0,142592.0,84.0,76.0,14.0
+Híbrida,Mujer,Linkedin,Casado,100128.0,102130.0,1.0,6.0,8.0,3.0,205851.0,88.0,73.0,29.0
+Híbrida,Mujer,Linkedin,Soltero,100676.0,102060.0,1.0,2.0,9.0,1.0,225508.0,97.0,67.0,20.0
+Híbrida,Hombre,Linkedin,Casado,100708.0,102045.0,1.0,3.0,4.0,6.0,287046.0,83.0,73.0,24.0
+Híbrida,Hombre,Linkedin,Divorciado,101125.0,102122.0,1.0,2.0,10.0,9.0,425333.0,98.0,74.0,47.0
+Híbrida,Hombre,Ferias & Networking,Soltero,102541.0,102069.0,1.0,3.0,0.0,1.0,144093.0,95.0,76.0,14.0
+Híbrida,Mujer,Linkedin,Soltero,103546.0,102138.0,1.0,4.0,3.0,5.0,210944.0,97.0,73.0,29.0
+Híbrida,Hombre,Linkedin,Casado,103844.0,102045.0,1.0,3.0,3.0,6.0,291530.0,82.0,73.0,24.0
+Híbrida,Mujer,Referidos,Soltero,103603.0,102143.0,1.0,1.0,4.0,8.0,366632.0,96.0,76.0,34.0
+Híbrida,Mujer,Linkedin,Casado,102897.0,102023.0,1.0,3.0,1.0,7.0,368755.0,80.0,73.0,26.0
+Híbrida,Hombre,Portal Web,Casado,103313.0,102115.0,1.0,3.0,0.0,8.0,453171.0,80.0,70.0,37.0
+Híbrida,Hombre,Portal Web,Soltero,103745.0,102115.0,1.0,5.0,3.0,9.0,386619.0,86.0,76.0,45.0
+Híbrida,Hombre,Linkedin,Divorciado,103347.0,102122.0,1.0,2.0,11.0,9.0,427337.0,97.0,74.0,47.0
+Híbrida,Hombre,Portal Web,Soltero,103969.0,102041.0,1.0,2.0,2.0,13.0,799982.0,89.0,69.0,44.0
+Híbrida,Mujer,Linkedin,Divorciado,102528.0,102092.0,1.0,5.0,1.0,9.0,856756.0,93.0,82.0,50.0
+Híbrida,Hombre,Linkedin,Casado,103721.0,102144.0,1.0,7.0,3.0,11.0,880763.0,92.0,76.0,55.0
+Híbrida,Hombre,Linkedin,Soltero,101888.0,102054.0,1.0,2.0,2.0,2.0,185944.0,97.0,85.0,19.0
+Híbrida,Hombre,Linkedin,Soltero,102619.0,102054.0,1.0,2.0,2.0,2.0,181818.0,94.0,85.0,19.0
+Híbrida,Mujer,Linkedin,Casado,103861.0,102130.0,1.0,6.0,7.0,3.0,205890.0,92.0,73.0,29.0
+Híbrida,Mujer,Ferias & Networking,Casado,102499.0,102124.0,1.0,3.0,2.0,15.0,412009.0,81.0,73.0,43.0
+Híbrida,Mujer,Portal Web,Viudo,103192.0,102051.0,1.0,3.0,1.0,7.0,878939.0,92.0,79.0,50.0
+Híbrida,Mujer,Portal Web,Casado,101726.0,102055.0,1.0,4.0,1.0,1.0,226087.0,92.0,76.0,23.0
+Híbrida,Mujer,Portal Web,Casado,102834.0,102055.0,1.0,4.0,0.0,1.0,226976.0,90.0,76.0,23.0
+Híbrida,Mujer,Portal Web,Soltero,103547.0,102101.0,1.0,4.0,2.0,9.0,312171.0,80.0,74.0,46.0
+Híbrida,Mujer,Referidos,Soltero,103398.0,102140.0,1.0,2.0,1.0,6.0,734031.0,80.0,66.0,54.0
+Híbrida,Hombre,Ferias & Networking,Casado,101473.0,102116.0,1.0,2.0,0.0,3.0,265665.0,91.0,79.0,28.0
+Híbrida,Mujer,Portal Web,Soltero,103232.0,102049.0,1.0,3.0,2.0,5.0,271492.0,83.0,79.0,37.0
+Híbrida,Hombre,Linkedin,Casado,102243.0,102085.0,1.0,1.0,3.0,5.0,299666.0,94.0,70.0,45.0
+Híbrida,Hombre,Ferias & Networking,Casado,103480.0,102151.0,1.0,3.0,1.0,13.0,739512.0,80.0,85.0,56.0
+Híbrida,Mujer,Portal Web,Soltero,101102.0,102075.0,1.0,3.0,2.0,7.0,276677.0,98.0,71.0,40.0
+Híbrida,Hombre,Ferias & Networking,Casado,101702.0,102151.0,1.0,3.0,0.0,13.0,735351.0,93.0,85.0,56.0
+Híbrida,Hombre,Ferias & Networking,Casado,102931.0,102116.0,1.0,2.0,0.0,3.0,271026.0,95.0,79.0,28.0
+Híbrida,Hombre,Referidos,Soltero,101864.0,102122.0,1.0,4.0,1.0,2.0,101622.0,93.0,77.0,21.0
+Híbrida,Hombre,Referidos,Soltero,102995.0,102122.0,1.0,4.0,2.0,2.0,98968.0,85.0,77.0,21.0
+Híbrida,Hombre,Linkedin,Casado,102199.0,102075.0,1.0,3.0,1.0,7.0,329140.0,83.0,73.0,26.0
+Híbrida,Hombre,Linkedin,Soltero,100637.0,102107.0,1.0,3.0,8.0,1.0,115713.0,87.0,77.0,18.0
+Híbrida,Hombre,Portal Web,Soltero,101129.0,102009.0,1.0,4.0,5.0,4.0,213899.0,96.0,75.0,18.0
+Híbrida,Hombre,Referidos,Soltero,100053.0,102094.0,1.0,3.0,0.0,9.0,347600.0,98.0,88.0,31.0
+Híbrida,Hombre,Referidos,Casado,101666.0,102060.0,1.0,5.0,1.0,10.0,386117.0,85.0,74.0,30.0
+Híbrida,Mujer,Linkedin,Soltero,101466.0,102095.0,1.0,3.0,8.0,6.0,469352.0,86.0,82.0,37.0
+Híbrida,Hombre,Linkedin,Casado,100480.0,102134.0,1.0,3.0,2.0,5.0,699680.0,81.0,78.0,52.0
+Híbrida,Hombre,Ferias & Networking,Soltero,103092.0,102087.0,1.0,7.0,0.0,4.0,191184.0,87.0,73.0,22.0
+Híbrida,Mujer,Portal Web,Soltero,102281.0,102086.0,1.0,4.0,0.0,5.0,233953.0,81.0,79.0,23.0
+Híbrida,Mujer,Referidos,Soltero,103264.0,102143.0,1.0,3.0,0.0,3.0,313610.0,95.0,67.0,33.0
+Híbrida,Hombre,Referidos,Soltero,102559.0,102094.0,1.0,3.0,0.0,9.0,352077.0,91.0,88.0,31.0
+Híbrida,Hombre,Linkedin,Soltero,103645.0,102048.0,1.0,7.0,7.0,6.0,367729.0,90.0,78.0,26.0
+Híbrida,Mujer,Ferias & Networking,Casado,103114.0,102022.0,1.0,1.0,1.0,3.0,449462.0,87.0,81.0,30.0
+Híbrida,Hombre,Portal Web,Casado,103628.0,102139.0,1.0,4.0,4.0,7.0,381081.0,88.0,84.0,43.0
+Híbrida,Hombre,Linkedin,Casado,102425.0,102134.0,1.0,3.0,2.0,5.0,694026.0,84.0,78.0,52.0
+Híbrida,Mujer,Referidos,Casado,100071.0,102088.0,1.0,2.0,2.0,3.0,220469.0,84.0,81.0,22.0
+Híbrida,Mujer,Portal Web,Casado,101207.0,102051.0,1.0,3.0,0.0,1.0,207036.0,96.0,83.0,19.0
+Híbrida,Mujer,Portal Web,Soltero,101046.0,102086.0,1.0,4.0,0.0,5.0,227009.0,85.0,79.0,23.0
+Híbrida,Mujer,Linkedin,Divorciado,101304.0,102108.0,1.0,4.0,2.0,4.0,247579.0,93.0,77.0,26.0
+Híbrida,Mujer,Portal Web,Casado,100492.0,102071.0,1.0,4.0,11.0,3.0,385425.0,91.0,76.0,31.0
+Híbrida,Mujer,Portal Web,Soltero,101352.0,102109.0,1.0,3.0,9.0,9.0,387957.0,88.0,61.0,33.0
+Híbrida,Mujer,Linkedin,Viudo,100003.0,102138.0,1.0,4.0,2.0,10.0,311884.0,92.0,88.0,47.0
+Híbrida,Mujer,Ferias & Networking,Divorciado,101960.0,102060.0,1.0,2.0,0.0,13.0,657562.0,96.0,73.0,43.0
+Híbrida,Mujer,Portal Web,Soltero,101210.0,102101.0,1.0,2.0,1.0,7.0,696894.0,96.0,73.0,48.0
+Híbrida,Mujer,Portal Web,Casado,100405.0,102013.0,1.0,4.0,3.0,13.0,699131.0,96.0,85.0,43.0
+Híbrida,Hombre,Linkedin,Casado,100057.0,102121.0,1.0,7.0,1.0,8.0,721063.0,93.0,78.0,50.0
+Híbrida,Mujer,Ferias & Networking,Soltero,103369.0,102066.0,1.0,2.0,0.0,1.0,139917.0,94.0,65.0,17.0
+Híbrida,Mujer,Referidos,Casado,102587.0,102088.0,1.0,2.0,3.0,3.0,225041.0,91.0,81.0,22.0
+Híbrida,Mujer,Portal Web,Casado,103126.0,102051.0,1.0,3.0,1.0,1.0,205118.0,88.0,83.0,19.0
+Híbrida,Hombre,Portal Web,Soltero,102569.0,102009.0,1.0,4.0,4.0,4.0,206775.0,83.0,75.0,18.0
+Híbrida,Hombre,Referidos,Soltero,102854.0,102040.0,1.0,1.0,2.0,2.0,293269.0,91.0,78.0,22.0
+Híbrida,Hombre,Linkedin,Soltero,102434.0,102139.0,1.0,2.0,1.0,4.0,332010.0,80.0,74.0,34.0
+Híbrida,Hombre,Portal Web,Casado,103878.0,102041.0,1.0,2.0,7.0,11.0,811916.0,83.0,73.0,34.0
+Híbrida,Mujer,Linkedin,Viudo,104053.0,102138.0,1.0,4.0,3.0,10.0,304846.0,80.0,88.0,47.0
+Híbrida,Mujer,Ferias & Networking,Divorciado,102765.0,102060.0,1.0,2.0,0.0,13.0,657156.0,90.0,73.0,43.0
+Híbrida,Hombre,Linkedin,Casado,102318.0,102075.0,1.0,2.0,0.0,20.0,854695.0,91.0,82.0,53.0
+Híbrida,Mujer,Referidos,Soltero,100085.0,102137.0,1.0,3.0,2.0,3.0,119090.0,88.0,81.0,22.0
+Híbrida,Hombre,Referidos,Soltero,100187.0,102070.0,1.0,4.0,5.0,4.0,205349.0,82.0,74.0,20.0
+Híbrida,Mujer,Referidos,Viudo,101013.0,102143.0,1.0,2.0,0.0,6.0,418984.0,91.0,74.0,49.0
+Híbrida,Mujer,Referidos,Viudo,100638.0,102129.0,1.0,1.0,1.0,12.0,293562.0,93.0,72.0,49.0
+Híbrida,Hombre,Linkedin,Casado,101611.0,102137.0,1.0,4.0,1.0,16.0,799729.0,82.0,73.0,52.0
+Híbrida,Mujer,Referidos,Viudo,100655.0,102049.0,1.0,5.0,2.0,3.0,778780.0,87.0,66.0,46.0
+Híbrida,Hombre,Portal Web,Casado,102051.0,102074.0,2.0,1.0,1.0,11.0,1616000.0,83.0,76.0,46.0
+Híbrida,Hombre,Linkedin,Casado,101357.0,102075.0,1.0,2.0,1.0,20.0,861708.0,85.0,82.0,53.0
+Híbrida,Hombre,Referidos,Casado,103095.0,102086.0,1.0,2.0,2.0,1.0,210974.0,87.0,73.0,22.0
+Híbrida,Hombre,Referidos,Soltero,103277.0,102070.0,1.0,4.0,5.0,4.0,210510.0,95.0,74.0,20.0
+Híbrida,Mujer,Linkedin,Divorciado,103590.0,102108.0,1.0,4.0,1.0,4.0,253079.0,93.0,77.0,26.0
+Híbrida,Mujer,Ferias & Networking,Divorciado,103029.0,102060.0,1.0,4.0,0.0,8.0,508151.0,87.0,76.0,35.0
+Híbrida,Hombre,Ferias & Networking,Soltero,103052.0,102120.0,1.0,8.0,2.0,8.0,426918.0,93.0,73.0,45.0
+Híbrida,Mujer,Linkedin,Divorciado,102314.0,102104.0,1.0,2.0,3.0,15.0,451250.0,91.0,81.0,45.0
+Híbrida,Mujer,Referidos,Viudo,102757.0,102049.0,1.0,5.0,3.0,3.0,776268.0,86.0,66.0,46.0
+Híbrida,Hombre,Linkedin,Divorciado,104085.0,102127.0,1.0,2.0,0.0,11.0,721980.0,83.0,86.0,53.0
+Híbrida,Mujer,Portal Web,Soltero,101276.0,102017.0,1.0,2.0,3.0,1.0,188783.0,94.0,68.0,15.0
+Híbrida,Hombre,Ferias & Networking,Casado,100503.0,102111.0,1.0,2.0,2.0,7.0,826997.0,84.0,74.0,36.0
+Híbrida,Mujer,Linkedin,Soltero,101724.0,102048.0,1.0,1.0,1.0,9.0,831923.0,87.0,81.0,36.0
+Híbrida,Mujer,Ferias & Networking,Divorciado,100092.0,102060.0,1.0,4.0,1.0,8.0,511100.0,85.0,76.0,35.0
+Híbrida,Mujer,Referidos,Divorciado,100784.0,102128.0,1.0,3.0,3.0,14.0,678378.0,92.0,78.0,51.0
+Híbrida,Hombre,Linkedin,Soltero,100330.0,102101.0,1.0,4.0,9.0,11.0,674546.0,92.0,76.0,50.0
+Híbrida,Hombre,Portal Web,Soltero,101863.0,102086.0,1.0,2.0,1.0,8.0,677435.0,80.0,76.0,48.0
+Híbrida,Hombre,Linkedin,Divorciado,101197.0,102045.0,1.0,3.0,1.0,6.0,675829.0,80.0,76.0,45.0
+Híbrida,Hombre,Ferias & Networking,Casado,100448.0,102131.0,1.0,7.0,2.0,6.0,875123.0,91.0,76.0,52.0
+Híbrida,Mujer,Portal Web,Divorciado,100501.0,102107.0,1.0,4.0,6.0,10.0,717483.0,87.0,73.0,49.0
+Híbrida,Hombre,Portal Web,Soltero,103545.0,102064.0,1.0,5.0,9.0,1.0,186861.0,93.0,66.0,19.0
+Híbrida,Hombre,Portal Web,Divorciado,103113.0,102036.0,1.0,1.0,8.0,14.0,656915.0,83.0,73.0,41.0
+Híbrida,Mujer,Referidos,Divorciado,102845.0,102128.0,1.0,3.0,2.0,14.0,675600.0,86.0,78.0,50.0
+Híbrida,Hombre,Linkedin,Soltero,103034.0,102101.0,1.0,4.0,8.0,11.0,673844.0,96.0,76.0,50.0
+Híbrida,Mujer,Referidos,Casado,102229.0,102126.0,1.0,3.0,1.0,2.0,200896.0,94.0,83.0,24.0
+Híbrida,Hombre,Ferias & Networking,Casado,102985.0,102111.0,1.0,2.0,2.0,7.0,826324.0,80.0,74.0,36.0
+Híbrida,Hombre,Ferias & Networking,Soltero,103119.0,102149.0,1.0,7.0,3.0,13.0,268966.0,83.0,81.0,45.0
+Híbrida,Hombre,Portal Web,Soltero,103801.0,102086.0,1.0,2.0,0.0,8.0,680824.0,85.0,76.0,48.0
+Híbrida,Mujer,Portal Web,Soltero,100351.0,102074.0,1.0,2.0,1.0,2.0,331232.0,87.0,71.0,29.0
+Híbrida,Mujer,Portal Web,Divorciado,101010.0,102150.0,1.0,1.0,10.0,4.0,278933.0,94.0,74.0,46.0
+Híbrida,Mujer,Portal Web,Soltero,100197.0,102075.0,1.0,1.0,3.0,4.0,274104.0,81.0,81.0,40.0
+Híbrida,Mujer,Linkedin,Soltero,102772.0,102010.0,1.0,2.0,2.0,3.0,205758.0,95.0,74.0,18.0
+Híbrida,Hombre,Portal Web,Casado,102401.0,102152.0,1.0,3.0,3.0,7.0,328883.0,87.0,77.0,33.0
+Híbrida,Hombre,Referidos,Soltero,103267.0,102115.0,1.0,1.0,3.0,6.0,386663.0,81.0,73.0,33.0
+Híbrida,Mujer,Portal Web,Divorciado,103704.0,102150.0,1.0,1.0,11.0,4.0,281904.0,98.0,74.0,46.0
+Híbrida,Hombre,Ferias & Networking,Soltero,101315.0,102056.0,1.0,2.0,0.0,3.0,141647.0,82.0,81.0,18.0
+Híbrida,Mujer,Portal Web,Soltero,100050.0,102032.0,1.0,4.0,5.0,5.0,250902.0,85.0,74.0,20.0
+Híbrida,Hombre,Portal Web,Casado,101448.0,102152.0,1.0,3.0,3.0,7.0,327880.0,82.0,77.0,33.0
+Híbrida,Mujer,Portal Web,Soltero,101958.0,102033.0,1.0,2.0,1.0,2.0,333217.0,92.0,76.0,25.0
+Híbrida,Hombre,Referidos,Divorciado,101385.0,102115.0,1.0,1.0,2.0,6.0,385398.0,97.0,73.0,34.0
+Híbrida,Hombre,Portal Web,Casado,101201.0,102074.0,1.0,4.0,5.0,5.0,444837.0,94.0,73.0,35.0
+Híbrida,Mujer,Linkedin,Casado,100308.0,102171.0,1.0,6.0,1.0,3.0,850829.0,90.0,74.0,42.0
+Híbrida,Hombre,Linkedin,Divorciado,100265.0,102144.0,1.0,2.0,1.0,8.0,411141.0,83.0,73.0,46.0
+Híbrida,Hombre,Portal Web,Divorciado,101354.0,102172.0,1.0,4.0,4.0,4.0,660407.0,82.0,71.0,51.0
+Híbrida,Hombre,Portal Web,Viudo,101997.0,102034.0,1.0,2.0,9.0,10.0,834719.0,88.0,81.0,45.0
+Híbrida,Mujer,Referidos,Soltero,102111.0,102074.0,2.0,2.0,1.0,15.0,1616000.0,94.0,67.0,50.0
+Híbrida,Hombre,Portal Web,Casado,101081.0,102097.0,1.0,1.0,3.0,15.0,893169.0,85.0,71.0,50.0
+Híbrida,Hombre,Ferias & Networking,Casado,102789.0,102070.0,1.0,4.0,1.0,3.0,347780.0,98.0,74.0,28.0
+Híbrida,Hombre,Portal Web,Casado,102891.0,102068.0,1.0,2.0,1.0,3.0,392561.0,98.0,80.0,29.0
+Híbrida,Mujer,Linkedin,Soltero,102671.0,102020.0,1.0,1.0,1.0,4.0,444684.0,97.0,78.0,31.0
+Híbrida,Mujer,Linkedin,Casado,103376.0,102171.0,1.0,6.0,1.0,3.0,844805.0,81.0,74.0,42.0
+Híbrida,Hombre,Portal Web,Casado,102971.0,102048.0,1.0,3.0,3.0,5.0,270783.0,92.0,80.0,37.0
+Híbrida,Hombre,Portal Web,Casado,103439.0,102109.0,1.0,5.0,2.0,7.0,439139.0,92.0,88.0,45.0
+Híbrida,Hombre,Portal Web,Divorciado,103580.0,102144.0,1.0,2.0,1.0,8.0,406193.0,95.0,73.0,47.0
+Híbrida,Hombre,Portal Web,Casado,102320.0,102097.0,1.0,1.0,3.0,15.0,893179.0,85.0,71.0,50.0
+Híbrida,Mujer,Portal Web,Viudo,103834.0,102093.0,1.0,2.0,4.0,24.0,916784.0,85.0,79.0,58.0
+Híbrida,Hombre,Linkedin,Soltero,101874.0,102054.0,1.0,4.0,2.0,1.0,144710.0,89.0,83.0,16.0
+Híbrida,Hombre,Referidos,Casado,101565.0,102097.0,1.0,2.0,2.0,4.0,333566.0,98.0,74.0,30.0
+Híbrida,Mujer,Portal Web,Casado,100270.0,102098.0,1.0,2.0,1.0,7.0,526330.0,94.0,66.0,41.0
+Híbrida,Hombre,Portal Web,Casado,100474.0,102109.0,1.0,5.0,1.0,7.0,437552.0,91.0,88.0,45.0
+Híbrida,Hombre,Linkedin,Casado,100210.0,102011.0,1.0,5.0,0.0,13.0,285285.0,85.0,66.0,37.0
+Híbrida,Hombre,Ferias & Networking,Viudo,100278.0,102063.0,1.0,2.0,3.0,9.0,461495.0,91.0,73.0,42.0
+Híbrida,Mujer,Ferias & Networking,Soltero,100515.0,102153.0,1.0,3.0,1.0,5.0,310264.0,92.0,74.0,50.0
+Híbrida,Mujer,Portal Web,Soltero,103879.0,102032.0,1.0,4.0,5.0,5.0,248635.0,83.0,74.0,20.0
+Híbrida,Mujer,Portal Web,Soltero,103010.0,102033.0,1.0,2.0,2.0,2.0,327485.0,89.0,76.0,25.0
+Híbrida,Mujer,Linkedin,Casado,102390.0,102046.0,1.0,5.0,1.0,8.0,350174.0,85.0,75.0,25.0
+Híbrida,Mujer,Portal Web,Casado,102786.0,102098.0,1.0,2.0,2.0,7.0,530829.0,82.0,66.0,41.0
+Híbrida,Hombre,Portal Web,Soltero,104029.0,102109.0,1.0,2.0,3.0,9.0,658553.0,81.0,76.0,50.0
+Híbrida,Mujer,Ferias & Networking,Soltero,101568.0,102023.0,1.0,3.0,0.0,2.0,78711.0,81.0,86.0,10.0
+Híbrida,Mujer,Referidos,Soltero,101242.0,102095.0,1.0,2.0,2.0,1.0,141950.0,83.0,65.0,19.0
+Híbrida,Hombre,Portal Web,Casado,101370.0,102141.0,1.0,7.0,1.0,7.0,309009.0,87.0,77.0,33.0
+Híbrida,Mujer,Referidos,Casado,102125.0,102073.0,2.0,4.0,2.0,5.0,692000.0,87.0,82.0,29.0
+Híbrida,Mujer,Referidos,Soltero,100933.0,102096.0,1.0,2.0,1.0,3.0,349694.0,97.0,86.0,29.0
+Híbrida,Hombre,Portal Web,Soltero,100221.0,102043.0,1.0,3.0,2.0,5.0,532714.0,80.0,74.0,34.0
+Híbrida,Hombre,Portal Web,Casado,101832.0,102141.0,1.0,2.0,2.0,8.0,638209.0,89.0,76.0,48.0
+Híbrida,Hombre,Linkedin,Soltero,102430.0,102054.0,1.0,4.0,2.0,1.0,146279.0,96.0,83.0,16.0
+Híbrida,Mujer,Referidos,Soltero,103322.0,102123.0,1.0,2.0,2.0,2.0,310183.0,90.0,72.0,30.0
+Híbrida,Mujer,Portal Web,Casado,103885.0,102120.0,1.0,2.0,0.0,3.0,297287.0,97.0,73.0,46.0
+Híbrida,Hombre,Linkedin,Casado,102455.0,102011.0,1.0,5.0,0.0,13.0,291614.0,93.0,66.0,37.0
+Híbrida,Hombre,Portal Web,Casado,102361.0,102133.0,1.0,5.0,4.0,10.0,298751.0,98.0,77.0,47.0
+Híbrida,Mujer,Linkedin,Casado,103841.0,102101.0,1.0,3.0,10.0,8.0,441593.0,93.0,70.0,47.0
+Híbrida,Hombre,Portal Web,Casado,103817.0,102141.0,1.0,2.0,2.0,8.0,635973.0,95.0,76.0,48.0
+Híbrida,Hombre,Portal Web,Casado,101791.0,102122.0,1.0,2.0,1.0,3.0,168591.0,86.0,67.0,24.0
+Híbrida,Hombre,Linkedin,Casado,101350.0,102151.0,1.0,4.0,1.0,3.0,269439.0,96.0,67.0,31.0
+Híbrida,Mujer,Ferias & Networking,Soltero,100498.0,102126.0,1.0,3.0,2.0,3.0,405488.0,95.0,78.0,38.0
+Híbrida,Hombre,Ferias & Networking,Soltero,100216.0,102145.0,1.0,1.0,3.0,4.0,845837.0,88.0,74.0,40.0
+Híbrida,Hombre,Portal Web,Casado,101613.0,102116.0,1.0,1.0,3.0,10.0,466536.0,93.0,79.0,38.0
+Híbrida,Hombre,Linkedin,Soltero,100760.0,102154.0,1.0,3.0,2.0,12.0,376202.0,80.0,74.0,46.0
+Híbrida,Hombre,Portal Web,Casado,101287.0,102133.0,1.0,5.0,4.0,10.0,294642.0,98.0,77.0,47.0
+Híbrida,Hombre,Portal Web,Casado,100766.0,102143.0,1.0,4.0,2.0,3.0,426959.0,98.0,73.0,46.0
+Híbrida,Mujer,Linkedin,Casado,100758.0,102101.0,1.0,4.0,10.0,8.0,441166.0,81.0,70.0,46.0
+Híbrida,Hombre,Referidos,Viudo,101407.0,102133.0,1.0,4.0,2.0,3.0,714494.0,95.0,83.0,53.0
+Híbrida,Mujer,Referidos,Soltero,103482.0,102095.0,1.0,2.0,3.0,1.0,138657.0,91.0,65.0,19.0
+Híbrida,Hombre,Linkedin,Casado,102722.0,102151.0,1.0,4.0,2.0,3.0,264985.0,87.0,67.0,31.0
+Híbrida,Mujer,Referidos,Viudo,102614.0,102137.0,1.0,2.0,2.0,5.0,268174.0,93.0,65.0,31.0
+Híbrida,Mujer,Linkedin,Casado,103265.0,102121.0,1.0,3.0,2.0,5.0,292015.0,90.0,80.0,31.0
+Híbrida,Mujer,Linkedin,Casado,103410.0,102077.0,1.0,6.0,2.0,4.0,346511.0,97.0,82.0,30.0
+Híbrida,Hombre,Linkedin,Soltero,103188.0,102102.0,1.0,3.0,8.0,6.0,366942.0,87.0,73.0,34.0
+Híbrida,Mujer,Ferias & Networking,Soltero,102853.0,102126.0,1.0,3.0,1.0,3.0,407539.0,90.0,78.0,38.0
+Híbrida,Mujer,Referidos,Soltero,103455.0,102057.0,1.0,6.0,2.0,7.0,827504.0,84.0,67.0,31.0
+Híbrida,Hombre,Ferias & Networking,Soltero,103872.0,102145.0,1.0,1.0,2.0,4.0,845200.0,87.0,74.0,40.0
+Híbrida,Hombre,Referidos,Casado,102916.0,102116.0,1.0,1.0,2.0,10.0,473086.0,96.0,79.0,38.0
+Híbrida,Hombre,Ferias & Networking,Casado,101711.0,102112.0,1.0,2.0,3.0,5.0,266059.0,95.0,69.0,30.0
+Híbrida,Mujer,Referidos,Soltero,101003.0,102098.0,1.0,2.0,2.0,2.0,367604.0,87.0,74.0,31.0
+Híbrida,Hombre,Ferias & Networking,Casado,101716.0,102045.0,1.0,7.0,1.0,7.0,413062.0,86.0,79.0,30.0
+Híbrida,Mujer,Portal Web,Soltero,101118.0,102061.0,1.0,5.0,1.0,7.0,269541.0,93.0,76.0,40.0
+Híbrida,Hombre,Portal Web,Casado,102498.0,102122.0,1.0,2.0,1.0,3.0,163767.0,92.0,67.0,24.0
+Híbrida,Mujer,Portal Web,Divorciado,103432.0,102159.0,1.0,2.0,0.0,6.0,229565.0,80.0,73.0,29.0
+Híbrida,Hombre,Ferias & Networking,Casado,102609.0,102112.0,1.0,2.0,2.0,5.0,265508.0,82.0,69.0,30.0
+Híbrida,Hombre,Portal Web,Casado,102266.0,102034.0,1.0,3.0,1.0,4.0,302401.0,83.0,84.0,41.0
+Híbrida,Hombre,Linkedin,Divorciado,102521.0,102065.0,1.0,3.0,2.0,7.0,659453.0,95.0,73.0,44.0
+Híbrida,Hombre,Portal Web,Soltero,100521.0,102109.0,1.0,2.0,2.0,2.0,123199.0,97.0,64.0,18.0
+Híbrida,Hombre,Ferias & Networking,Casado,100748.0,102149.0,1.0,6.0,0.0,12.0,795452.0,93.0,81.0,49.0
+Híbrida,Hombre,Portal Web,Soltero,104001.0,102106.0,1.0,1.0,3.0,4.0,280861.0,83.0,73.0,43.0
+Híbrida,Hombre,Linkedin,Viudo,103266.0,102082.0,1.0,4.0,2.0,5.0,289296.0,97.0,80.0,40.0
+Híbrida,Hombre,Portal Web,Soltero,101681.0,102037.0,1.0,2.0,2.0,1.0,118639.0,97.0,67.0,12.0
+Híbrida,Hombre,Portal Web,Soltero,103686.0,102037.0,1.0,2.0,2.0,1.0,115638.0,98.0,67.0,12.0
+Híbrida,Hombre,Linkedin,Casado,100058.0,102113.0,1.0,3.0,1.0,6.0,366459.0,89.0,73.0,32.0
+Híbrida,Hombre,Linkedin,Soltero,101741.0,102063.0,1.0,3.0,10.0,4.0,268991.0,89.0,77.0,24.0
+Híbrida,Hombre,Linkedin,Viudo,102105.0,102074.0,2.0,2.0,0.0,8.0,1616000.0,85.0,71.0,46.0
+Híbrida,Mujer,Portal Web,Viudo,101005.0,102113.0,1.0,2.0,7.0,15.0,921943.0,94.0,72.0,57.0
+Híbrida,Hombre,Linkedin,Soltero,104168.0,102063.0,1.0,3.0,10.0,4.0,272969.0,89.0,77.0,24.0
+Híbrida,Mujer,Referidos,Soltero,103468.0,102044.0,1.0,1.0,2.0,6.0,325139.0,80.0,80.0,25.0
+Híbrida,Hombre,Portal Web,Casado,103080.0,102049.0,1.0,2.0,2.0,5.0,308042.0,81.0,73.0,40.0
+Híbrida,Mujer,Portal Web,Viudo,103764.0,102113.0,1.0,2.0,8.0,15.0,913615.0,95.0,72.0,56.0
+Híbrida,Mujer,Portal Web,Soltero,101383.0,102149.0,1.0,1.0,0.0,3.0,190242.0,92.0,74.0,28.0
+Híbrida,Hombre,Linkedin,Casado,102293.0,102052.0,1.0,7.0,3.0,10.0,397132.0,84.0,78.0,35.0
+Híbrida,Mujer,Portal Web,Casado,101313.0,102049.0,1.0,1.0,4.0,2.0,326037.0,81.0,84.0,24.0
+Híbrida,Hombre,Ferias & Networking,Casado,101859.0,102052.0,1.0,7.0,3.0,10.0,393264.0,89.0,78.0,35.0
+Híbrida,Mujer,Linkedin,Casado,101361.0,102149.0,1.0,3.0,0.0,7.0,713815.0,85.0,69.0,54.0
+Híbrida,Hombre,Referidos,Casado,100051.0,102023.0,1.0,2.0,2.0,11.0,740808.0,84.0,69.0,46.0
+Híbrida,Hombre,Portal Web,Soltero,102467.0,102064.0,1.0,4.0,1.0,5.0,420760.0,81.0,75.0,39.0
+Híbrida,Hombre,Portal Web,Viudo,102690.0,102017.0,1.0,7.0,1.0,4.0,300116.0,92.0,73.0,38.0
+Híbrida,Hombre,Referidos,Casado,102547.0,102023.0,1.0,2.0,2.0,11.0,737424.0,85.0,69.0,46.0
+Híbrida,Mujer,Portal Web,Divorciado,100934.0,102111.0,1.0,5.0,11.0,7.0,453282.0,81.0,74.0,37.0
+Híbrida,Hombre,Portal Web,Soltero,101885.0,102113.0,1.0,3.0,8.0,11.0,404235.0,97.0,84.0,46.0
+Híbrida,Hombre,Portal Web,Viudo,100162.0,102061.0,1.0,3.0,3.0,7.0,695683.0,88.0,74.0,47.0
+Híbrida,Mujer,Referidos,Soltero,102198.0,102145.0,1.0,1.0,2.0,1.0,102858.0,96.0,74.0,20.0
+Híbrida,Mujer,Portal Web,Divorciado,102784.0,102111.0,1.0,5.0,12.0,7.0,450734.0,95.0,74.0,37.0
+Híbrida,Mujer,Portal Web,Soltero,104112.0,102024.0,1.0,2.0,8.0,10.0,276193.0,87.0,80.0,37.0
+Híbrida,Hombre,Portal Web,Soltero,103509.0,102113.0,1.0,3.0,8.0,11.0,405691.0,87.0,84.0,46.0
+Híbrida,Hombre,Portal Web,Viudo,103792.0,102061.0,1.0,3.0,2.0,7.0,701239.0,97.0,74.0,47.0
+Híbrida,Mujer,Linkedin,Soltero,103293.0,102031.0,1.0,3.0,1.0,10.0,716224.0,86.0,86.0,45.0
+Híbrida,Hombre,Referidos,Viudo,102305.0,102101.0,1.0,1.0,2.0,12.0,916390.0,95.0,66.0,57.0
+Híbrida,Hombre,Referidos,Soltero,100893.0,102061.0,1.0,6.0,1.0,2.0,83704.0,94.0,74.0,12.0
+Híbrida,Hombre,Linkedin,Casado,100900.0,102126.0,1.0,3.0,6.0,4.0,449327.0,81.0,78.0,38.0
+Híbrida,Mujer,Portal Web,Soltero,103511.0,102078.0,1.0,2.0,1.0,6.0,271697.0,87.0,79.0,24.0
+Híbrida,Hombre,Portal Web,Soltero,103271.0,102055.0,1.0,3.0,5.0,9.0,326776.0,97.0,80.0,26.0
+Híbrida,Hombre,Linkedin,Casado,103691.0,102126.0,1.0,3.0,6.0,4.0,446047.0,82.0,78.0,37.0
+Híbrida,Mujer,Referidos,Divorciado,100376.0,102046.0,1.0,3.0,1.0,1.0,81686.0,93.0,75.0,13.0
+Híbrida,Hombre,Referidos,Soltero,102669.0,102061.0,1.0,6.0,2.0,2.0,76694.0,84.0,74.0,12.0
+Híbrida,Mujer,Portal Web,Soltero,100181.0,102077.0,1.0,1.0,2.0,1.0,160461.0,81.0,88.0,20.0
+Híbrida,Mujer,Referidos,Divorciado,102484.0,102046.0,1.0,3.0,1.0,1.0,77082.0,87.0,75.0,13.0
+Híbrida,Mujer,Portal Web,Soltero,104166.0,102077.0,1.0,1.0,2.0,1.0,162787.0,90.0,88.0,20.0
+Híbrida,Mujer,Portal Web,Soltero,103990.0,102120.0,1.0,8.0,2.0,8.0,290405.0,91.0,84.0,30.0
+Híbrida,Mujer,Portal Web,Soltero,102466.0,102091.0,1.0,3.0,5.0,10.0,384814.0,89.0,79.0,32.0
+Híbrida,Mujer,Ferias & Networking,Soltero,102578.0,102040.0,1.0,6.0,0.0,16.0,657156.0,85.0,73.0,42.0
+Híbrida,Hombre,Ferias & Networking,Soltero,103702.0,102079.0,1.0,1.0,2.0,5.0,698070.0,80.0,66.0,49.0
+Híbrida,Mujer,Portal Web,Casado,103578.0,102021.0,1.0,2.0,17.0,4.0,333545.0,83.0,81.0,25.0
+Híbrida,Mujer,Portal Web,Soltero,100519.0,102115.0,1.0,3.0,2.0,8.0,472675.0,86.0,73.0,40.0
+Híbrida,Hombre,Portal Web,Divorciado,102706.0,102089.0,1.0,2.0,3.0,1.0,389958.0,88.0,83.0,39.0
+Híbrida,Mujer,Portal Web,Casado,101020.0,102114.0,1.0,1.0,2.0,4.0,386323.0,85.0,77.0,36.0
+Híbrida,Hombre,Portal Web,Divorciado,101947.0,102089.0,1.0,2.0,3.0,1.0,391073.0,88.0,83.0,39.0
+Híbrida,Hombre,Ferias & Networking,Casado,102882.0,102044.0,1.0,5.0,3.0,12.0,467977.0,90.0,65.0,34.0
+Híbrida,Mujer,Ferias & Networking,Casado,101934.0,102123.0,1.0,3.0,1.0,4.0,791071.0,87.0,79.0,36.0
+Híbrida,Mujer,Portal Web,Viudo,101910.0,102113.0,1.0,4.0,1.0,6.0,838763.0,87.0,67.0,50.0
+Híbrida,Mujer,Portal Web,Viudo,103808.0,102113.0,1.0,4.0,1.0,6.0,834959.0,81.0,67.0,50.0
+Híbrida,Mujer,Referidos,Soltero,102710.0,102087.0,1.0,3.0,3.0,8.0,717061.0,81.0,62.0,48.0
+Híbrida,Mujer,Referidos,Casado,100531.0,102159.0,1.0,4.0,0.0,3.0,186707.0,95.0,68.0,26.0
+Híbrida,Mujer,Ferias & Networking,Casado,100754.0,102023.0,1.0,5.0,2.0,7.0,289606.0,93.0,74.0,22.0
+Híbrida,Mujer,Ferias & Networking,Casado,102860.0,102023.0,1.0,5.0,2.0,7.0,292423.0,80.0,74.0,22.0
+Híbrida,Mujer,Referidos,Soltero,101425.0,102065.0,1.0,4.0,2.0,2.0,124196.0,86.0,75.0,16.0
+Híbrida,Mujer,Linkedin,Soltero,101586.0,102054.0,1.0,2.0,2.0,2.0,161547.0,89.0,66.0,15.0
+Híbrida,Mujer,Linkedin,Casado,101700.0,102140.0,1.0,3.0,1.0,4.0,267576.0,82.0,77.0,32.0
+Híbrida,Hombre,Linkedin,Casado,101994.0,102159.0,1.0,1.0,2.0,6.0,307576.0,93.0,68.0,34.0
+Híbrida,Hombre,Ferias & Networking,Soltero,100968.0,102150.0,1.0,3.0,1.0,7.0,349639.0,89.0,84.0,36.0
+Híbrida,Hombre,Portal Web,Casado,100166.0,102145.0,1.0,1.0,2.0,12.0,505195.0,88.0,78.0,44.0
+Híbrida,Mujer,Referidos,Soltero,100443.0,102172.0,1.0,5.0,3.0,11.0,251089.0,90.0,78.0,44.0
+Híbrida,Mujer,Portal Web,Soltero,101056.0,102171.0,1.0,1.0,2.0,7.0,252126.0,90.0,71.0,44.0
+Híbrida,Mujer,Linkedin,Casado,100588.0,102172.0,1.0,4.0,0.0,4.0,269039.0,97.0,61.0,45.0
+Híbrida,Hombre,Referidos,Soltero,102076.0,102074.0,2.0,2.0,1.0,9.0,1616000.0,95.0,82.0,53.0
+Híbrida,Mujer,Portal Web,Soltero,104055.0,102168.0,1.0,2.0,3.0,1.0,75575.0,86.0,82.0,21.0
+Híbrida,Mujer,Portal Web,Soltero,104033.0,102172.0,1.0,2.0,9.0,2.0,95941.0,90.0,76.0,22.0
+Híbrida,Mujer,Linkedin,Soltero,102855.0,102140.0,1.0,3.0,1.0,4.0,266226.0,86.0,77.0,32.0
+Híbrida,Hombre,Referidos,Casado,103440.0,102172.0,1.0,3.0,3.0,9.0,346306.0,83.0,72.0,36.0
+Híbrida,Hombre,Ferias & Networking,Soltero,103424.0,102150.0,1.0,3.0,2.0,7.0,345768.0,86.0,84.0,36.0
+Híbrida,Mujer,Linkedin,Soltero,103689.0,102154.0,1.0,3.0,4.0,2.0,406239.0,92.0,73.0,38.0
+Híbrida,Mujer,Portal Web,Soltero,102893.0,102137.0,1.0,3.0,1.0,8.0,788922.0,90.0,75.0,39.0
+Híbrida,Hombre,Portal Web,Divorciado,103956.0,102145.0,1.0,1.0,2.0,12.0,504835.0,82.0,78.0,44.0
+Híbrida,Mujer,Referidos,Soltero,104012.0,102172.0,1.0,5.0,3.0,11.0,247302.0,97.0,78.0,44.0
+Híbrida,Mujer,Portal Web,Soltero,103924.0,102171.0,1.0,1.0,3.0,7.0,251388.0,95.0,71.0,44.0
+Híbrida,Hombre,Ferias & Networking,Casado,102905.0,102171.0,1.0,1.0,0.0,4.0,320234.0,95.0,66.0,50.0
+Híbrida,Mujer,Linkedin,Viudo,103793.0,102143.0,1.0,5.0,9.0,5.0,701890.0,95.0,71.0,54.0
+Presencial,Hombre,Linkedin,Soltero,101901.0,102113.0,1.0,8.0,9.0,4.0,305190.0,98.0,63.0,31.0
+Presencial,Hombre,Portal Web,Soltero,101660.0,102038.0,1.0,2.0,7.0,4.0,365596.0,98.0,80.0,25.0
+Presencial,Hombre,Linkedin,Soltero,101018.0,102144.0,1.0,2.0,1.0,1.0,103239.0,97.0,83.0,20.0
+Presencial,Hombre,Portal Web,Soltero,103254.0,102053.0,1.0,2.0,0.0,6.0,333504.0,97.0,83.0,26.0
+Presencial,Hombre,Portal Web,Soltero,102869.0,102038.0,1.0,2.0,8.0,4.0,364718.0,97.0,80.0,25.0
+Presencial,Hombre,Linkedin,Soltero,100978.0,102082.0,1.0,3.0,1.0,4.0,142413.0,96.0,76.0,20.0
+Presencial,Hombre,Referidos,Casado,101746.0,102040.0,1.0,6.0,3.0,6.0,347841.0,96.0,84.0,27.0
+Presencial,Hombre,Portal Web,Soltero,100318.0,102053.0,1.0,2.0,1.0,6.0,328519.0,96.0,83.0,27.0
+Presencial,Hombre,Portal Web,Soltero,101237.0,102029.0,1.0,2.0,2.0,8.0,369467.0,96.0,84.0,27.0
+Presencial,Mujer,Ferias & Networking,Casado,100191.0,102045.0,1.0,1.0,1.0,11.0,740305.0,96.0,79.0,48.0
+Presencial,Hombre,Portal Web,Casado,103667.0,102108.0,1.0,2.0,3.0,3.0,186538.0,96.0,86.0,22.0
+Presencial,Hombre,Referidos,Soltero,102525.0,102029.0,1.0,2.0,1.0,8.0,370294.0,96.0,84.0,27.0
+Presencial,Hombre,Portal Web,Casado,102899.0,102046.0,1.0,4.0,0.0,5.0,372499.0,96.0,60.0,25.0
+Presencial,Mujer,Referidos,Casado,103101.0,102074.0,1.0,3.0,1.0,9.0,919132.0,96.0,60.0,48.0
+Presencial,Hombre,Ferias & Networking,Soltero,100721.0,102150.0,1.0,2.0,2.0,2.0,118445.0,95.0,78.0,22.0
+Presencial,Mujer,Portal Web,Soltero,101730.0,102105.0,1.0,6.0,0.0,4.0,188838.0,95.0,69.0,24.0
+Presencial,Hombre,Portal Web,Casado,101100.0,102046.0,1.0,4.0,0.0,5.0,369697.0,95.0,60.0,25.0
+Presencial,Hombre,Ferias & Networking,Casado,100156.0,102069.0,1.0,1.0,2.0,10.0,406690.0,95.0,78.0,33.0
+Presencial,Mujer,Referidos,Casado,100834.0,102126.0,1.0,2.0,2.0,5.0,277679.0,95.0,79.0,44.0
+Presencial,Hombre,Linkedin,Soltero,103767.0,102082.0,1.0,3.0,0.0,4.0,148029.0,95.0,76.0,20.0
+Presencial,Hombre,Linkedin,Casado,102317.0,102112.0,1.0,2.0,2.0,5.0,447340.0,95.0,69.0,36.0
+Presencial,Hombre,Linkedin,Casado,103890.0,102093.0,1.0,2.0,2.0,5.0,486851.0,95.0,75.0,39.0
+Presencial,Hombre,Ferias & Networking,Soltero,103923.0,102145.0,1.0,5.0,3.0,11.0,441957.0,95.0,75.0,45.0
+Presencial,Hombre,Portal Web,Casado,100047.0,102107.0,1.0,2.0,9.0,7.0,390504.0,94.0,71.0,32.0
+Presencial,Hombre,Linkedin,Casado,101652.0,102093.0,1.0,2.0,3.0,5.0,486356.0,94.0,75.0,39.0
+Presencial,Mujer,Portal Web,Soltero,100889.0,102089.0,1.0,5.0,2.0,11.0,491085.0,94.0,82.0,36.0
+Presencial,Mujer,Portal Web,Soltero,102115.0,102074.0,2.0,2.0,2.0,4.0,1616000.0,94.0,76.0,35.0
+Presencial,Mujer,Portal Web,Soltero,102959.0,102116.0,1.0,2.0,0.0,8.0,413318.0,94.0,77.0,34.0
+Presencial,Hombre,Ferias & Networking,Casado,103470.0,102069.0,1.0,1.0,2.0,10.0,406721.0,94.0,78.0,33.0
+Presencial,Hombre,Ferias & Networking,Soltero,103200.0,102100.0,1.0,2.0,1.0,10.0,301343.0,94.0,71.0,44.0
+Presencial,Mujer,Ferias & Networking,Casado,100245.0,102025.0,1.0,5.0,2.0,16.0,741195.0,93.0,75.0,46.0
+Presencial,Mujer,Ferias & Networking,Viudo,103275.0,102103.0,1.0,4.0,3.0,2.0,188490.0,93.0,76.0,24.0
+Presencial,Mujer,Portal Web,Soltero,103902.0,102089.0,1.0,5.0,3.0,11.0,489516.0,93.0,82.0,36.0
+Presencial,Mujer,Ferias & Networking,Soltero,100133.0,102172.0,1.0,2.0,0.0,1.0,145872.0,92.0,68.0,25.0
+Presencial,Mujer,Referidos,Casado,101323.0,102133.0,1.0,3.0,1.0,4.0,186663.0,92.0,71.0,25.0
+Presencial,Mujer,Referidos,Soltero,101263.0,102080.0,1.0,2.0,1.0,3.0,325734.0,92.0,76.0,27.0
+Presencial,Hombre,Ferias & Networking,Viudo,101715.0,102105.0,1.0,2.0,2.0,14.0,697860.0,92.0,74.0,48.0
+Presencial,Mujer,Referidos,Casado,102996.0,102133.0,1.0,3.0,1.0,4.0,186551.0,92.0,71.0,26.0
+Presencial,Mujer,Linkedin,Casado,102560.0,102095.0,1.0,3.0,5.0,6.0,491616.0,92.0,66.0,40.0
+Presencial,Hombre,Linkedin,Soltero,100719.0,102031.0,1.0,2.0,1.0,1.0,77478.0,91.0,69.0,12.0
+Presencial,Mujer,Portal Web,Soltero,100135.0,102080.0,1.0,3.0,2.0,1.0,104382.0,91.0,72.0,17.0
+Presencial,Mujer,Ferias & Networking,Soltero,100860.0,102116.0,1.0,6.0,2.0,1.0,119561.0,91.0,67.0,20.0
+Presencial,Mujer,Linkedin,Casado,100236.0,102134.0,1.0,2.0,1.0,2.0,139283.0,91.0,75.0,23.0
+Presencial,Mujer,Linkedin,Soltero,100473.0,102084.0,1.0,3.0,0.0,2.0,137943.0,91.0,76.0,19.0
+Presencial,Mujer,Portal Web,Soltero,101834.0,102080.0,1.0,2.0,0.0,1.0,144399.0,91.0,78.0,18.0
+Presencial,Hombre,Referidos,Soltero,100547.0,102052.0,1.0,1.0,0.0,3.0,136629.0,91.0,83.0,14.0
+Presencial,Hombre,Ferias & Networking,Casado,100703.0,102135.0,1.0,5.0,2.0,3.0,145957.0,91.0,75.0,23.0
+Presencial,Hombre,Portal Web,Soltero,101915.0,102105.0,1.0,2.0,1.0,3.0,165327.0,91.0,71.0,21.0
+Presencial,Mujer,Ferias & Networking,Soltero,100826.0,102004.0,1.0,5.0,0.0,4.0,167216.0,91.0,82.0,15.0
+Presencial,Mujer,Linkedin,Soltero,100583.0,102056.0,1.0,2.0,3.0,5.0,206147.0,91.0,76.0,19.0
+Presencial,Hombre,Portal Web,Casado,100461.0,102028.0,1.0,6.0,2.0,1.0,204697.0,91.0,72.0,16.0
+Presencial,Mujer,Portal Web,Soltero,100336.0,102057.0,1.0,4.0,3.0,6.0,210282.0,91.0,78.0,22.0
+Presencial,Mujer,Headhunter,Casado,100691.0,102140.0,1.0,2.0,1.0,1.0,226118.0,91.0,70.0,30.0
+Presencial,Mujer,Portal Web,Casado,101559.0,102107.0,1.0,4.0,4.0,2.0,251781.0,91.0,84.0,28.0
+Presencial,Hombre,Portal Web,Casado,100866.0,102063.0,1.0,2.0,1.0,8.0,249210.0,91.0,88.0,22.0
+Presencial,Hombre,Ferias & Networking,Casado,101521.0,102107.0,1.0,3.0,1.0,6.0,270398.0,91.0,78.0,27.0
+Presencial,Mujer,Portal Web,Divorciado,100657.0,102111.0,1.0,1.0,2.0,4.0,292238.0,91.0,67.0,28.0
+Presencial,Mujer,Ferias & Networking,Casado,101542.0,102033.0,1.0,7.0,1.0,4.0,288188.0,91.0,76.0,23.0
+Presencial,Hombre,Ferias & Networking,Casado,100410.0,102155.0,1.0,4.0,0.0,6.0,330663.0,91.0,69.0,33.0
+Presencial,Mujer,Referidos,Casado,100601.0,102106.0,1.0,2.0,1.0,6.0,333503.0,91.0,79.0,31.0
+Presencial,Mujer,Linkedin,Casado,101510.0,102042.0,1.0,2.0,9.0,8.0,329309.0,91.0,74.0,24.0
+Presencial,Hombre,Headhunter,Soltero,100957.0,102091.0,1.0,2.0,0.0,8.0,364595.0,91.0,72.0,33.0
+Presencial,Hombre,Portal Web,Soltero,100843.0,102129.0,1.0,2.0,7.0,4.0,412815.0,91.0,78.0,36.0
+Presencial,Mujer,Referidos,Casado,101843.0,102148.0,1.0,2.0,2.0,3.0,767069.0,91.0,83.0,36.0
+Presencial,Hombre,Linkedin,Soltero,100822.0,102101.0,1.0,2.0,3.0,2.0,385116.0,91.0,67.0,32.0
+Presencial,Hombre,Linkedin,Soltero,101713.0,102058.0,1.0,4.0,1.0,6.0,410350.0,91.0,76.0,30.0
+Presencial,Hombre,Portal Web,Soltero,101728.0,102106.0,1.0,1.0,3.0,11.0,432741.0,91.0,67.0,37.0
+Presencial,Hombre,Referidos,Casado,100543.0,102151.0,1.0,4.0,1.0,5.0,432341.0,91.0,75.0,40.0
+Presencial,Hombre,Referidos,Casado,101825.0,102023.0,1.0,2.0,3.0,9.0,428510.0,91.0,70.0,29.0
+Presencial,Hombre,Referidos,Casado,100953.0,102043.0,1.0,3.0,2.0,7.0,429821.0,91.0,60.0,29.0
+Presencial,Mujer,Headhunter,Viudo,100982.0,102125.0,1.0,2.0,1.0,8.0,470118.0,91.0,86.0,39.0
+Presencial,Mujer,Ferias & Networking,Soltero,100374.0,102066.0,1.0,3.0,3.0,11.0,449921.0,91.0,83.0,34.0
+Presencial,Mujer,Linkedin,Soltero,100904.0,102057.0,1.0,2.0,0.0,10.0,473299.0,91.0,80.0,34.0
+Presencial,Hombre,Linkedin,Casado,100456.0,102052.0,1.0,3.0,8.0,10.0,466136.0,91.0,70.0,32.0
+Presencial,Mujer,Referidos,Casado,101447.0,102051.0,1.0,2.0,2.0,9.0,828970.0,91.0,67.0,32.0
+Presencial,Mujer,Linkedin,Casado,101291.0,102095.0,1.0,3.0,4.0,6.0,489706.0,91.0,66.0,40.0
+Presencial,Mujer,Portal Web,Casado,101179.0,102065.0,1.0,4.0,0.0,6.0,505935.0,91.0,77.0,35.0
+Presencial,Hombre,Portal Web,Soltero,101072.0,102078.0,1.0,2.0,2.0,9.0,377505.0,91.0,82.0,40.0
+Presencial,Mujer,Linkedin,Casado,101494.0,102065.0,1.0,3.0,10.0,11.0,271240.0,91.0,75.0,39.0
+Presencial,Hombre,Portal Web,Casado,101877.0,102046.0,1.0,2.0,0.0,6.0,410749.0,91.0,79.0,37.0
+Presencial,Mujer,Portal Web,Divorciado,101985.0,102044.0,1.0,3.0,7.0,7.0,455066.0,91.0,69.0,36.0
+Presencial,Hombre,Ferias & Networking,Casado,100298.0,102124.0,1.0,3.0,1.0,6.0,275496.0,91.0,72.0,46.0
+Presencial,Mujer,Portal Web,Casado,100627.0,102118.0,1.0,6.0,0.0,6.0,274133.0,91.0,72.0,45.0
+Presencial,Hombre,Portal Web,Soltero,100271.0,102108.0,1.0,5.0,2.0,5.0,280288.0,91.0,75.0,43.0
+Presencial,Mujer,Linkedin,Casado,100453.0,102092.0,1.0,6.0,8.0,4.0,387132.0,91.0,75.0,43.0
+Presencial,Mujer,Portal Web,Casado,101948.0,102045.0,1.0,3.0,1.0,14.0,288347.0,91.0,69.0,38.0
+Presencial,Mujer,Portal Web,Soltero,101206.0,102154.0,1.0,7.0,3.0,11.0,284400.0,91.0,82.0,47.0
+Presencial,Mujer,Linkedin,Soltero,101471.0,102026.0,1.0,1.0,8.0,5.0,453173.0,91.0,71.0,39.0
+Presencial,Mujer,Ferias & Networking,Divorciado,101810.0,102074.0,1.0,2.0,1.0,7.0,294484.0,91.0,62.0,42.0
+Presencial,Hombre,Ferias & Networking,Divorciado,101312.0,102153.0,1.0,2.0,1.0,13.0,800257.0,91.0,75.0,49.0
+Presencial,Hombre,Portal Web,Viudo,100014.0,102086.0,1.0,3.0,3.0,11.0,396663.0,91.0,71.0,45.0
+Presencial,Hombre,Linkedin,Casado,101128.0,102082.0,1.0,2.0,0.0,5.0,308017.0,91.0,83.0,43.0
+Presencial,Hombre,Portal Web,Viudo,101455.0,102032.0,1.0,3.0,3.0,13.0,312183.0,91.0,69.0,39.0
+Presencial,Hombre,Portal Web,Casado,101614.0,102020.0,1.0,2.0,0.0,6.0,308408.0,91.0,68.0,39.0
+Presencial,Mujer,Portal Web,Casado,100000.0,102085.0,1.0,6.0,7.0,13.0,815948.0,91.0,79.0,46.0
+Presencial,Mujer,Portal Web,Casado,100345.0,102085.0,1.0,1.0,1.0,3.0,633952.0,91.0,83.0,45.0
+Presencial,Hombre,Linkedin,Divorciado,100985.0,102035.0,1.0,3.0,3.0,13.0,637505.0,91.0,78.0,43.0
+Presencial,Hombre,Portal Web,Viudo,101905.0,102065.0,1.0,4.0,1.0,5.0,637519.0,91.0,69.0,43.0
+Presencial,Hombre,Portal Web,Viudo,101381.0,102134.0,1.0,2.0,3.0,16.0,654393.0,91.0,85.0,52.0
+Presencial,Hombre,Linkedin,Viudo,100380.0,102118.0,1.0,2.0,2.0,10.0,658648.0,91.0,78.0,49.0
+Presencial,Mujer,Linkedin,Casado,100358.0,102063.0,1.0,2.0,2.0,8.0,874696.0,91.0,83.0,46.0
+Presencial,Hombre,Portal Web,Casado,101403.0,102016.0,1.0,2.0,1.0,16.0,662510.0,91.0,74.0,42.0
+Presencial,Mujer,Linkedin,Viudo,101579.0,102014.0,1.0,3.0,8.0,8.0,780585.0,91.0,74.0,41.0
+Presencial,Hombre,Portal Web,Divorciado,100776.0,102103.0,1.0,5.0,2.0,3.0,674558.0,91.0,74.0,50.0
+Presencial,Hombre,Portal Web,Viudo,101427.0,102070.0,1.0,3.0,2.0,13.0,857862.0,91.0,75.0,45.0
+Presencial,Mujer,Linkedin,Divorciado,101074.0,102112.0,1.0,2.0,3.0,5.0,694744.0,91.0,91.0,49.0
+Presencial,Mujer,Portal Web,Casado,101727.0,102162.0,1.0,1.0,2.0,9.0,733623.0,91.0,84.0,54.0
+Presencial,Hombre,Portal Web,Soltero,101423.0,102071.0,1.0,3.0,10.0,11.0,737903.0,91.0,77.0,49.0
+Presencial,Hombre,Linkedin,Divorciado,100523.0,102103.0,1.0,6.0,3.0,14.0,741382.0,91.0,84.0,53.0
+Presencial,Hombre,Ferias & Networking,Viudo,100541.0,102113.0,1.0,3.0,2.0,4.0,794077.0,91.0,73.0,52.0
+Presencial,Mujer,Portal Web,Divorciado,101413.0,102112.0,1.0,1.0,1.0,8.0,733583.0,91.0,82.0,51.0
+Presencial,Mujer,Referidos,Divorciado,100563.0,102061.0,1.0,5.0,1.0,19.0,735879.0,91.0,71.0,49.0
+Presencial,Mujer,Portal Web,Divorciado,101508.0,102018.0,1.0,5.0,3.0,7.0,735398.0,91.0,76.0,46.0
+Presencial,Hombre,Linkedin,Casado,100214.0,102003.0,1.0,2.0,4.0,19.0,737789.0,91.0,79.0,45.0
+Presencial,Hombre,Portal Web,Casado,100147.0,102145.0,1.0,2.0,2.0,9.0,860804.0,91.0,82.0,57.0
+Presencial,Mujer,Referidos,Casado,100554.0,102134.0,1.0,4.0,0.0,18.0,894605.0,91.0,69.0,57.0
+Presencial,Hombre,Ferias & Networking,Soltero,102448.0,102061.0,1.0,2.0,3.0,1.0,96258.0,91.0,72.0,12.0
+Presencial,Hombre,Portal Web,Soltero,104142.0,102128.0,1.0,4.0,5.0,2.0,101612.0,91.0,81.0,21.0
+Presencial,Mujer,Linkedin,Soltero,103918.0,102134.0,1.0,2.0,1.0,2.0,143747.0,91.0,75.0,23.0
+Presencial,Hombre,Portal Web,Soltero,103957.0,102126.0,1.0,7.0,2.0,3.0,143590.0,91.0,71.0,21.0
+Presencial,Mujer,Linkedin,Casado,103141.0,102094.0,1.0,4.0,3.0,2.0,140037.0,91.0,81.0,18.0
+Presencial,Mujer,Portal Web,Soltero,102676.0,102017.0,1.0,2.0,0.0,1.0,147227.0,91.0,75.0,13.0
+Presencial,Mujer,Portal Web,Soltero,102835.0,102080.0,1.0,2.0,1.0,1.0,143000.0,91.0,78.0,19.0
+Presencial,Hombre,Portal Web,Soltero,102873.0,102047.0,1.0,3.0,3.0,1.0,162171.0,91.0,78.0,18.0
+Presencial,Hombre,Portal Web,Soltero,104025.0,102035.0,1.0,2.0,7.0,4.0,160588.0,91.0,69.0,15.0
+Presencial,Hombre,Linkedin,Soltero,102580.0,102130.0,1.0,1.0,2.0,5.0,207882.0,91.0,70.0,27.0
+Presencial,Hombre,Linkedin,Casado,104143.0,102127.0,1.0,1.0,8.0,1.0,210470.0,91.0,80.0,25.0
+Presencial,Hombre,Referidos,Casado,102469.0,102147.0,1.0,2.0,1.0,6.0,244964.0,91.0,67.0,29.0
+Presencial,Mujer,Portal Web,Casado,102406.0,102107.0,1.0,4.0,5.0,2.0,251636.0,91.0,84.0,28.0
+Presencial,Mujer,Ferias & Networking,Soltero,102686.0,102069.0,1.0,8.0,2.0,7.0,269545.0,91.0,63.0,24.0
+Presencial,Mujer,Portal Web,Divorciado,102444.0,102111.0,1.0,1.0,2.0,4.0,290363.0,91.0,67.0,28.0
+Presencial,Mujer,Referidos,Soltero,102404.0,102080.0,1.0,2.0,1.0,3.0,331314.0,91.0,76.0,27.0
+Presencial,Mujer,Referidos,Soltero,103462.0,102042.0,1.0,2.0,2.0,7.0,310291.0,91.0,91.0,26.0
+Presencial,Mujer,Referidos,Casado,102557.0,102106.0,1.0,2.0,1.0,6.0,328785.0,91.0,79.0,31.0
+Presencial,Mujer,Portal Web,Casado,102947.0,102038.0,1.0,1.0,2.0,2.0,346016.0,91.0,70.0,27.0
+Presencial,Mujer,Portal Web,Soltero,103703.0,102171.0,1.0,2.0,1.0,6.0,368568.0,91.0,66.0,36.0
+Presencial,Hombre,Portal Web,Soltero,102843.0,102050.0,1.0,2.0,0.0,2.0,373395.0,91.0,78.0,27.0
+Presencial,Mujer,Linkedin,Casado,103070.0,102060.0,1.0,2.0,2.0,9.0,370329.0,91.0,85.0,28.0
+Presencial,Mujer,Referidos,Casado,103129.0,102148.0,1.0,2.0,2.0,3.0,771946.0,91.0,83.0,36.0
+Presencial,Hombre,Referidos,Casado,103155.0,102110.0,1.0,3.0,1.0,11.0,412002.0,91.0,71.0,34.0
+Presencial,Hombre,Linkedin,Soltero,102214.0,102058.0,1.0,4.0,0.0,6.0,412788.0,91.0,76.0,30.0
+Presencial,Mujer,Linkedin,Soltero,103936.0,102090.0,1.0,2.0,12.0,5.0,429502.0,91.0,81.0,33.0
+Presencial,Hombre,Headhunter,Casado,102760.0,102038.0,1.0,2.0,0.0,4.0,771040.0,91.0,81.0,32.0
+Presencial,Hombre,Referidos,Casado,103288.0,102149.0,1.0,2.0,2.0,9.0,447709.0,91.0,72.0,39.0
+Presencial,Mujer,Portal Web,Casado,103427.0,102122.0,1.0,2.0,11.0,4.0,467720.0,91.0,80.0,40.0
+Presencial,Hombre,Portal Web,Divorciado,102494.0,102132.0,1.0,6.0,2.0,6.0,770028.0,91.0,68.0,39.0
+Presencial,Hombre,Linkedin,Soltero,104063.0,102124.0,1.0,2.0,0.0,7.0,767181.0,91.0,65.0,38.0
+Presencial,Hombre,Referidos,Casado,102271.0,102061.0,1.0,2.0,0.0,2.0,472961.0,91.0,78.0,34.0
+Presencial,Mujer,Referidos,Soltero,102577.0,102091.0,1.0,2.0,2.0,13.0,248472.0,91.0,72.0,38.0
+Presencial,Hombre,Ferias & Networking,Soltero,103441.0,102092.0,1.0,3.0,2.0,12.0,256770.0,91.0,79.0,40.0
+Presencial,Mujer,Portal Web,Casado,103128.0,102065.0,1.0,4.0,1.0,6.0,507514.0,91.0,77.0,35.0
+Presencial,Mujer,Portal Web,Casado,103413.0,102052.0,1.0,5.0,7.0,13.0,525106.0,91.0,78.0,34.0
+Presencial,Hombre,Portal Web,Casado,103661.0,102107.0,1.0,2.0,9.0,9.0,258249.0,91.0,70.0,41.0
+Presencial,Mujer,Linkedin,Casado,102887.0,102040.0,1.0,1.0,2.0,5.0,258748.0,91.0,76.0,36.0
+Presencial,Mujer,Linkedin,Casado,102830.0,102092.0,1.0,6.0,9.0,4.0,388285.0,91.0,75.0,43.0
+Presencial,Hombre,Ferias & Networking,Casado,103062.0,102024.0,1.0,1.0,3.0,4.0,281451.0,91.0,74.0,37.0
+Presencial,Mujer,Portal Web,Soltero,104043.0,102154.0,1.0,7.0,3.0,11.0,285923.0,91.0,82.0,47.0
+Presencial,Hombre,Linkedin,Casado,102840.0,102152.0,1.0,1.0,2.0,4.0,408102.0,91.0,70.0,46.0
+Presencial,Hombre,Portal Web,Casado,104120.0,102127.0,1.0,6.0,3.0,9.0,285546.0,91.0,83.0,44.0
+Presencial,Mujer,Linkedin,Soltero,103785.0,102026.0,1.0,1.0,7.0,5.0,453463.0,91.0,71.0,39.0
+Presencial,Hombre,Linkedin,Divorciado,102618.0,102160.0,1.0,2.0,0.0,3.0,300358.0,91.0,75.0,48.0
+Presencial,Mujer,Linkedin,Casado,102642.0,102137.0,1.0,8.0,0.0,6.0,453296.0,91.0,80.0,47.0
+Presencial,Hombre,Portal Web,Casado,102475.0,102036.0,1.0,3.0,1.0,16.0,298518.0,91.0,79.0,38.0
+Presencial,Hombre,Referidos,Viudo,102735.0,102090.0,1.0,2.0,0.0,13.0,460867.0,91.0,70.0,46.0
+Presencial,Mujer,Ferias & Networking,Divorciado,102322.0,102082.0,1.0,2.0,2.0,16.0,415486.0,91.0,71.0,45.0
+Presencial,Mujer,Portal Web,Casado,103488.0,102085.0,1.0,6.0,6.0,13.0,815205.0,91.0,79.0,45.0
+Presencial,Hombre,Headhunter,Soltero,102452.0,102053.0,1.0,2.0,1.0,11.0,306906.0,91.0,69.0,41.0
+Presencial,Mujer,Portal Web,Soltero,103240.0,102015.0,1.0,14.0,1.0,12.0,306377.0,91.0,72.0,40.0
+Presencial,Hombre,Portal Web,Viudo,102250.0,102032.0,1.0,3.0,2.0,13.0,311924.0,91.0,69.0,39.0
+Presencial,Hombre,Ferias & Networking,Casado,102460.0,102058.0,1.0,6.0,3.0,10.0,835411.0,91.0,70.0,45.0
+Presencial,Hombre,Ferias & Networking,Viudo,103041.0,102069.0,1.0,2.0,1.0,6.0,636952.0,91.0,80.0,43.0
+Presencial,Mujer,Referidos,Casado,102246.0,102048.0,1.0,3.0,1.0,5.0,658614.0,91.0,75.0,42.0
+Presencial,Hombre,Portal Web,Casado,102800.0,102016.0,1.0,2.0,1.0,16.0,662350.0,91.0,74.0,42.0
+Presencial,Hombre,Portal Web,Casado,103004.0,102147.0,1.0,2.0,6.0,10.0,799675.0,91.0,80.0,54.0
+Presencial,Hombre,Portal Web,Soltero,103162.0,102071.0,1.0,3.0,9.0,11.0,735305.0,91.0,77.0,49.0
+Presencial,Hombre,Portal Web,Casado,103214.0,102057.0,1.0,3.0,11.0,16.0,714645.0,91.0,72.0,47.0
+Presencial,Mujer,Linkedin,Divorciado,103428.0,102061.0,1.0,2.0,2.0,9.0,917286.0,91.0,81.0,46.0
+Presencial,Hombre,Linkedin,Soltero,102919.0,102164.0,1.0,1.0,1.0,5.0,734316.0,91.0,65.0,56.0
+Presencial,Hombre,Ferias & Networking,Viudo,102622.0,102113.0,1.0,3.0,1.0,4.0,797022.0,91.0,73.0,52.0
+Presencial,Mujer,Portal Web,Soltero,103586.0,102113.0,1.0,2.0,0.0,11.0,736297.0,91.0,75.0,51.0
+Presencial,Hombre,Portal Web,Viudo,103049.0,102064.0,1.0,6.0,5.0,3.0,736348.0,91.0,77.0,49.0
+Presencial,Mujer,Portal Web,Viudo,103819.0,102044.0,1.0,2.0,10.0,8.0,738895.0,91.0,78.0,46.0
+Presencial,Mujer,Portal Web,Divorciado,103714.0,102133.0,1.0,2.0,10.0,9.0,820100.0,91.0,76.0,55.0
+Presencial,Hombre,Linkedin,Viudo,102319.0,102047.0,1.0,6.0,1.0,7.0,818221.0,91.0,63.0,50.0
+Presencial,Hombre,Portal Web,Soltero,100015.0,102128.0,1.0,4.0,6.0,2.0,97471.0,90.0,81.0,21.0
+Presencial,Mujer,Linkedin,Soltero,101920.0,102146.0,1.0,2.0,3.0,1.0,99008.0,90.0,81.0,20.0
+Presencial,Hombre,Referidos,Soltero,100226.0,102019.0,1.0,3.0,1.0,2.0,97929.0,90.0,85.0,12.0
+Presencial,Hombre,Portal Web,Soltero,100770.0,102047.0,1.0,2.0,0.0,3.0,116598.0,90.0,77.0,13.0
+Presencial,Mujer,Referidos,Soltero,100995.0,102080.0,1.0,5.0,3.0,3.0,143024.0,90.0,79.0,19.0
+Presencial,Mujer,Linkedin,Divorciado,100785.0,102064.0,1.0,2.0,0.0,1.0,135834.0,90.0,81.0,16.0
+Presencial,Mujer,Portal Web,Soltero,100478.0,102078.0,1.0,2.0,0.0,4.0,161382.0,90.0,79.0,17.0
+Presencial,Mujer,Portal Web,Soltero,100371.0,102162.0,1.0,5.0,0.0,4.0,164522.0,90.0,76.0,26.0
+Presencial,Mujer,Linkedin,Soltero,101768.0,102076.0,1.0,2.0,0.0,2.0,165463.0,90.0,76.0,20.0
+Presencial,Hombre,Referidos,Soltero,101734.0,102049.0,1.0,2.0,2.0,2.0,161987.0,90.0,84.0,18.0
+Presencial,Mujer,Portal Web,Soltero,100116.0,102049.0,1.0,4.0,3.0,4.0,185575.0,90.0,83.0,19.0
+Presencial,Hombre,Ferias & Networking,Divorciado,100356.0,102053.0,1.0,7.0,1.0,2.0,188491.0,90.0,75.0,18.0
+Presencial,Mujer,Referidos,Casado,100678.0,102130.0,1.0,2.0,1.0,4.0,193012.0,90.0,72.0,27.0
+Presencial,Hombre,Headhunter,Soltero,101337.0,102031.0,1.0,3.0,1.0,1.0,190622.0,90.0,68.0,17.0
+Presencial,Mujer,Portal Web,Casado,101221.0,102052.0,1.0,2.0,9.0,5.0,212991.0,90.0,76.0,20.0
+Presencial,Mujer,Portal Web,Casado,101464.0,102022.0,1.0,2.0,0.0,1.0,212509.0,90.0,72.0,19.0
+Presencial,Hombre,Linkedin,Casado,101108.0,102008.0,1.0,4.0,6.0,5.0,206756.0,90.0,75.0,18.0
+Presencial,Hombre,Portal Web,Soltero,101618.0,102114.0,1.0,2.0,2.0,2.0,229241.0,90.0,75.0,28.0
+Presencial,Hombre,Referidos,Casado,101796.0,102147.0,1.0,1.0,2.0,6.0,252626.0,90.0,67.0,30.0
+Presencial,Mujer,Linkedin,Soltero,101996.0,102151.0,1.0,2.0,1.0,2.0,251588.0,90.0,75.0,29.0
+Presencial,Hombre,Portal Web,Soltero,100460.0,102017.0,1.0,2.0,0.0,5.0,250793.0,90.0,82.0,21.0
+Presencial,Hombre,Portal Web,Casado,102143.0,102090.0,2.0,1.0,2.0,2.0,590000.0,90.0,78.0,26.0
+Presencial,Mujer,Referidos,Divorciado,100606.0,102142.0,1.0,6.0,2.0,6.0,269081.0,90.0,75.0,31.0
+Presencial,Hombre,Ferias & Networking,Casado,102139.0,102090.0,2.0,6.0,1.0,5.0,590000.0,90.0,67.0,26.0
+Presencial,Hombre,Referidos,Soltero,100528.0,102154.0,1.0,4.0,1.0,4.0,308372.0,90.0,69.0,33.0
+Presencial,Mujer,Linkedin,Casado,100196.0,102137.0,1.0,2.0,1.0,8.0,309845.0,90.0,78.0,34.0
+Presencial,Mujer,Linkedin,Soltero,100875.0,102114.0,1.0,5.0,1.0,7.0,311976.0,90.0,78.0,29.0
+Presencial,Mujer,Ferias & Networking,Casado,100125.0,102083.0,1.0,5.0,1.0,6.0,305521.0,90.0,77.0,28.0
+Presencial,Hombre,Linkedin,Casado,100552.0,102057.0,1.0,3.0,2.0,2.0,307001.0,90.0,74.0,27.0
+Presencial,Mujer,Referidos,Soltero,100778.0,102042.0,1.0,2.0,2.0,7.0,308184.0,90.0,91.0,26.0
+Presencial,Hombre,Linkedin,Soltero,100435.0,102043.0,1.0,2.0,1.0,5.0,308845.0,90.0,81.0,24.0
+Presencial,Mujer,Referidos,Soltero,101429.0,102094.0,1.0,1.0,3.0,2.0,330227.0,90.0,69.0,30.0
+Presencial,Mujer,Portal Web,Casado,101596.0,102038.0,1.0,1.0,1.0,2.0,347243.0,90.0,70.0,27.0
+Presencial,Hombre,Referidos,Casado,101619.0,102047.0,1.0,4.0,2.0,2.0,332154.0,90.0,76.0,26.0
+Presencial,Hombre,Portal Web,Casado,100020.0,102043.0,1.0,0.0,5.0,2.0,327286.0,90.0,82.0,23.0
+Presencial,Mujer,Portal Web,Soltero,100871.0,102118.0,1.0,4.0,7.0,3.0,352267.0,90.0,83.0,33.0
+Presencial,Hombre,Ferias & Networking,Casado,100339.0,102022.0,1.0,2.0,2.0,9.0,351517.0,90.0,64.0,26.0
+Presencial,Mujer,Portal Web,Casado,100211.0,102108.0,1.0,3.0,2.0,7.0,364626.0,90.0,80.0,32.0
+Presencial,Hombre,Linkedin,Casado,101303.0,102099.0,1.0,6.0,2.0,8.0,788970.0,90.0,72.0,31.0
+Presencial,Hombre,Portal Web,Soltero,100886.0,102050.0,1.0,2.0,0.0,2.0,372813.0,90.0,78.0,28.0
+Presencial,Mujer,Linkedin,Casado,100202.0,102060.0,1.0,2.0,3.0,9.0,366272.0,90.0,85.0,28.0
+Presencial,Mujer,Portal Web,Soltero,100972.0,102156.0,1.0,2.0,2.0,7.0,389435.0,90.0,79.0,38.0
+Presencial,Hombre,Portal Web,Casado,101438.0,102148.0,1.0,2.0,0.0,7.0,410790.0,90.0,75.0,38.0
+Presencial,Mujer,Ferias & Networking,Casado,101190.0,102144.0,1.0,3.0,1.0,7.0,428421.0,90.0,69.0,39.0
+Presencial,Mujer,Linkedin,Divorciado,101963.0,102124.0,1.0,5.0,4.0,10.0,445992.0,90.0,76.0,38.0
+Presencial,Hombre,Headhunter,Casado,101833.0,102038.0,1.0,2.0,0.0,4.0,764500.0,90.0,81.0,31.0
+Presencial,Hombre,Portal Web,Casado,102094.0,102074.0,2.0,1.0,1.0,4.0,998000.0,90.0,85.0,29.0
+Presencial,Hombre,Portal Web,Casado,100095.0,102095.0,1.0,1.0,2.0,6.0,452213.0,90.0,77.0,36.0
+Presencial,Mujer,Portal Web,Soltero,100813.0,102079.0,1.0,5.0,1.0,4.0,469946.0,90.0,78.0,37.0
+Presencial,Hombre,Portal Web,Casado,100104.0,102058.0,1.0,2.0,8.0,5.0,845102.0,90.0,71.0,33.0
+Presencial,Mujer,Portal Web,Casado,102012.0,102074.0,2.0,2.0,1.0,7.0,1100000.0,90.0,80.0,34.0
+Presencial,Mujer,Ferias & Networking,Divorciado,100987.0,102122.0,1.0,5.0,0.0,13.0,766009.0,90.0,83.0,40.0
+Presencial,Mujer,Portal Web,Soltero,100692.0,102077.0,1.0,3.0,1.0,11.0,373245.0,90.0,77.0,37.0
+Presencial,Hombre,Ferias & Networking,Soltero,101256.0,102092.0,1.0,3.0,1.0,12.0,254553.0,90.0,79.0,40.0
+Presencial,Mujer,Linkedin,Casado,102020.0,102074.0,2.0,7.0,1.0,11.0,1203920.0,90.0,78.0,35.0
+Presencial,Hombre,Linkedin,Divorciado,100768.0,102134.0,1.0,2.0,2.0,8.0,254490.0,90.0,74.0,44.0
+Presencial,Mujer,Linkedin,Casado,101580.0,102040.0,1.0,1.0,2.0,5.0,259882.0,90.0,76.0,36.0
+Presencial,Mujer,Ferias & Networking,Casado,101433.0,102046.0,1.0,6.0,1.0,11.0,427941.0,90.0,68.0,36.0
+Presencial,Hombre,Referidos,Casado,102075.0,102074.0,2.0,3.0,1.0,11.0,1255430.0,90.0,76.0,31.0
+Presencial,Hombre,Portal Web,Soltero,102142.0,102074.0,2.0,2.0,2.0,3.0,1255430.0,90.0,66.0,36.0
+Presencial,Hombre,Portal Web,Casado,101296.0,102047.0,1.0,3.0,3.0,12.0,271423.0,90.0,85.0,36.0
+Presencial,Hombre,Linkedin,Soltero,100347.0,102017.0,1.0,1.0,3.0,10.0,265853.0,90.0,75.0,36.0
+Presencial,Mujer,Portal Web,Casado,101340.0,102009.0,1.0,2.0,1.0,7.0,459130.0,90.0,82.0,35.0
+Presencial,Hombre,Linkedin,Casado,101398.0,102111.0,1.0,2.0,1.0,14.0,273703.0,90.0,76.0,42.0
+Presencial,Hombre,Portal Web,Divorciado,101141.0,102085.0,1.0,5.0,4.0,13.0,284634.0,90.0,81.0,42.0
+Presencial,Mujer,Portal Web,Soltero,101364.0,102039.0,1.0,5.0,20.0,15.0,415036.0,90.0,81.0,38.0
+Presencial,Mujer,Headhunter,Casado,102149.0,102074.0,2.0,2.0,0.0,3.0,1409960.0,90.0,86.0,37.0
+Presencial,Hombre,Portal Web,Divorciado,101233.0,102141.0,1.0,7.0,11.0,4.0,301020.0,90.0,63.0,48.0
+Presencial,Hombre,Linkedin,Divorciado,100828.0,102160.0,1.0,2.0,1.0,3.0,301026.0,90.0,75.0,48.0
+Presencial,Mujer,Linkedin,Casado,100919.0,102137.0,1.0,8.0,0.0,6.0,454794.0,90.0,80.0,47.0
+Presencial,Hombre,Portal Web,Casado,101115.0,102075.0,1.0,4.0,2.0,11.0,299403.0,90.0,81.0,44.0
+Presencial,Mujer,Portal Web,Casado,100920.0,102068.0,1.0,5.0,0.0,5.0,302430.0,90.0,81.0,42.0
+Presencial,Mujer,Portal Web,Viudo,101887.0,102049.0,1.0,5.0,2.0,7.0,390558.0,90.0,74.0,39.0
+Presencial,Hombre,Portal Web,Casado,100421.0,102036.0,1.0,3.0,1.0,16.0,298101.0,90.0,79.0,38.0
+Presencial,Hombre,Ferias & Networking,Soltero,100249.0,102129.0,1.0,2.0,2.0,13.0,639801.0,90.0,69.0,48.0
+Presencial,Hombre,Portal Web,Viudo,101841.0,102098.0,1.0,4.0,3.0,13.0,303543.0,90.0,80.0,47.0
+Presencial,Mujer,Ferias & Networking,Divorciado,101851.0,102082.0,1.0,2.0,2.0,16.0,414399.0,90.0,71.0,45.0
+Presencial,Mujer,Portal Web,Soltero,100704.0,102015.0,1.0,14.0,2.0,12.0,309140.0,90.0,72.0,40.0
+Presencial,Mujer,Linkedin,Casado,102153.0,102074.0,2.0,6.0,1.0,5.0,1616000.0,90.0,68.0,41.0
+Presencial,Hombre,Portal Web,Viudo,101288.0,102143.0,1.0,2.0,7.0,11.0,639015.0,90.0,75.0,51.0
+Presencial,Mujer,Linkedin,Divorciado,100073.0,102148.0,1.0,7.0,0.0,13.0,837423.0,90.0,81.0,50.0
+Presencial,Mujer,Referidos,Soltero,101369.0,102062.0,1.0,2.0,2.0,15.0,635119.0,90.0,78.0,45.0
+Presencial,Hombre,Ferias & Networking,Casado,101748.0,102058.0,1.0,6.0,2.0,10.0,840198.0,90.0,70.0,45.0
+Presencial,Mujer,Linkedin,Soltero,100739.0,102140.0,1.0,4.0,3.0,14.0,674316.0,90.0,84.0,50.0
+Presencial,Mujer,Portal Web,Casado,101592.0,102084.0,1.0,3.0,8.0,9.0,682212.0,90.0,69.0,45.0
+Presencial,Mujer,Referidos,Casado,101135.0,102048.0,1.0,3.0,2.0,5.0,658749.0,90.0,75.0,42.0
+Presencial,Mujer,Portal Web,Casado,102098.0,102074.0,2.0,2.0,1.0,16.0,1616000.0,90.0,86.0,46.0
+Presencial,Mujer,Linkedin,Viudo,101662.0,102049.0,1.0,3.0,3.0,12.0,698953.0,90.0,83.0,45.0
+Presencial,Mujer,Portal Web,Casado,101972.0,102030.0,1.0,4.0,2.0,15.0,696329.0,90.0,64.0,43.0
+Presencial,Hombre,Portal Web,Casado,102147.0,102074.0,2.0,2.0,2.0,4.0,1616000.0,90.0,80.0,49.0
+Presencial,Hombre,Portal Web,Casado,101341.0,102057.0,1.0,3.0,11.0,16.0,721054.0,90.0,72.0,47.0
+Presencial,Mujer,Linkedin,Casado,100310.0,102061.0,1.0,2.0,3.0,9.0,913790.0,90.0,81.0,46.0
+Presencial,Mujer,Portal Web,Casado,100455.0,102015.0,1.0,3.0,1.0,9.0,722517.0,90.0,83.0,45.0
+Presencial,Mujer,Ferias & Networking,Casado,101704.0,102024.0,1.0,3.0,1.0,12.0,716900.0,90.0,79.0,45.0
+Presencial,Mujer,Linkedin,Divorciado,102117.0,102074.0,2.0,4.0,1.0,10.0,1616000.0,90.0,80.0,49.0
+Presencial,Hombre,Portal Web,Soltero,100938.0,102154.0,1.0,3.0,2.0,7.0,742198.0,90.0,74.0,55.0
+Presencial,Mujer,Portal Web,Soltero,100317.0,102113.0,1.0,2.0,1.0,11.0,733757.0,90.0,75.0,51.0
+Presencial,Mujer,Ferias & Networking,Casado,101918.0,102046.0,1.0,3.0,0.0,3.0,861334.0,90.0,77.0,48.0
+Presencial,Hombre,Portal Web,Viudo,101684.0,102160.0,1.0,1.0,7.0,12.0,853835.0,90.0,68.0,57.0
+Presencial,Mujer,Linkedin,Casado,100818.0,102089.0,1.0,5.0,2.0,19.0,860501.0,90.0,73.0,52.0
+Presencial,Mujer,Ferias & Networking,Casado,101240.0,102053.0,1.0,5.0,2.0,11.0,875171.0,90.0,75.0,51.0
+Presencial,Mujer,Ferias & Networking,Divorciado,100632.0,102025.0,1.0,1.0,0.0,6.0,917214.0,90.0,71.0,49.0
+Presencial,Hombre,Portal Web,Viudo,102057.0,102074.0,2.0,2.0,4.0,5.0,1616000.0,90.0,73.0,59.0
+Presencial,Hombre,Referidos,Soltero,102574.0,102019.0,1.0,3.0,2.0,2.0,103524.0,90.0,85.0,12.0
+Presencial,Mujer,Ferias & Networking,Soltero,104124.0,102105.0,1.0,2.0,2.0,1.0,122861.0,90.0,69.0,18.0
+Presencial,Mujer,Portal Web,Soltero,103068.0,102070.0,1.0,7.0,2.0,1.0,123646.0,90.0,81.0,17.0
+Presencial,Hombre,Portal Web,Soltero,103327.0,102047.0,1.0,2.0,1.0,3.0,120555.0,90.0,77.0,13.0
+Presencial,Hombre,Linkedin,Soltero,102806.0,102040.0,1.0,2.0,1.0,1.0,142043.0,90.0,86.0,15.0
+Presencial,Hombre,Portal Web,Soltero,103643.0,102000.0,1.0,5.0,2.0,1.0,145466.0,90.0,76.0,14.0
+Presencial,Mujer,Portal Web,Soltero,102617.0,102162.0,1.0,5.0,0.0,4.0,168870.0,90.0,76.0,26.0
+Presencial,Mujer,Referidos,Soltero,103386.0,102140.0,1.0,3.0,1.0,3.0,167277.0,90.0,88.0,24.0
+Presencial,Hombre,Referidos,Soltero,103519.0,102049.0,1.0,2.0,1.0,3.0,162811.0,90.0,84.0,18.0
+Presencial,Mujer,Ferias & Networking,Soltero,102649.0,102004.0,1.0,5.0,1.0,4.0,166581.0,90.0,82.0,15.0
+Presencial,Mujer,Portal Web,Soltero,102766.0,102049.0,1.0,4.0,3.0,4.0,183119.0,90.0,83.0,19.0
+Presencial,Hombre,Ferias & Networking,Divorciado,102529.0,102053.0,1.0,6.0,2.0,2.0,186463.0,90.0,75.0,18.0
+Presencial,Hombre,Portal Web,Soltero,104006.0,102133.0,1.0,1.0,2.0,1.0,187771.0,90.0,75.0,26.0
+Presencial,Hombre,Linkedin,Casado,103051.0,102008.0,1.0,4.0,6.0,5.0,211970.0,90.0,75.0,18.0
+Presencial,Hombre,Ferias & Networking,Casado,103508.0,102137.0,1.0,3.0,0.0,1.0,247055.0,90.0,75.0,29.0
+Presencial,Hombre,Linkedin,Casado,102495.0,102119.0,1.0,8.0,5.0,2.0,227271.0,90.0,66.0,29.0
+Presencial,Hombre,Portal Web,Soltero,103762.0,102114.0,1.0,2.0,2.0,2.0,225798.0,90.0,75.0,28.0
+Presencial,Hombre,Ferias & Networking,Casado,102997.0,102129.0,1.0,2.0,2.0,8.0,247338.0,90.0,70.0,29.0
+Presencial,Mujer,Linkedin,Soltero,103657.0,102151.0,1.0,2.0,1.0,2.0,248372.0,90.0,75.0,29.0
+Presencial,Hombre,Referidos,Soltero,102604.0,102154.0,1.0,4.0,1.0,4.0,305084.0,90.0,69.0,33.0
+Presencial,Mujer,Ferias & Networking,Casado,102193.0,102124.0,1.0,3.0,0.0,6.0,287345.0,90.0,74.0,30.0
+Presencial,Hombre,Portal Web,Casado,102204.0,102052.0,1.0,2.0,1.0,5.0,287972.0,90.0,79.0,24.0
+Presencial,Mujer,Linkedin,Casado,103225.0,102137.0,1.0,2.0,1.0,8.0,307579.0,90.0,78.0,34.0
+Presencial,Hombre,Portal Web,Casado,102616.0,102043.0,1.0,0.0,4.0,2.0,332390.0,90.0,82.0,23.0
+Presencial,Mujer,Referidos,Casado,103412.0,102105.0,1.0,1.0,1.0,5.0,348516.0,90.0,72.0,31.0
+Presencial,Mujer,Ferias & Networking,Casado,102371.0,102111.0,1.0,7.0,0.0,6.0,366986.0,90.0,80.0,33.0
+Presencial,Mujer,Portal Web,Casado,102454.0,102108.0,1.0,3.0,2.0,7.0,370270.0,90.0,80.0,32.0
+Presencial,Mujer,Portal Web,Casado,103430.0,102130.0,1.0,1.0,2.0,5.0,389757.0,90.0,75.0,37.0
+Presencial,Mujer,Portal Web,Casado,103401.0,102113.0,1.0,1.0,3.0,5.0,768607.0,90.0,72.0,36.0
+Presencial,Mujer,Linkedin,Soltero,103735.0,102112.0,1.0,3.0,1.0,6.0,407540.0,90.0,75.0,33.0
+Presencial,Hombre,Portal Web,Soltero,104066.0,102026.0,1.0,5.0,4.0,7.0,410173.0,90.0,75.0,28.0
+Presencial,Mujer,Portal Web,Casado,103700.0,102139.0,1.0,5.0,1.0,7.0,411768.0,90.0,71.0,39.0
+Presencial,Mujer,Ferias & Networking,Soltero,103150.0,102147.0,1.0,5.0,2.0,7.0,407029.0,90.0,77.0,38.0
+Presencial,Hombre,Portal Web,Divorciado,103453.0,102092.0,1.0,2.0,2.0,7.0,407654.0,90.0,66.0,33.0
+Presencial,Mujer,Referidos,Soltero,102409.0,102080.0,1.0,2.0,1.0,9.0,771871.0,90.0,79.0,33.0
+Presencial,Mujer,Portal Web,Casado,103536.0,102069.0,1.0,2.0,5.0,11.0,412670.0,90.0,83.0,30.0
+Presencial,Hombre,Referidos,Casado,102938.0,102151.0,1.0,4.0,2.0,5.0,431500.0,90.0,75.0,40.0
+Presencial,Hombre,Referidos,Casado,102416.0,102043.0,1.0,3.0,2.0,7.0,425226.0,90.0,60.0,29.0
+Presencial,Hombre,Portal Web,Casado,103061.0,102171.0,1.0,5.0,3.0,6.0,449662.0,90.0,72.0,41.0
+Presencial,Mujer,Linkedin,Divorciado,102713.0,102124.0,1.0,5.0,5.0,10.0,450558.0,90.0,76.0,39.0
+Presencial,Mujer,Ferias & Networking,Soltero,103934.0,102066.0,1.0,2.0,3.0,11.0,445264.0,90.0,83.0,34.0
+Presencial,Mujer,Linkedin,Soltero,103658.0,102057.0,1.0,2.0,0.0,10.0,466417.0,90.0,80.0,34.0
+Presencial,Hombre,Linkedin,Divorciado,102538.0,102052.0,1.0,3.0,8.0,10.0,469254.0,90.0,70.0,32.0
+Presencial,Mujer,Portal Web,Soltero,103079.0,102098.0,1.0,3.0,1.0,5.0,488414.0,90.0,82.0,39.0
+Presencial,Hombre,Portal Web,Soltero,103335.0,102133.0,1.0,3.0,0.0,11.0,259076.0,90.0,71.0,43.0
+Presencial,Mujer,Portal Web,Divorciado,103224.0,102110.0,1.0,6.0,1.0,4.0,258007.0,90.0,70.0,42.0
+Presencial,Hombre,Referidos,Soltero,102257.0,102132.0,1.0,6.0,1.0,6.0,265354.0,90.0,78.0,43.0
+Presencial,Hombre,Portal Web,Soltero,102857.0,102078.0,1.0,2.0,3.0,9.0,377685.0,90.0,82.0,40.0
+Presencial,Hombre,Portal Web,Casado,103181.0,102047.0,1.0,3.0,2.0,12.0,265614.0,90.0,85.0,36.0
+Presencial,Mujer,Portal Web,Casado,102935.0,102135.0,1.0,0.0,2.0,10.0,443095.0,90.0,71.0,46.0
+Presencial,Hombre,Portal Web,Soltero,103930.0,102108.0,1.0,5.0,2.0,5.0,280910.0,90.0,75.0,43.0
+Presencial,Mujer,Linkedin,Divorciado,104038.0,102075.0,1.0,4.0,7.0,11.0,279479.0,90.0,77.0,40.0
+Presencial,Hombre,Ferias & Networking,Divorciado,102216.0,102074.0,1.0,2.0,1.0,9.0,290122.0,90.0,77.0,40.0
+Presencial,Hombre,Portal Web,Divorciado,104034.0,102141.0,1.0,7.0,11.0,4.0,300989.0,90.0,63.0,48.0
+Presencial,Mujer,Portal Web,Viudo,104129.0,102081.0,1.0,3.0,2.0,7.0,299364.0,90.0,85.0,43.0
+Presencial,Mujer,Portal Web,Casado,102633.0,102068.0,1.0,5.0,1.0,5.0,294010.0,90.0,81.0,42.0
+Presencial,Mujer,Ferias & Networking,Divorciado,102940.0,102074.0,1.0,2.0,1.0,7.0,301942.0,90.0,62.0,42.0
+Presencial,Mujer,Portal Web,Divorciado,103027.0,102025.0,1.0,3.0,0.0,5.0,298639.0,90.0,81.0,39.0
+Presencial,Mujer,Portal Web,Soltero,103490.0,102021.0,1.0,2.0,1.0,3.0,299955.0,90.0,59.0,39.0
+Presencial,Mujer,Portal Web,Viudo,102273.0,102049.0,1.0,5.0,3.0,7.0,391291.0,90.0,74.0,39.0
+Presencial,Hombre,Portal Web,Viudo,103581.0,102098.0,1.0,4.0,3.0,13.0,309003.0,90.0,80.0,47.0
+Presencial,Hombre,Linkedin,Casado,102960.0,102082.0,1.0,2.0,1.0,5.0,307093.0,90.0,83.0,43.0
+Presencial,Mujer,Linkedin,Divorciado,102264.0,102148.0,1.0,7.0,0.0,13.0,838325.0,90.0,81.0,50.0
+Presencial,Mujer,Portal Web,Casado,103631.0,102085.0,1.0,1.0,2.0,3.0,640130.0,90.0,83.0,45.0
+Presencial,Hombre,Linkedin,Divorciado,102380.0,102035.0,1.0,3.0,3.0,13.0,637070.0,90.0,78.0,43.0
+Presencial,Hombre,Portal Web,Viudo,102333.0,102065.0,1.0,4.0,2.0,5.0,636387.0,90.0,69.0,43.0
+Presencial,Hombre,Portal Web,Casado,102269.0,102025.0,1.0,5.0,3.0,5.0,658857.0,90.0,70.0,41.0
+Presencial,Hombre,Ferias & Networking,Soltero,103652.0,102113.0,1.0,5.0,3.0,12.0,878061.0,90.0,80.0,50.0
+Presencial,Mujer,Ferias & Networking,Soltero,102961.0,102065.0,1.0,2.0,0.0,9.0,655946.0,90.0,80.0,43.0
+Presencial,Mujer,Portal Web,Soltero,103368.0,102064.0,1.0,3.0,2.0,17.0,676679.0,90.0,73.0,46.0
+Presencial,Hombre,Portal Web,Viudo,103024.0,102070.0,1.0,3.0,2.0,13.0,861623.0,90.0,75.0,45.0
+Presencial,Hombre,Portal Web,Casado,104105.0,102043.0,1.0,2.0,6.0,4.0,675828.0,90.0,67.0,44.0
+Presencial,Mujer,Ferias & Networking,Casado,102462.0,102017.0,1.0,3.0,3.0,7.0,680151.0,90.0,73.0,42.0
+Presencial,Hombre,Portal Web,Soltero,103940.0,102051.0,1.0,2.0,6.0,18.0,696033.0,90.0,79.0,45.0
+Presencial,Mujer,Portal Web,Viudo,102277.0,102028.0,1.0,6.0,2.0,8.0,694888.0,90.0,77.0,43.0
+Presencial,Mujer,Ferias & Networking,Casado,102738.0,102024.0,1.0,3.0,1.0,12.0,714554.0,90.0,79.0,45.0
+Presencial,Hombre,Portal Web,Viudo,103345.0,102135.0,1.0,3.0,2.0,3.0,796016.0,90.0,83.0,56.0
+Presencial,Hombre,Portal Web,Soltero,103518.0,102154.0,1.0,4.0,2.0,7.0,734692.0,90.0,74.0,55.0
+Presencial,Mujer,Portal Web,Divorciado,103766.0,102112.0,1.0,1.0,0.0,8.0,742294.0,90.0,82.0,51.0
+Presencial,Mujer,Linkedin,Divorciado,103571.0,102097.0,1.0,2.0,1.0,5.0,740664.0,90.0,82.0,50.0
+Presencial,Mujer,Referidos,Divorciado,103541.0,102061.0,1.0,5.0,2.0,19.0,734458.0,90.0,71.0,49.0
+Presencial,Hombre,Portal Web,Viudo,103238.0,102160.0,1.0,1.0,7.0,12.0,861797.0,90.0,68.0,57.0
+Presencial,Mujer,Portal Web,Soltero,102797.0,102137.0,1.0,5.0,1.0,13.0,839610.0,90.0,75.0,55.0
+Presencial,Hombre,Portal Web,Divorciado,103802.0,102145.0,1.0,2.0,1.0,9.0,855287.0,90.0,82.0,57.0
+Presencial,Mujer,Ferias & Networking,Divorciado,102600.0,102025.0,1.0,1.0,0.0,6.0,916653.0,90.0,71.0,49.0
+Presencial,Mujer,Portal Web,Soltero,103710.0,102107.0,1.0,5.0,1.0,7.0,895339.0,90.0,77.0,56.0
+Presencial,Hombre,Linkedin,Casado,100445.0,102142.0,1.0,5.0,2.0,3.0,182324.0,89.0,68.0,25.0
+Presencial,Hombre,Headhunter,Viudo,101590.0,102093.0,1.0,1.0,1.0,4.0,678886.0,89.0,94.0,46.0
+Presencial,Mujer,Portal Web,Divorciado,101787.0,102075.0,1.0,6.0,0.0,3.0,718167.0,89.0,83.0,48.0
+Presencial,Mujer,Portal Web,Soltero,100064.0,102137.0,1.0,5.0,0.0,13.0,835454.0,89.0,75.0,55.0
+Presencial,Mujer,Linkedin,Divorciado,102719.0,102064.0,1.0,2.0,1.0,1.0,138848.0,89.0,81.0,15.0
+Presencial,Mujer,Ferias & Networking,Soltero,102242.0,102106.0,1.0,2.0,1.0,3.0,142866.0,89.0,71.0,19.0
+Presencial,Mujer,Portal Web,Soltero,102721.0,102155.0,1.0,6.0,10.0,1.0,160509.0,89.0,74.0,26.0
+Presencial,Hombre,Referidos,Soltero,102977.0,102087.0,1.0,4.0,1.0,4.0,162926.0,89.0,82.0,19.0
+Presencial,Hombre,Referidos,Casado,103112.0,102047.0,1.0,4.0,2.0,2.0,328410.0,89.0,76.0,26.0
+Presencial,Hombre,Ferias & Networking,Casado,102527.0,102075.0,1.0,1.0,1.0,2.0,368234.0,89.0,68.0,31.0
+Presencial,Mujer,Ferias & Networking,Casado,103948.0,102158.0,1.0,2.0,5.0,7.0,288260.0,89.0,75.0,47.0
+Presencial,Mujer,Linkedin,Viudo,103377.0,102140.0,1.0,2.0,1.0,3.0,813300.0,89.0,76.0,51.0
+Presencial,Hombre,Headhunter,Viudo,102907.0,102093.0,1.0,1.0,0.0,4.0,680838.0,89.0,94.0,45.0
+Presencial,Mujer,Referidos,Divorciado,102215.0,102050.0,1.0,2.0,2.0,16.0,655366.0,89.0,79.0,44.0
+Presencial,Hombre,Portal Web,Soltero,100277.0,102111.0,1.0,5.0,2.0,1.0,83315.0,88.0,81.0,18.0
+Presencial,Mujer,Ferias & Networking,Soltero,100796.0,102123.0,1.0,2.0,3.0,1.0,80323.0,88.0,77.0,18.0
+Presencial,Hombre,Linkedin,Soltero,100775.0,102127.0,1.0,5.0,1.0,15.0,311008.0,88.0,88.0,47.0
+Presencial,Mujer,Referidos,Divorciado,100789.0,102050.0,1.0,2.0,2.0,16.0,656734.0,88.0,79.0,44.0
+Presencial,Mujer,Ferias & Networking,Soltero,102571.0,102123.0,1.0,2.0,2.0,1.0,82740.0,88.0,77.0,18.0
+Presencial,Hombre,Portal Web,Soltero,102311.0,102056.0,1.0,6.0,8.0,7.0,270023.0,88.0,70.0,25.0
+Presencial,Mujer,Referidos,Casado,102433.0,102116.0,1.0,2.0,3.0,6.0,351958.0,88.0,72.0,31.0
+Presencial,Hombre,Portal Web,Soltero,103633.0,102040.0,1.0,1.0,2.0,5.0,675664.0,88.0,71.0,45.0
+Presencial,Hombre,Headhunter,Soltero,100319.0,102102.0,1.0,2.0,0.0,1.0,75669.0,87.0,69.0,18.0
+Presencial,Mujer,Referidos,Soltero,101879.0,102084.0,1.0,2.0,3.0,2.0,145459.0,87.0,82.0,18.0
+Presencial,Mujer,Headhunter,Soltero,100635.0,102064.0,1.0,6.0,1.0,3.0,286475.0,87.0,79.0,24.0
+Presencial,Hombre,Portal Web,Viudo,102004.0,102074.0,2.0,3.0,1.0,15.0,1616000.0,87.0,85.0,50.0
+Presencial,Hombre,Portal Web,Casado,101861.0,102026.0,1.0,3.0,0.0,10.0,913231.0,87.0,71.0,47.0
+Presencial,Hombre,Headhunter,Soltero,102376.0,102102.0,1.0,2.0,0.0,1.0,78906.0,87.0,69.0,18.0
+Presencial,Mujer,Headhunter,Soltero,102866.0,102064.0,1.0,6.0,0.0,3.0,287023.0,87.0,79.0,24.0
+Presencial,Mujer,Linkedin,Casado,102516.0,102107.0,1.0,1.0,3.0,9.0,470910.0,87.0,80.0,38.0
+Presencial,Mujer,Ferias & Networking,Casado,103306.0,102081.0,1.0,5.0,0.0,5.0,255156.0,87.0,67.0,39.0
+Presencial,Mujer,Referidos,Casado,104072.0,102172.0,1.0,3.0,2.0,9.0,659407.0,87.0,74.0,52.0
+Presencial,Mujer,Portal Web,Viudo,103073.0,102051.0,1.0,1.0,2.0,18.0,819746.0,87.0,76.0,46.0
+Presencial,Hombre,Portal Web,Divorciado,102930.0,102026.0,1.0,3.0,1.0,10.0,915820.0,87.0,71.0,47.0
+Presencial,Hombre,Linkedin,Soltero,100817.0,102128.0,1.0,5.0,2.0,2.0,96971.0,86.0,68.0,21.0
+Presencial,Hombre,Portal Web,Casado,100370.0,102100.0,1.0,7.0,2.0,1.0,231664.0,86.0,77.0,25.0
+Presencial,Mujer,Referidos,Soltero,100282.0,102107.0,1.0,2.0,2.0,11.0,870480.0,86.0,77.0,38.0
+Presencial,Mujer,Linkedin,Divorciado,101838.0,102122.0,1.0,3.0,0.0,3.0,391788.0,86.0,77.0,46.0
+Presencial,Hombre,Portal Web,Viudo,100765.0,102149.0,1.0,2.0,3.0,13.0,450123.0,86.0,88.0,47.0
+Presencial,Hombre,Portal Web,Divorciado,100984.0,102016.0,1.0,2.0,2.0,15.0,288178.0,86.0,82.0,37.0
+Presencial,Hombre,Portal Web,Casado,103249.0,102053.0,1.0,2.0,2.0,5.0,369153.0,86.0,82.0,28.0
+Presencial,Hombre,Ferias & Networking,Soltero,103230.0,102004.0,1.0,6.0,3.0,10.0,763722.0,86.0,67.0,27.0
+Presencial,Hombre,Portal Web,Viudo,103972.0,102149.0,1.0,2.0,3.0,13.0,443723.0,86.0,88.0,47.0
+Presencial,Hombre,Linkedin,Soltero,103269.0,102149.0,1.0,3.0,2.0,6.0,300171.0,86.0,66.0,48.0
+Presencial,Mujer,Ferias & Networking,Soltero,101999.0,102081.0,1.0,6.0,2.0,3.0,347254.0,85.0,78.0,31.0
+Presencial,Hombre,Linkedin,Soltero,100208.0,102149.0,1.0,3.0,2.0,6.0,297579.0,85.0,66.0,48.0
+Presencial,Mujer,Referidos,Soltero,100155.0,102092.0,1.0,4.0,1.0,15.0,817823.0,85.0,67.0,52.0
+Presencial,Mujer,Linkedin,Casado,100712.0,102095.0,1.0,2.0,2.0,11.0,860870.0,85.0,80.0,56.0
+Presencial,Mujer,Portal Web,Casado,102465.0,102145.0,1.0,2.0,10.0,5.0,266625.0,85.0,70.0,30.0
+Presencial,Mujer,Linkedin,Divorciado,103892.0,102122.0,1.0,3.0,0.0,3.0,390786.0,85.0,77.0,46.0
+Presencial,Mujer,Ferias & Networking,Casado,102270.0,102114.0,1.0,2.0,2.0,4.0,681462.0,85.0,67.0,50.0
+Presencial,Hombre,Linkedin,Soltero,104172.0,102137.0,1.0,4.0,3.0,8.0,702381.0,85.0,73.0,54.0
+Presencial,Hombre,Ferias & Networking,Divorciado,103654.0,102080.0,1.0,5.0,3.0,8.0,720453.0,85.0,70.0,46.0
+Presencial,Mujer,Referidos,Soltero,103354.0,102092.0,1.0,4.0,1.0,15.0,813478.0,85.0,67.0,52.0
+Presencial,Mujer,Portal Web,Casado,102451.0,102095.0,1.0,2.0,2.0,11.0,856692.0,85.0,80.0,56.0
+Presencial,Hombre,Linkedin,Casado,101976.0,102038.0,1.0,7.0,0.0,2.0,185711.0,84.0,76.0,17.0
+Presencial,Mujer,Portal Web,Casado,101651.0,102145.0,1.0,2.0,10.0,5.0,266889.0,84.0,70.0,29.0
+Presencial,Mujer,Linkedin,Soltero,100509.0,102026.0,1.0,1.0,0.0,6.0,310863.0,84.0,71.0,25.0
+Presencial,Hombre,Portal Web,Casado,100801.0,102137.0,1.0,6.0,10.0,12.0,491939.0,84.0,75.0,42.0
+Presencial,Hombre,Referidos,Divorciado,100264.0,102012.0,1.0,2.0,3.0,3.0,439798.0,84.0,77.0,39.0
+Presencial,Mujer,Linkedin,Casado,101086.0,102118.0,1.0,1.0,0.0,7.0,441732.0,84.0,87.0,47.0
+Presencial,Mujer,Referidos,Casado,100389.0,102051.0,1.0,1.0,3.0,4.0,678715.0,84.0,80.0,44.0
+Presencial,Hombre,Portal Web,Viudo,100802.0,102059.0,1.0,2.0,0.0,7.0,681852.0,84.0,77.0,43.0
+Presencial,Hombre,Referidos,Divorciado,101463.0,102045.0,1.0,4.0,1.0,8.0,917225.0,84.0,62.0,45.0
+Presencial,Hombre,Referidos,Soltero,103127.0,102124.0,1.0,7.0,2.0,6.0,248045.0,84.0,75.0,28.0
+Presencial,Mujer,Portal Web,Casado,103237.0,102072.0,1.0,4.0,0.0,5.0,432426.0,84.0,71.0,34.0
+Presencial,Hombre,Ferias & Networking,Viudo,103447.0,102098.0,1.0,3.0,2.0,13.0,696278.0,84.0,69.0,49.0
+Presencial,Mujer,Referidos,Viudo,103370.0,102083.0,1.0,6.0,5.0,18.0,835033.0,84.0,83.0,46.0
+Presencial,Mujer,Referidos,Soltero,100786.0,102115.0,1.0,1.0,1.0,7.0,250380.0,83.0,77.0,28.0
+Presencial,Hombre,Linkedin,Soltero,101723.0,102128.0,1.0,4.0,8.0,2.0,287452.0,83.0,71.0,30.0
+Presencial,Hombre,Linkedin,Soltero,101075.0,102106.0,1.0,5.0,2.0,6.0,421013.0,83.0,72.0,40.0
+Presencial,Mujer,Portal Web,Soltero,100815.0,102127.0,1.0,1.0,12.0,18.0,699457.0,83.0,76.0,53.0
+Presencial,Hombre,Ferias & Networking,Viudo,101911.0,102098.0,1.0,3.0,1.0,13.0,696171.0,83.0,69.0,49.0
+Presencial,Hombre,Referidos,Casado,100663.0,102052.0,1.0,2.0,1.0,19.0,916163.0,83.0,81.0,50.0
+Presencial,Mujer,Portal Web,Casado,104009.0,102171.0,1.0,2.0,2.0,1.0,119881.0,83.0,84.0,22.0
+Presencial,Mujer,Portal Web,Divorciado,103731.0,102057.0,1.0,1.0,6.0,2.0,188077.0,83.0,80.0,21.0
+Presencial,Hombre,Linkedin,Casado,102176.0,102038.0,1.0,7.0,0.0,2.0,189783.0,83.0,76.0,17.0
+Presencial,Hombre,Linkedin,Soltero,103697.0,102128.0,1.0,4.0,8.0,3.0,287431.0,83.0,71.0,30.0
+Presencial,Hombre,Referidos,Divorciado,102335.0,102045.0,1.0,4.0,1.0,8.0,914643.0,83.0,62.0,45.0
+Presencial,Hombre,Portal Web,Divorciado,102729.0,102143.0,1.0,2.0,2.0,12.0,762120.0,83.0,74.0,55.0
+Presencial,Mujer,Referidos,Casado,100105.0,102094.0,1.0,2.0,0.0,4.0,311745.0,82.0,61.0,28.0
+Presencial,Hombre,Portal Web,Casado,102763.0,102021.0,1.0,6.0,0.0,10.0,693750.0,82.0,77.0,43.0
+Presencial,Mujer,Portal Web,Viudo,103044.0,102067.0,1.0,2.0,1.0,11.0,895127.0,82.0,70.0,52.0
+Presencial,Hombre,Portal Web,Soltero,100524.0,102140.0,1.0,2.0,2.0,3.0,160749.0,81.0,61.0,23.0
+Presencial,Hombre,Portal Web,Casado,101543.0,102033.0,1.0,3.0,1.0,9.0,385097.0,81.0,81.0,26.0
+Presencial,Hombre,Linkedin,Soltero,100574.0,102124.0,1.0,5.0,0.0,9.0,388691.0,81.0,76.0,34.0
+Presencial,Mujer,Referidos,Casado,100090.0,102139.0,1.0,2.0,1.0,10.0,427089.0,81.0,85.0,38.0
+Presencial,Hombre,Linkedin,Soltero,101412.0,102106.0,1.0,6.0,1.0,5.0,465748.0,81.0,83.0,37.0
+Presencial,Mujer,Referidos,Soltero,101600.0,102094.0,1.0,5.0,1.0,5.0,282212.0,81.0,82.0,42.0
+Presencial,Hombre,Linkedin,Viudo,101186.0,102102.0,1.0,3.0,12.0,8.0,800990.0,81.0,85.0,49.0
+Presencial,Hombre,Portal Web,Soltero,104159.0,102140.0,1.0,2.0,1.0,3.0,155403.0,81.0,61.0,23.0
+Presencial,Mujer,Portal Web,Soltero,104132.0,102054.0,1.0,1.0,2.0,2.0,137738.0,81.0,72.0,14.0
+Presencial,Mujer,Referidos,Casado,102696.0,102094.0,1.0,2.0,0.0,4.0,306773.0,81.0,61.0,28.0
+Presencial,Hombre,Portal Web,Soltero,103970.0,102141.0,1.0,6.0,2.0,2.0,367417.0,81.0,72.0,37.0
+Presencial,Hombre,Portal Web,Soltero,102562.0,102156.0,1.0,2.0,1.0,6.0,370732.0,81.0,79.0,36.0
+Presencial,Hombre,Linkedin,Soltero,103259.0,102124.0,1.0,6.0,0.0,9.0,392004.0,81.0,76.0,34.0
+Presencial,Mujer,Referidos,Soltero,103117.0,102139.0,1.0,2.0,0.0,10.0,424599.0,81.0,85.0,38.0
+Presencial,Hombre,Portal Web,Casado,103123.0,102133.0,1.0,2.0,2.0,5.0,489949.0,81.0,75.0,42.0
+Presencial,Mujer,Linkedin,Divorciado,103290.0,102171.0,1.0,2.0,2.0,3.0,641550.0,81.0,70.0,50.0
+Presencial,Mujer,Referidos,Soltero,101685.0,102041.0,1.0,5.0,2.0,3.0,117886.0,90.0,64.0,15.0
+Presencial,Mujer,Portal Web,Soltero,101329.0,102054.0,1.0,1.0,3.0,1.0,137879.0,92.0,72.0,14.0
+Presencial,Mujer,Ferias & Networking,Soltero,101644.0,102109.0,1.0,2.0,2.0,3.0,188343.0,84.0,80.0,23.0
+Presencial,Mujer,Linkedin,Casado,102017.0,102095.0,2.0,5.0,0.0,2.0,641000.0,90.0,84.0,25.0
+Presencial,Hombre,Portal Web,Casado,101326.0,102035.0,1.0,3.0,2.0,7.0,346035.0,83.0,77.0,27.0
+Presencial,Hombre,Portal Web,Casado,100517.0,102133.0,1.0,2.0,3.0,5.0,486540.0,81.0,75.0,42.0
+Presencial,Hombre,Linkedin,Casado,100097.0,102080.0,1.0,1.0,7.0,3.0,490389.0,96.0,80.0,38.0
+Presencial,Mujer,Referidos,Divorciado,100395.0,102151.0,1.0,3.0,1.0,7.0,278306.0,98.0,70.0,46.0
+Presencial,Hombre,Referidos,Soltero,101816.0,102103.0,1.0,2.0,2.0,7.0,634817.0,93.0,74.0,46.0
+Presencial,Hombre,Referidos,Viudo,101311.0,102048.0,1.0,3.0,1.0,17.0,661756.0,89.0,69.0,42.0
+Presencial,Hombre,Referidos,Casado,102055.0,102074.0,2.0,2.0,2.0,8.0,1616000.0,97.0,63.0,43.0
+Presencial,Mujer,Ferias & Networking,Casado,102948.0,102129.0,1.0,7.0,1.0,9.0,424742.0,82.0,67.0,40.0
+Presencial,Hombre,Linkedin,Casado,103875.0,102080.0,1.0,1.0,8.0,3.0,485403.0,96.0,80.0,37.0
+Presencial,Mujer,Linkedin,Casado,102613.0,102041.0,1.0,2.0,0.0,3.0,269208.0,94.0,78.0,35.0
+Presencial,Hombre,Portal Web,Casado,103109.0,102065.0,1.0,1.0,2.0,7.0,437030.0,89.0,69.0,40.0
+Presencial,Hombre,Referidos,Viudo,103191.0,102048.0,1.0,3.0,2.0,17.0,654623.0,93.0,69.0,43.0
+Presencial,Mujer,Referidos,Soltero,103047.0,102141.0,1.0,2.0,1.0,17.0,835673.0,83.0,70.0,52.0
+Presencial,Mujer,Linkedin,Casado,103773.0,102074.0,1.0,0.0,2.0,5.0,720121.0,81.0,74.0,49.0
+Presencial,Mujer,Referidos,Divorciado,102488.0,102169.0,1.0,2.0,1.0,13.0,735658.0,97.0,75.0,56.0
+Presencial,Hombre,Ferias & Networking,Soltero,100489.0,102049.0,1.0,6.0,2.0,1.0,122376.0,92.0,78.0,13.0
+Presencial,Hombre,Ferias & Networking,Soltero,100061.0,102088.0,1.0,2.0,2.0,2.0,138088.0,84.0,73.0,20.0
+Presencial,Mujer,Portal Web,Soltero,101830.0,102016.0,1.0,2.0,2.0,6.0,272802.0,84.0,83.0,21.0
+Presencial,Hombre,Portal Web,Soltero,101229.0,102064.0,1.0,2.0,1.0,5.0,371029.0,92.0,72.0,29.0
+Presencial,Mujer,Referidos,Casado,102126.0,102074.0,2.0,2.0,1.0,2.0,1049000.0,94.0,79.0,35.0
+Presencial,Hombre,Linkedin,Soltero,100727.0,102141.0,1.0,3.0,2.0,11.0,487532.0,81.0,62.0,41.0
+Presencial,Mujer,Ferias & Networking,Casado,101487.0,102053.0,1.0,1.0,0.0,13.0,266769.0,80.0,77.0,36.0
+Presencial,Hombre,Referidos,Casado,101649.0,102039.0,1.0,4.0,2.0,10.0,302137.0,96.0,83.0,39.0
+Presencial,Mujer,Portal Web,Viudo,100036.0,102048.0,1.0,3.0,2.0,9.0,444574.0,90.0,81.0,39.0
+Presencial,Hombre,Linkedin,Casado,100811.0,102116.0,1.0,6.0,2.0,11.0,636725.0,85.0,80.0,46.0
+Presencial,Mujer,Referidos,Soltero,100039.0,102141.0,1.0,2.0,1.0,17.0,834568.0,82.0,70.0,52.0
+Presencial,Mujer,Ferias & Networking,Soltero,101663.0,102122.0,1.0,7.0,2.0,8.0,675433.0,92.0,81.0,51.0
+Presencial,Mujer,Linkedin,Casado,101811.0,102074.0,1.0,0.0,2.0,5.0,713597.0,82.0,74.0,49.0
+Presencial,Hombre,Linkedin,Soltero,102040.0,102074.0,2.0,3.0,1.0,15.0,1616000.0,91.0,84.0,45.0
+Presencial,Hombre,Referidos,Viudo,101164.0,102106.0,1.0,2.0,3.0,6.0,799744.0,91.0,70.0,53.0
+Presencial,Hombre,Ferias & Networking,Soltero,101253.0,102096.0,1.0,5.0,2.0,11.0,918287.0,94.0,80.0,53.0
+Presencial,Hombre,Linkedin,Soltero,104068.0,102123.0,1.0,2.0,9.0,6.0,309963.0,92.0,69.0,30.0
+Presencial,Mujer,Portal Web,Casado,103239.0,102036.0,1.0,1.0,1.0,4.0,364884.0,95.0,79.0,26.0
+Presencial,Mujer,Portal Web,Casado,103554.0,102073.0,1.0,3.0,5.0,5.0,448709.0,97.0,75.0,34.0
+Presencial,Mujer,Ferias & Networking,Casado,102377.0,102053.0,1.0,1.0,1.0,13.0,264732.0,90.0,77.0,36.0
+Presencial,Mujer,Referidos,Divorciado,103527.0,102151.0,1.0,3.0,0.0,7.0,280210.0,84.0,70.0,46.0
+Presencial,Hombre,Referidos,Casado,102230.0,102039.0,1.0,4.0,1.0,11.0,296620.0,81.0,83.0,39.0
+Presencial,Mujer,Ferias & Networking,Soltero,103298.0,102122.0,1.0,7.0,2.0,8.0,676796.0,89.0,81.0,51.0
+Presencial,Hombre,Linkedin,Divorciado,102810.0,102108.0,1.0,5.0,1.0,14.0,917727.0,94.0,80.0,56.0
+Presencial,Hombre,Portal Web,Soltero,100772.0,102055.0,1.0,1.0,0.0,1.0,95554.0,93.0,84.0,15.0
+Presencial,Mujer,Portal Web,Casado,101802.0,102115.0,1.0,2.0,9.0,2.0,183038.0,89.0,74.0,24.0
+Presencial,Hombre,Portal Web,Casado,101283.0,102035.0,1.0,4.0,5.0,3.0,250604.0,80.0,85.0,21.0
+Presencial,Hombre,Linkedin,Casado,101942.0,102040.0,1.0,2.0,3.0,4.0,369235.0,85.0,75.0,26.0
+Presencial,Hombre,Portal Web,Soltero,101763.0,102168.0,1.0,4.0,0.0,5.0,388388.0,94.0,74.0,38.0
+Presencial,Mujer,Portal Web,Casado,100396.0,102073.0,1.0,3.0,4.0,5.0,452748.0,94.0,75.0,34.0
+Presencial,Hombre,Linkedin,Casado,101042.0,102107.0,1.0,2.0,8.0,5.0,491043.0,92.0,74.0,40.0
+Presencial,Mujer,Referidos,Soltero,100083.0,102104.0,1.0,2.0,0.0,9.0,375428.0,96.0,82.0,45.0
+Presencial,Hombre,Portal Web,Viudo,101519.0,102075.0,1.0,2.0,0.0,13.0,300186.0,98.0,81.0,44.0
+Presencial,Mujer,Portal Web,Divorciado,101462.0,102100.0,1.0,2.0,3.0,7.0,633919.0,88.0,72.0,44.0
+Presencial,Mujer,Linkedin,Divorciado,100418.0,102069.0,1.0,2.0,1.0,13.0,305163.0,93.0,74.0,41.0
+Presencial,Hombre,Linkedin,Divorciado,100566.0,102031.0,1.0,2.0,0.0,7.0,680810.0,95.0,82.0,43.0
+Presencial,Mujer,Linkedin,Divorciado,100536.0,102080.0,1.0,4.0,1.0,7.0,699307.0,87.0,70.0,49.0
+Presencial,Hombre,Ferias & Networking,Soltero,100558.0,102031.0,1.0,5.0,1.0,5.0,695178.0,90.0,79.0,44.0
+Presencial,Mujer,Linkedin,Soltero,104046.0,102132.0,1.0,3.0,14.0,2.0,136423.0,87.0,72.0,23.0
+Presencial,Hombre,Ferias & Networking,Soltero,104065.0,102088.0,1.0,2.0,2.0,2.0,138150.0,84.0,73.0,20.0
+Presencial,Mujer,Portal Web,Soltero,102362.0,102124.0,1.0,3.0,2.0,1.0,167169.0,82.0,61.0,24.0
+Presencial,Hombre,Linkedin,Soltero,103742.0,102127.0,1.0,2.0,1.0,1.0,227910.0,83.0,71.0,27.0
+Presencial,Hombre,Portal Web,Casado,103409.0,102129.0,1.0,1.0,2.0,6.0,288172.0,82.0,71.0,31.0
+Presencial,Mujer,Portal Web,Soltero,104067.0,102066.0,1.0,2.0,2.0,6.0,289865.0,84.0,84.0,26.0
+Presencial,Mujer,Portal Web,Casado,102395.0,102111.0,1.0,2.0,4.0,3.0,327270.0,91.0,77.0,31.0
+Presencial,Mujer,Linkedin,Soltero,103994.0,102040.0,1.0,2.0,6.0,5.0,368088.0,88.0,70.0,28.0
+Presencial,Hombre,Portal Web,Soltero,103574.0,102064.0,1.0,2.0,2.0,5.0,371715.0,87.0,72.0,29.0
+Presencial,Hombre,Portal Web,Casado,103668.0,102116.0,1.0,2.0,10.0,3.0,389097.0,83.0,80.0,36.0
+Presencial,Mujer,Portal Web,Casado,102228.0,102128.0,1.0,2.0,1.0,4.0,445437.0,98.0,72.0,39.0
+Presencial,Hombre,Portal Web,Soltero,102471.0,102072.0,1.0,2.0,3.0,5.0,264110.0,92.0,84.0,40.0
+Presencial,Mujer,Portal Web,Viudo,103194.0,102048.0,1.0,3.0,2.0,9.0,443206.0,81.0,81.0,39.0
+Presencial,Hombre,Linkedin,Casado,103097.0,102116.0,1.0,6.0,2.0,11.0,635455.0,97.0,80.0,46.0
+Presencial,Mujer,Portal Web,Divorciado,102767.0,102100.0,1.0,2.0,3.0,7.0,634051.0,88.0,72.0,45.0
+Presencial,Hombre,Linkedin,Viudo,103826.0,102069.0,1.0,4.0,5.0,4.0,678529.0,90.0,83.0,45.0
+Presencial,Hombre,Portal Web,Soltero,102603.0,102035.0,1.0,2.0,1.0,16.0,819421.0,83.0,78.0,44.0
+Presencial,Mujer,Linkedin,Soltero,101477.0,102049.0,1.0,6.0,8.0,1.0,103393.0,83.0,76.0,12.0
+Presencial,Mujer,Portal Web,Soltero,101530.0,102110.0,1.0,7.0,0.0,2.0,120345.0,93.0,77.0,18.0
+Presencial,Hombre,Portal Web,Soltero,100449.0,102126.0,1.0,5.0,1.0,2.0,142786.0,91.0,83.0,22.0
+Presencial,Hombre,Portal Web,Casado,100068.0,102076.0,1.0,2.0,2.0,4.0,207920.0,95.0,72.0,22.0
+Presencial,Hombre,Linkedin,Soltero,101927.0,102127.0,1.0,1.0,1.0,1.0,228002.0,98.0,71.0,27.0
+Presencial,Hombre,Linkedin,Divorciado,100905.0,102067.0,1.0,1.0,9.0,3.0,231757.0,96.0,75.0,21.0
+Presencial,Hombre,Linkedin,Soltero,101006.0,102062.0,1.0,2.0,0.0,5.0,230777.0,83.0,75.0,21.0
+Presencial,Mujer,Portal Web,Soltero,102148.0,102079.0,2.0,1.0,2.0,2.0,539000.0,80.0,67.0,26.0
+Presencial,Hombre,Portal Web,Casado,101992.0,102116.0,1.0,2.0,11.0,3.0,389994.0,88.0,80.0,36.0
+Presencial,Hombre,Ferias & Networking,Casado,100044.0,102151.0,1.0,4.0,2.0,8.0,432816.0,98.0,78.0,37.0
+Presencial,Mujer,Portal Web,Soltero,102007.0,102074.0,2.0,5.0,2.0,6.0,1358450.0,96.0,62.0,42.0
+Presencial,Mujer,Portal Web,Soltero,101399.0,102070.0,1.0,2.0,1.0,10.0,292008.0,86.0,74.0,40.0
+Presencial,Mujer,Portal Web,Casado,102161.0,102074.0,2.0,4.0,5.0,4.0,1409960.0,85.0,77.0,37.0
+Presencial,Hombre,Portal Web,Viudo,100025.0,102039.0,1.0,3.0,1.0,15.0,761792.0,85.0,67.0,41.0
+Presencial,Hombre,Portal Web,Viudo,100457.0,102112.0,1.0,1.0,8.0,4.0,656313.0,97.0,87.0,49.0
+Presencial,Mujer,Portal Web,Viudo,100260.0,102022.0,1.0,2.0,1.0,5.0,678305.0,95.0,70.0,42.0
+Presencial,Mujer,Portal Web,Casado,101280.0,102068.0,1.0,2.0,1.0,9.0,720206.0,88.0,79.0,47.0
+Presencial,Hombre,Referidos,Casado,101331.0,102091.0,1.0,2.0,2.0,8.0,737328.0,93.0,81.0,50.0
+Presencial,Mujer,Portal Web,Divorciado,101057.0,102040.0,1.0,2.0,8.0,10.0,899738.0,95.0,72.0,45.0
+Presencial,Mujer,Linkedin,Casado,102001.0,102074.0,2.0,2.0,1.0,8.0,1616000.0,81.0,76.0,52.0
+Presencial,Hombre,Portal Web,Viudo,102102.0,102074.0,2.0,2.0,0.0,5.0,1616000.0,92.0,63.0,49.0
+Presencial,Mujer,Linkedin,Soltero,101779.0,102018.0,1.0,2.0,2.0,14.0,878820.0,81.0,78.0,50.0
+Presencial,Mujer,Linkedin,Soltero,102169.0,102074.0,2.0,2.0,7.0,11.0,1616000.0,93.0,74.0,55.0
+Presencial,Mujer,Portal Web,Casado,102656.0,102115.0,1.0,2.0,8.0,2.0,181703.0,89.0,74.0,24.0
+Presencial,Hombre,Portal Web,Casado,102607.0,102035.0,1.0,4.0,5.0,3.0,253366.0,95.0,85.0,21.0
+Presencial,Hombre,Portal Web,Soltero,104039.0,102137.0,1.0,1.0,0.0,6.0,365149.0,83.0,62.0,35.0
+Presencial,Mujer,Linkedin,Soltero,103045.0,102114.0,1.0,0.0,3.0,4.0,825970.0,89.0,75.0,37.0
+Presencial,Mujer,Ferias & Networking,Casado,102184.0,102069.0,1.0,3.0,1.0,4.0,824319.0,87.0,66.0,36.0
+Presencial,Hombre,Linkedin,Casado,103481.0,102107.0,1.0,2.0,8.0,5.0,485681.0,96.0,74.0,40.0
+Presencial,Mujer,Referidos,Casado,103884.0,102119.0,1.0,4.0,3.0,6.0,258170.0,86.0,69.0,40.0
+Presencial,Hombre,Linkedin,Casado,102185.0,102021.0,1.0,2.0,1.0,11.0,399263.0,92.0,66.0,36.0
+Presencial,Mujer,Linkedin,Divorciado,103852.0,102122.0,1.0,2.0,1.0,8.0,273749.0,81.0,63.0,45.0
+Presencial,Mujer,Referidos,Soltero,102478.0,102104.0,1.0,2.0,0.0,9.0,381403.0,94.0,82.0,45.0
+Presencial,Hombre,Referidos,Divorciado,102974.0,102089.0,1.0,1.0,1.0,8.0,309419.0,92.0,85.0,44.0
+Presencial,Mujer,Portal Web,Divorciado,102716.0,102114.0,1.0,4.0,2.0,4.0,308293.0,87.0,77.0,44.0
+Presencial,Hombre,Portal Web,Viudo,102388.0,102039.0,1.0,3.0,1.0,15.0,758777.0,87.0,67.0,41.0
+Presencial,Hombre,Portal Web,Viudo,102728.0,102112.0,1.0,1.0,8.0,4.0,655701.0,91.0,87.0,49.0
+Presencial,Mujer,Linkedin,Viudo,103400.0,102139.0,1.0,2.0,1.0,11.0,701574.0,84.0,72.0,53.0
+Presencial,Mujer,Linkedin,Divorciado,102576.0,102080.0,1.0,4.0,1.0,7.0,702009.0,80.0,70.0,49.0
+Presencial,Hombre,Portal Web,Divorciado,102658.0,102039.0,1.0,3.0,1.0,17.0,721813.0,91.0,76.0,45.0
+Presencial,Hombre,Linkedin,Soltero,100896.0,102028.0,1.0,6.0,3.0,1.0,95610.0,80.0,75.0,12.0
+Presencial,Mujer,Ferias & Networking,Casado,100883.0,102172.0,1.0,2.0,1.0,4.0,250238.0,84.0,75.0,30.0
+Presencial,Mujer,Linkedin,Soltero,100825.0,102100.0,1.0,5.0,8.0,5.0,293716.0,87.0,79.0,27.0
+Presencial,Hombre,Linkedin,Divorciado,102052.0,102095.0,2.0,4.0,0.0,5.0,641000.0,84.0,76.0,18.0
+Presencial,Hombre,Ferias & Networking,Soltero,101625.0,102093.0,1.0,3.0,2.0,6.0,349225.0,81.0,83.0,31.0
+Presencial,Mujer,Portal Web,Casado,100447.0,102035.0,1.0,5.0,1.0,4.0,350850.0,91.0,71.0,27.0
+Presencial,Mujer,Headhunter,Casado,101670.0,102069.0,1.0,3.0,1.0,4.0,828652.0,95.0,66.0,36.0
+Presencial,Hombre,Portal Web,Casado,101895.0,102094.0,1.0,2.0,3.0,15.0,279538.0,89.0,76.0,43.0
+Presencial,Hombre,Linkedin,Soltero,101571.0,102078.0,1.0,4.0,9.0,8.0,297929.0,82.0,66.0,42.0
+Presencial,Hombre,Ferias & Networking,Divorciado,102151.0,102074.0,2.0,2.0,2.0,10.0,1616000.0,85.0,80.0,45.0
+Presencial,Mujer,Linkedin,Casado,100115.0,102105.0,1.0,3.0,7.0,8.0,681281.0,84.0,81.0,46.0
+Presencial,Hombre,Portal Web,Divorciado,101198.0,102039.0,1.0,3.0,2.0,17.0,721244.0,95.0,76.0,45.0
+Presencial,Hombre,Portal Web,Divorciado,102135.0,102074.0,2.0,2.0,1.0,2.0,1616000.0,82.0,75.0,49.0
+Presencial,Hombre,Linkedin,Soltero,103612.0,102028.0,1.0,6.0,2.0,1.0,100876.0,85.0,75.0,12.0
+Presencial,Mujer,Portal Web,Soltero,104141.0,102097.0,1.0,2.0,9.0,1.0,120730.0,80.0,74.0,17.0
+Presencial,Hombre,Referidos,Soltero,102820.0,102078.0,1.0,2.0,2.0,5.0,189534.0,96.0,78.0,23.0
+Presencial,Mujer,Linkedin,Viudo,102884.0,102100.0,1.0,5.0,9.0,5.0,290456.0,83.0,79.0,27.0
+Presencial,Mujer,Linkedin,Soltero,103161.0,102056.0,1.0,6.0,1.0,6.0,311984.0,97.0,71.0,25.0
+Presencial,Mujer,Ferias & Networking,Soltero,102726.0,102068.0,1.0,5.0,1.0,11.0,275155.0,88.0,78.0,39.0
+Presencial,Mujer,Portal Web,Soltero,102644.0,102117.0,1.0,2.0,4.0,5.0,296613.0,94.0,62.0,47.0
+Presencial,Mujer,Portal Web,Casado,104097.0,102105.0,1.0,3.0,7.0,8.0,680221.0,98.0,81.0,46.0
+Presencial,Hombre,Referidos,Casado,102630.0,102091.0,1.0,2.0,2.0,8.0,740586.0,89.0,81.0,50.0
+Presencial,Hombre,Linkedin,Casado,102564.0,102044.0,1.0,4.0,2.0,5.0,920230.0,90.0,65.0,49.0
+Presencial,Mujer,Linkedin,Soltero,102965.0,102018.0,1.0,2.0,3.0,14.0,879081.0,81.0,78.0,50.0
+Presencial,Mujer,Linkedin,Casado,102981.0,102052.0,1.0,3.0,1.0,12.0,920219.0,82.0,77.0,54.0
+Presencial,Hombre,Referidos,Soltero,100780.0,102081.0,1.0,2.0,2.0,2.0,118184.0,96.0,77.0,18.0
+Presencial,Mujer,Linkedin,Soltero,100008.0,102056.0,1.0,6.0,2.0,6.0,309654.0,91.0,71.0,25.0
+Presencial,Mujer,Referidos,Casado,100764.0,102085.0,1.0,4.0,2.0,3.0,373022.0,92.0,76.0,30.0
+Presencial,Mujer,Referidos,Divorciado,100154.0,102075.0,1.0,3.0,2.0,10.0,408952.0,93.0,78.0,32.0
+Presencial,Mujer,Referidos,Casado,101384.0,102171.0,1.0,1.0,0.0,8.0,409721.0,84.0,74.0,39.0
+Presencial,Mujer,Portal Web,Casado,100869.0,102138.0,1.0,3.0,7.0,4.0,406138.0,92.0,71.0,36.0
+Presencial,Hombre,Linkedin,Viudo,100975.0,102132.0,1.0,3.0,0.0,4.0,469363.0,81.0,79.0,38.0
+Presencial,Mujer,Portal Web,Casado,100931.0,102144.0,1.0,3.0,2.0,13.0,508108.0,91.0,71.0,42.0
+Presencial,Hombre,Linkedin,Soltero,102130.0,102074.0,2.0,2.0,6.0,5.0,1616000.0,84.0,73.0,32.0
+Presencial,Mujer,Ferias & Networking,Soltero,101538.0,102068.0,1.0,5.0,0.0,11.0,274579.0,87.0,78.0,40.0
+Presencial,Mujer,Referidos,Casado,100333.0,102011.0,1.0,3.0,1.0,17.0,676607.0,96.0,85.0,43.0
+Presencial,Mujer,Linkedin,Casado,100289.0,102052.0,1.0,2.0,2.0,12.0,919882.0,82.0,77.0,54.0
+Presencial,Hombre,Referidos,Soltero,103569.0,102081.0,1.0,2.0,2.0,2.0,122670.0,85.0,77.0,17.0
+Presencial,Mujer,Linkedin,Soltero,104081.0,102078.0,1.0,3.0,3.0,3.0,115874.0,90.0,75.0,18.0
+Presencial,Hombre,Portal Web,Soltero,103842.0,102046.0,1.0,7.0,1.0,1.0,140927.0,91.0,72.0,17.0
+Presencial,Mujer,Referidos,Casado,102850.0,102171.0,1.0,1.0,1.0,8.0,410495.0,91.0,74.0,39.0
+Presencial,Hombre,Linkedin,Casado,103638.0,102111.0,1.0,4.0,2.0,4.0,467515.0,91.0,87.0,37.0
+Presencial,Mujer,Linkedin,Casado,102353.0,102111.0,1.0,6.0,2.0,3.0,262465.0,85.0,69.0,41.0
+Presencial,Mujer,Linkedin,Casado,102491.0,102026.0,1.0,1.0,2.0,13.0,407498.0,81.0,79.0,35.0
+Presencial,Hombre,Portal Web,Casado,102477.0,102094.0,1.0,2.0,2.0,15.0,274491.0,84.0,76.0,43.0
+Presencial,Mujer,Referidos,Casado,102689.0,102011.0,1.0,3.0,1.0,17.0,676213.0,85.0,85.0,43.0
+Presencial,Mujer,Ferias & Networking,Casado,102365.0,102123.0,1.0,2.0,0.0,18.0,719200.0,82.0,75.0,53.0
+Presencial,Mujer,Ferias & Networking,Divorciado,100404.0,102085.0,1.0,1.0,1.0,1.0,96906.0,81.0,76.0,15.0
+Presencial,Hombre,Linkedin,Viudo,101091.0,102057.0,1.0,3.0,3.0,10.0,756647.0,98.0,84.0,43.0
+Presencial,Hombre,Linkedin,Viudo,100881.0,102076.0,1.0,6.0,1.0,3.0,754284.0,98.0,80.0,48.0
+Presencial,Hombre,Portal Web,Casado,102038.0,102074.0,2.0,2.0,1.0,12.0,1616000.0,81.0,82.0,45.0
+Presencial,Hombre,Portal Web,Soltero,101085.0,102125.0,1.0,3.0,2.0,18.0,841377.0,95.0,82.0,56.0
+Presencial,Hombre,Portal Web,Casado,102794.0,102078.0,1.0,5.0,5.0,5.0,365476.0,90.0,72.0,31.0
+Presencial,Hombre,Portal Web,Casado,103330.0,102027.0,1.0,3.0,2.0,5.0,365914.0,83.0,76.0,27.0
+Presencial,Hombre,Referidos,Casado,102702.0,102147.0,1.0,2.0,3.0,9.0,256082.0,86.0,70.0,44.0
+Presencial,Mujer,Portal Web,Soltero,102657.0,102110.0,1.0,2.0,0.0,3.0,286320.0,87.0,76.0,42.0
+Presencial,Hombre,Referidos,Casado,101290.0,102147.0,1.0,2.0,2.0,9.0,262022.0,98.0,70.0,44.0
+Presencial,Mujer,Linkedin,Casado,102082.0,102074.0,2.0,6.0,2.0,7.0,1616000.0,81.0,70.0,37.0
+Presencial,Mujer,Portal Web,Divorciado,102114.0,102074.0,2.0,1.0,1.0,5.0,1616000.0,91.0,69.0,48.0
+Presencial,Hombre,Portal Web,Casado,103622.0,102050.0,1.0,4.0,2.0,2.0,313257.0,97.0,75.0,25.0
+Presencial,Mujer,Referidos,Soltero,104020.0,102138.0,1.0,4.0,1.0,3.0,309969.0,83.0,88.0,47.0
+Presencial,Mujer,Ferias & Networking,Soltero,101376.0,102050.0,1.0,5.0,2.0,4.0,408855.0,92.0,72.0,32.0
+Presencial,Hombre,Portal Web,Casado,100864.0,102163.0,1.0,5.0,1.0,7.0,373855.0,89.0,82.0,45.0
+Presencial,Mujer,Referidos,Soltero,100653.0,102138.0,1.0,4.0,2.0,3.0,306685.0,80.0,88.0,47.0
+Presencial,Mujer,Portal Web,Casado,102445.0,102050.0,1.0,2.0,11.0,1.0,188706.0,91.0,64.0,20.0
+Presencial,Mujer,Linkedin,Casado,103026.0,102142.0,1.0,2.0,11.0,5.0,325077.0,90.0,86.0,34.0
+Presencial,Hombre,Portal Web,Casado,104108.0,102146.0,1.0,2.0,0.0,12.0,296578.0,86.0,81.0,48.0
+Presencial,Hombre,Portal Web,Casado,101390.0,102146.0,1.0,2.0,1.0,12.0,293695.0,80.0,81.0,49.0
+Presencial,Mujer,Portal Web,Soltero,102083.0,102074.0,2.0,2.0,0.0,5.0,1564490.0,83.0,71.0,45.0
+Presencial,Hombre,Headhunter,Casado,101566.0,102147.0,1.0,2.0,12.0,4.0,919398.0,96.0,80.0,57.0
+Presencial,Mujer,Linkedin,Soltero,103724.0,102078.0,1.0,4.0,2.0,2.0,79211.0,88.0,72.0,16.0
+Presencial,Hombre,Ferias & Networking,Soltero,103302.0,102028.0,1.0,3.0,2.0,1.0,98237.0,91.0,83.0,11.0
+Presencial,Mujer,Referidos,Soltero,102235.0,102070.0,1.0,2.0,3.0,1.0,135684.0,91.0,75.0,16.0
+Presencial,Mujer,Referidos,Soltero,102553.0,102108.0,1.0,3.0,2.0,3.0,180398.0,80.0,80.0,21.0
+Presencial,Mujer,Portal Web,Soltero,103087.0,102107.0,1.0,5.0,2.0,3.0,231547.0,90.0,66.0,27.0
+Presencial,Mujer,Ferias & Networking,Soltero,102248.0,102117.0,1.0,3.0,0.0,6.0,286247.0,98.0,74.0,29.0
+Presencial,Hombre,Linkedin,Casado,103146.0,102036.0,1.0,2.0,9.0,5.0,313478.0,95.0,75.0,25.0
+Presencial,Mujer,Ferias & Networking,Soltero,103360.0,102050.0,1.0,5.0,3.0,4.0,405863.0,84.0,72.0,32.0
+Presencial,Hombre,Ferias & Networking,Casado,102213.0,102171.0,1.0,4.0,2.0,5.0,805961.0,98.0,80.0,41.0
+Presencial,Mujer,Portal Web,Casado,102443.0,102148.0,1.0,2.0,3.0,8.0,428391.0,96.0,70.0,45.0
+Presencial,Mujer,Ferias & Networking,Soltero,100879.0,102048.0,1.0,2.0,0.0,1.0,79098.0,97.0,74.0,13.0
+Presencial,Hombre,Portal Web,Soltero,101021.0,102096.0,1.0,6.0,10.0,2.0,98041.0,88.0,73.0,17.0
+Presencial,Mujer,Ferias & Networking,Soltero,100207.0,102054.0,1.0,2.0,0.0,3.0,141510.0,89.0,73.0,16.0
+Presencial,Mujer,Referidos,Soltero,100571.0,102070.0,1.0,2.0,2.0,1.0,143130.0,82.0,75.0,16.0
+Presencial,Mujer,Referidos,Soltero,101205.0,102108.0,1.0,3.0,3.0,3.0,180218.0,80.0,80.0,21.0
+Presencial,Mujer,Referidos,Soltero,101677.0,102108.0,1.0,2.0,1.0,7.0,393510.0,83.0,65.0,33.0
+Presencial,Mujer,Portal Web,Casado,100579.0,102121.0,1.0,3.0,3.0,11.0,443614.0,80.0,69.0,45.0
+Presencial,Hombre,Linkedin,Casado,101279.0,102071.0,1.0,4.0,2.0,3.0,377951.0,96.0,76.0,43.0
+Presencial,Mujer,Portal Web,Divorciado,101638.0,102039.0,1.0,6.0,2.0,15.0,301589.0,82.0,72.0,41.0
+Presencial,Mujer,Ferias & Networking,Divorciado,100111.0,102136.0,1.0,5.0,3.0,14.0,716817.0,95.0,66.0,55.0
+Presencial,Hombre,Referidos,Viudo,102039.0,102074.0,2.0,4.0,0.0,5.0,1616000.0,93.0,75.0,50.0
+Presencial,Hombre,Portal Web,Viudo,102036.0,102074.0,2.0,2.0,8.0,5.0,1616000.0,92.0,76.0,55.0
+Presencial,Mujer,Ferias & Networking,Soltero,103382.0,102054.0,1.0,2.0,1.0,3.0,143309.0,83.0,73.0,16.0
+Presencial,Hombre,Linkedin,Casado,102775.0,102071.0,1.0,4.0,3.0,3.0,381346.0,90.0,76.0,43.0
+Presencial,Hombre,Linkedin,Soltero,101145.0,102115.0,1.0,4.0,2.0,2.0,78505.0,93.0,75.0,18.0
+Presencial,Mujer,Portal Web,Casado,101435.0,102131.0,1.0,2.0,2.0,6.0,210588.0,90.0,78.0,25.0
+Presencial,Hombre,Headhunter,Soltero,100686.0,102082.0,1.0,2.0,1.0,6.0,804235.0,86.0,76.0,35.0
+Presencial,Mujer,Portal Web,Casado,101228.0,102115.0,1.0,4.0,0.0,12.0,270875.0,87.0,74.0,44.0
+Presencial,Mujer,Portal Web,Soltero,101267.0,102119.0,1.0,3.0,5.0,14.0,264053.0,82.0,70.0,43.0
+Presencial,Mujer,Ferias & Networking,Divorciado,100533.0,102050.0,1.0,5.0,1.0,10.0,701712.0,97.0,69.0,45.0
+Presencial,Mujer,Ferias & Networking,Soltero,102752.0,102048.0,1.0,2.0,0.0,1.0,83900.0,85.0,74.0,13.0
+Presencial,Hombre,Portal Web,Soltero,103840.0,102082.0,1.0,2.0,1.0,2.0,96955.0,95.0,73.0,15.0
+Presencial,Hombre,Referidos,Casado,102903.0,102037.0,1.0,2.0,3.0,4.0,352992.0,91.0,68.0,26.0
+Presencial,Hombre,Headhunter,Soltero,103158.0,102082.0,1.0,2.0,1.0,6.0,804018.0,95.0,76.0,35.0
+Presencial,Hombre,Referidos,Soltero,104035.0,102125.0,1.0,3.0,1.0,4.0,491372.0,84.0,72.0,39.0
+Presencial,Mujer,Referidos,Soltero,103665.0,102032.0,1.0,2.0,4.0,5.0,257667.0,89.0,79.0,35.0
+Presencial,Mujer,Portal Web,Soltero,104167.0,102119.0,1.0,3.0,6.0,15.0,271868.0,88.0,70.0,43.0
+Presencial,Hombre,Ferias & Networking,Viudo,102693.0,102034.0,1.0,3.0,2.0,9.0,394600.0,95.0,78.0,40.0
+Presencial,Hombre,Headhunter,Viudo,101667.0,102038.0,1.0,2.0,0.0,18.0,896665.0,93.0,85.0,43.0
+Presencial,Hombre,Ferias & Networking,Viudo,102074.0,102074.0,2.0,1.0,0.0,4.0,1616000.0,80.0,83.0,43.0
+Presencial,Mujer,Referidos,Viudo,100605.0,102028.0,1.0,3.0,2.0,9.0,900905.0,97.0,62.0,46.0
+Presencial,Mujer,Portal Web,Casado,104157.0,102131.0,1.0,2.0,2.0,6.0,212684.0,84.0,78.0,25.0
+Presencial,Mujer,Portal Web,Casado,102904.0,102115.0,1.0,4.0,0.0,12.0,270020.0,93.0,74.0,44.0
+Presencial,Mujer,Linkedin,Viudo,104015.0,102143.0,1.0,2.0,1.0,5.0,635586.0,84.0,70.0,48.0
+Presencial,Mujer,Portal Web,Soltero,100440.0,102159.0,1.0,3.0,1.0,7.0,429579.0,94.0,88.0,39.0
+Presencial,Hombre,Referidos,Soltero,102412.0,102171.0,1.0,7.0,1.0,8.0,452226.0,81.0,75.0,41.0
+Presencial,Hombre,Portal Web,Casado,103221.0,102056.0,1.0,2.0,3.0,6.0,276306.0,96.0,72.0,39.0
+Presencial,Mujer,Ferias & Networking,Casado,101152.0,102061.0,1.0,2.0,0.0,8.0,274624.0,83.0,75.0,39.0
+Presencial,Hombre,Portal Web,Casado,101605.0,102056.0,1.0,2.0,2.0,6.0,278866.0,88.0,72.0,39.0
+Presencial,Hombre,Portal Web,Soltero,102053.0,102074.0,2.0,1.0,0.0,11.0,1616000.0,81.0,64.0,36.0
+Presencial,Mujer,Linkedin,Casado,103063.0,102030.0,1.0,5.0,5.0,6.0,790446.0,94.0,82.0,30.0
+Presencial,Hombre,Portal Web,Divorciado,102941.0,102032.0,1.0,4.0,0.0,9.0,779978.0,88.0,71.0,42.0
+Presencial,Mujer,Linkedin,Soltero,100675.0,102054.0,1.0,2.0,1.0,2.0,164252.0,92.0,71.0,19.0
+Presencial,Hombre,Portal Web,Casado,100170.0,102102.0,1.0,5.0,7.0,3.0,387896.0,94.0,63.0,35.0
+Presencial,Hombre,Linkedin,Viudo,101795.0,102114.0,1.0,2.0,5.0,15.0,427144.0,89.0,77.0,46.0
+Presencial,Hombre,Portal Web,Divorciado,101252.0,102032.0,1.0,4.0,1.0,9.0,782182.0,86.0,71.0,42.0
+Presencial,Hombre,Ferias & Networking,Soltero,103711.0,102085.0,1.0,2.0,2.0,6.0,329585.0,85.0,75.0,28.0
+Presencial,Mujer,Portal Web,Casado,103572.0,102099.0,1.0,3.0,9.0,8.0,390423.0,90.0,91.0,32.0
+Presencial,Mujer,Referidos,Casado,102472.0,102037.0,1.0,2.0,2.0,6.0,393182.0,90.0,76.0,28.0
+Presencial,Hombre,Portal Web,Soltero,104040.0,102026.0,1.0,1.0,2.0,9.0,429236.0,93.0,71.0,29.0
+Presencial,Mujer,Portal Web,Casado,102809.0,102134.0,1.0,3.0,0.0,10.0,264128.0,84.0,84.0,43.0
+Presencial,Hombre,Referidos,Soltero,103589.0,102079.0,1.0,2.0,2.0,7.0,457694.0,81.0,78.0,40.0
+Presencial,Hombre,Linkedin,Viudo,103175.0,102114.0,1.0,2.0,6.0,15.0,423519.0,89.0,77.0,46.0
+Presencial,Mujer,Linkedin,Viudo,101961.0,102109.0,1.0,3.0,2.0,8.0,327265.0,96.0,78.0,31.0
+Presencial,Hombre,Referidos,Casado,100063.0,102007.0,1.0,2.0,1.0,5.0,264076.0,97.0,75.0,35.0
+Presencial,Mujer,Referidos,Divorciado,101284.0,102100.0,1.0,2.0,3.0,11.0,405250.0,91.0,83.0,45.0
+Presencial,Hombre,Portal Web,Divorciado,101063.0,102089.0,1.0,5.0,1.0,12.0,896019.0,95.0,76.0,48.0
+Presencial,Mujer,Referidos,Casado,100331.0,102075.0,1.0,2.0,2.0,8.0,719310.0,91.0,73.0,48.0
+Presencial,Hombre,Portal Web,Soltero,103927.0,102049.0,1.0,2.0,2.0,3.0,141213.0,92.0,78.0,15.0
+Presencial,Hombre,Ferias & Networking,Soltero,102394.0,102060.0,1.0,2.0,1.0,2.0,193812.0,84.0,62.0,20.0
+Presencial,Hombre,Portal Web,Casado,103807.0,102128.0,1.0,3.0,2.0,8.0,308029.0,87.0,71.0,32.0
+Presencial,Hombre,Portal Web,Casado,102641.0,102039.0,1.0,3.0,0.0,8.0,331290.0,80.0,81.0,26.0
+Presencial,Hombre,Linkedin,Soltero,100096.0,102128.0,1.0,2.0,8.0,10.0,409114.0,98.0,77.0,35.0
+Presencial,Hombre,Ferias & Networking,Divorciado,102089.0,102074.0,2.0,3.0,1.0,6.0,1616000.0,96.0,69.0,60.0
+Presencial,Hombre,Portal Web,Soltero,104062.0,102077.0,1.0,2.0,6.0,5.0,786736.0,97.0,72.0,33.0
+Presencial,Hombre,Portal Web,Casado,103043.0,102112.0,1.0,6.0,2.0,2.0,470549.0,88.0,69.0,39.0
+Presencial,Hombre,Portal Web,Soltero,102446.0,102135.0,1.0,3.0,3.0,12.0,401396.0,88.0,78.0,45.0
+Presencial,Hombre,Portal Web,Divorciado,102975.0,102089.0,1.0,5.0,2.0,12.0,896822.0,98.0,76.0,48.0
+Presencial,Mujer,Portal Web,Casado,102951.0,102067.0,1.0,3.0,3.0,4.0,898002.0,97.0,75.0,50.0
+Presencial,Hombre,Portal Web,Viudo,101172.0,102138.0,1.0,4.0,7.0,2.0,205041.0,83.0,74.0,24.0
+Presencial,Mujer,Portal Web,Soltero,100895.0,102083.0,1.0,2.0,1.0,10.0,367115.0,86.0,78.0,28.0
+Presencial,Hombre,Portal Web,Soltero,102073.0,102074.0,2.0,2.0,2.0,11.0,1306940.0,95.0,86.0,38.0
+Presencial,Mujer,Linkedin,Viudo,101451.0,102139.0,1.0,2.0,12.0,7.0,308062.0,96.0,74.0,48.0
+Presencial,Mujer,Portal Web,Divorciado,101104.0,102031.0,1.0,6.0,1.0,14.0,460556.0,90.0,72.0,39.0
+Presencial,Hombre,Portal Web,Casado,100263.0,102119.0,1.0,2.0,2.0,3.0,878378.0,95.0,68.0,49.0
+Presencial,Mujer,Ferias & Networking,Viudo,100122.0,102102.0,1.0,2.0,2.0,9.0,822237.0,88.0,81.0,52.0
+Presencial,Hombre,Ferias & Networking,Soltero,102181.0,102023.0,1.0,4.0,0.0,5.0,289850.0,94.0,79.0,23.0
+Presencial,Mujer,Portal Web,Soltero,102759.0,102137.0,1.0,2.0,2.0,3.0,465300.0,98.0,77.0,40.0
+Presencial,Mujer,Linkedin,Viudo,103308.0,102139.0,1.0,2.0,11.0,5.0,309250.0,91.0,74.0,47.0
+Presencial,Hombre,Portal Web,Casado,102688.0,102119.0,1.0,2.0,3.0,3.0,876863.0,89.0,68.0,49.0
+Presencial,Mujer,Referidos,Soltero,100005.0,102158.0,1.0,2.0,1.0,1.0,102728.0,80.0,78.0,21.0
+Presencial,Hombre,Portal Web,Casado,100320.0,102123.0,1.0,4.0,1.0,2.0,168109.0,81.0,68.0,23.0
+Presencial,Mujer,Portal Web,Casado,100259.0,102106.0,1.0,3.0,1.0,7.0,407727.0,93.0,65.0,35.0
+Presencial,Hombre,Portal Web,Casado,100993.0,102168.0,1.0,1.0,1.0,9.0,259435.0,85.0,72.0,45.0
+Presencial,Mujer,Linkedin,Casado,100693.0,102054.0,1.0,2.0,2.0,13.0,433625.0,91.0,78.0,35.0
+Presencial,Mujer,Linkedin,Viudo,100603.0,102139.0,1.0,2.0,2.0,11.0,916130.0,95.0,79.0,59.0
+Presencial,Mujer,Referidos,Soltero,102303.0,102158.0,1.0,2.0,1.0,1.0,96483.0,95.0,78.0,21.0
+Presencial,Mujer,Linkedin,Soltero,103796.0,102105.0,1.0,4.0,1.0,1.0,103891.0,85.0,65.0,17.0
+Presencial,Hombre,Portal Web,Soltero,103014.0,102142.0,1.0,2.0,1.0,3.0,163690.0,82.0,70.0,24.0
+Presencial,Hombre,Portal Web,Viudo,104144.0,102138.0,1.0,4.0,7.0,2.0,203288.0,95.0,74.0,24.0
+Presencial,Mujer,Ferias & Networking,Viudo,103463.0,102060.0,1.0,2.0,1.0,8.0,637075.0,88.0,75.0,44.0
+Presencial,Hombre,Portal Web,Viudo,102550.0,102042.0,1.0,1.0,1.0,13.0,873238.0,80.0,85.0,44.0
+Presencial,Mujer,Linkedin,Viudo,103500.0,102137.0,1.0,1.0,2.0,4.0,795232.0,94.0,78.0,52.0
+Presencial,Mujer,Linkedin,Casado,103501.0,102054.0,1.0,1.0,2.0,9.0,734878.0,89.0,71.0,48.0
+Presencial,Mujer,Portal Web,Divorciado,102739.0,102030.0,1.0,5.0,0.0,7.0,734481.0,81.0,74.0,46.0
+Presencial,Hombre,Linkedin,Soltero,100740.0,102074.0,1.0,2.0,1.0,1.0,82029.0,91.0,83.0,13.0
+Presencial,Mujer,Linkedin,Soltero,100829.0,102148.0,1.0,1.0,2.0,6.0,228184.0,91.0,67.0,30.0
+Presencial,Mujer,Portal Web,Casado,101188.0,102057.0,1.0,2.0,1.0,2.0,251897.0,84.0,79.0,24.0
+Presencial,Hombre,Linkedin,Casado,100019.0,102084.0,1.0,4.0,3.0,7.0,288351.0,94.0,70.0,28.0
+Presencial,Hombre,Portal Web,Divorciado,100631.0,102138.0,1.0,5.0,2.0,14.0,662472.0,85.0,70.0,52.0
+Presencial,Hombre,Portal Web,Viudo,100794.0,102042.0,1.0,2.0,0.0,13.0,879220.0,80.0,85.0,44.0
+Presencial,Mujer,Linkedin,Viudo,100538.0,102137.0,1.0,1.0,2.0,4.0,800767.0,80.0,78.0,51.0
+Presencial,Mujer,Linkedin,Casado,101044.0,102054.0,1.0,1.0,2.0,9.0,733997.0,90.0,71.0,48.0
+Presencial,Hombre,Linkedin,Soltero,102457.0,102074.0,1.0,2.0,1.0,1.0,82974.0,90.0,83.0,13.0
+Presencial,Mujer,Linkedin,Soltero,103433.0,102148.0,1.0,1.0,3.0,6.0,229674.0,96.0,67.0,30.0
+Presencial,Mujer,Portal Web,Casado,103130.0,102057.0,1.0,2.0,1.0,2.0,253078.0,81.0,79.0,24.0
+Presencial,Hombre,Linkedin,Casado,102795.0,102142.0,1.0,2.0,12.0,7.0,331772.0,88.0,75.0,34.0
+Presencial,Hombre,Referidos,Casado,103108.0,102092.0,1.0,1.0,2.0,6.0,775334.0,84.0,81.0,47.0
+Presencial,Mujer,Portal Web,Soltero,100386.0,102104.0,1.0,6.0,3.0,2.0,166082.0,97.0,66.0,23.0
+Presencial,Mujer,Portal Web,Casado,100520.0,102024.0,1.0,1.0,1.0,3.0,205280.0,84.0,79.0,17.0
+Presencial,Hombre,Ferias & Networking,Soltero,101163.0,102100.0,1.0,2.0,0.0,5.0,286445.0,97.0,71.0,27.0
+Presencial,Hombre,Ferias & Networking,Casado,100555.0,102044.0,1.0,1.0,1.0,8.0,328863.0,80.0,64.0,24.0
+Presencial,Mujer,Portal Web,Soltero,101674.0,102164.0,1.0,2.0,3.0,6.0,365983.0,91.0,68.0,36.0
+Presencial,Hombre,Linkedin,Casado,100223.0,102075.0,1.0,2.0,8.0,6.0,386124.0,92.0,79.0,30.0
+Presencial,Mujer,Linkedin,Soltero,101602.0,102044.0,1.0,2.0,10.0,3.0,388271.0,89.0,67.0,28.0
+Presencial,Hombre,Referidos,Soltero,101481.0,102113.0,1.0,3.0,1.0,3.0,411602.0,82.0,77.0,34.0
+Presencial,Hombre,Ferias & Networking,Casado,100668.0,102145.0,1.0,6.0,1.0,5.0,792386.0,86.0,68.0,40.0
+Presencial,Mujer,Ferias & Networking,Soltero,101531.0,102104.0,1.0,4.0,2.0,5.0,487977.0,93.0,76.0,38.0
+Presencial,Mujer,Portal Web,Soltero,101733.0,102059.0,1.0,3.0,2.0,7.0,484265.0,97.0,83.0,34.0
+Presencial,Hombre,Portal Web,Divorciado,101686.0,102125.0,1.0,2.0,2.0,13.0,278527.0,85.0,79.0,44.0
+Presencial,Hombre,Linkedin,Casado,101031.0,102112.0,1.0,4.0,1.0,9.0,296283.0,92.0,77.0,45.0
+Presencial,Mujer,Linkedin,Soltero,101516.0,102023.0,1.0,6.0,2.0,12.0,661445.0,89.0,67.0,42.0
+Presencial,Mujer,Portal Web,Soltero,103693.0,102055.0,1.0,2.0,8.0,5.0,180760.0,96.0,71.0,18.0
+Presencial,Hombre,Linkedin,Soltero,103434.0,102043.0,1.0,3.0,1.0,5.0,186515.0,90.0,77.0,19.0
+Presencial,Hombre,Ferias & Networking,Casado,102195.0,102142.0,1.0,4.0,0.0,1.0,231475.0,92.0,75.0,28.0
+Presencial,Hombre,Ferias & Networking,Soltero,103499.0,102100.0,1.0,2.0,0.0,5.0,291959.0,90.0,71.0,27.0
+Presencial,Mujer,Linkedin,Soltero,103913.0,102044.0,1.0,6.0,3.0,8.0,306898.0,85.0,79.0,26.0
+Presencial,Mujer,Portal Web,Soltero,104128.0,102164.0,1.0,2.0,3.0,6.0,366785.0,85.0,68.0,36.0
+Presencial,Mujer,Linkedin,Soltero,103664.0,102044.0,1.0,2.0,10.0,3.0,393514.0,88.0,67.0,28.0
+Presencial,Hombre,Referidos,Soltero,102698.0,102113.0,1.0,3.0,2.0,3.0,412371.0,93.0,77.0,34.0
+Presencial,Hombre,Portal Web,Divorciado,103057.0,102119.0,1.0,2.0,2.0,12.0,464934.0,85.0,76.0,40.0
+Presencial,Mujer,Linkedin,Casado,102701.0,102082.0,1.0,7.0,8.0,14.0,266776.0,90.0,76.0,41.0
+Presencial,Hombre,Linkedin,Casado,102523.0,102085.0,1.0,6.0,1.0,12.0,288487.0,89.0,88.0,42.0
+Presencial,Hombre,Portal Web,Casado,102296.0,102112.0,1.0,4.0,1.0,9.0,296281.0,86.0,77.0,45.0
+Presencial,Hombre,Portal Web,Divorciado,103867.0,102114.0,1.0,6.0,7.0,6.0,307826.0,84.0,77.0,46.0
+Presencial,Hombre,Linkedin,Divorciado,102743.0,102130.0,1.0,2.0,1.0,9.0,695247.0,89.0,63.0,53.0
+Presencial,Hombre,Ferias & Networking,Soltero,101183.0,102041.0,1.0,6.0,1.0,2.0,119883.0,89.0,75.0,14.0
+Presencial,Hombre,Linkedin,Soltero,100467.0,102043.0,1.0,3.0,2.0,5.0,187644.0,81.0,77.0,18.0
+Presencial,Hombre,Headhunter,Casado,100398.0,102151.0,1.0,5.0,1.0,4.0,266865.0,84.0,70.0,30.0
+Presencial,Hombre,Portal Web,Soltero,101518.0,102129.0,1.0,2.0,1.0,7.0,246586.0,96.0,65.0,28.0
+Presencial,Hombre,Ferias & Networking,Soltero,101160.0,102140.0,1.0,7.0,0.0,7.0,289311.0,94.0,75.0,30.0
+Presencial,Mujer,Linkedin,Soltero,101691.0,102044.0,1.0,6.0,3.0,8.0,313254.0,85.0,79.0,26.0
+Presencial,Hombre,Referidos,Soltero,101119.0,102044.0,1.0,5.0,4.0,3.0,327091.0,98.0,72.0,26.0
+Presencial,Hombre,Referidos,Casado,100699.0,102172.0,1.0,2.0,1.0,8.0,792202.0,93.0,64.0,37.0
+Presencial,Mujer,Referidos,Soltero,101977.0,102058.0,1.0,2.0,2.0,5.0,432693.0,93.0,72.0,30.0
+Presencial,Hombre,Referidos,Soltero,100232.0,102040.0,1.0,1.0,1.0,5.0,768163.0,92.0,83.0,31.0
+Presencial,Hombre,Portal Web,Divorciado,101656.0,102119.0,1.0,2.0,2.0,12.0,470811.0,81.0,76.0,40.0
+Presencial,Mujer,Portal Web,Casado,100341.0,102085.0,1.0,2.0,1.0,9.0,243779.0,87.0,61.0,39.0
+Presencial,Mujer,Linkedin,Casado,100597.0,102105.0,1.0,4.0,2.0,8.0,255103.0,92.0,79.0,39.0
+Presencial,Mujer,Linkedin,Casado,100276.0,102082.0,1.0,7.0,8.0,14.0,267580.0,88.0,76.0,41.0
+Presencial,Mujer,Linkedin,Soltero,102028.0,102074.0,2.0,1.0,2.0,12.0,1358450.0,97.0,72.0,35.0
+Presencial,Mujer,Linkedin,Divorciado,102086.0,102074.0,2.0,2.0,2.0,7.0,1306940.0,87.0,68.0,39.0
+Presencial,Mujer,Portal Web,Casado,102150.0,102074.0,2.0,4.0,8.0,10.0,1358450.0,85.0,75.0,32.0
+Presencial,Hombre,Linkedin,Casado,101689.0,102085.0,1.0,6.0,2.0,12.0,284655.0,86.0,88.0,43.0
+Presencial,Hombre,Ferias & Networking,Soltero,101622.0,102048.0,1.0,4.0,1.0,3.0,309096.0,97.0,81.0,43.0
+Presencial,Hombre,Portal Web,Viudo,102022.0,102074.0,2.0,2.0,0.0,6.0,1616000.0,94.0,66.0,48.0
+Presencial,Hombre,Linkedin,Casado,101378.0,102081.0,1.0,4.0,6.0,6.0,893594.0,84.0,86.0,53.0
+Presencial,Hombre,Portal Web,Casado,102035.0,102074.0,2.0,3.0,1.0,23.0,1900000.0,83.0,72.0,57.0
+Presencial,Hombre,Ferias & Networking,Soltero,103392.0,102041.0,1.0,6.0,1.0,2.0,122600.0,82.0,75.0,14.0
+Presencial,Hombre,Portal Web,Soltero,104092.0,102129.0,1.0,2.0,2.0,7.0,253675.0,83.0,65.0,28.0
+Presencial,Hombre,Ferias & Networking,Casado,103163.0,102145.0,1.0,6.0,1.0,5.0,791189.0,98.0,68.0,40.0
+Presencial,Mujer,Ferias & Networking,Viudo,103323.0,102081.0,1.0,5.0,2.0,7.0,274422.0,92.0,85.0,39.0
+Presencial,Hombre,Portal Web,Divorciado,104044.0,102125.0,1.0,2.0,2.0,13.0,277936.0,80.0,79.0,44.0
+Presencial,Hombre,Ferias & Networking,Soltero,102968.0,102048.0,1.0,4.0,2.0,3.0,312292.0,97.0,81.0,43.0
+Presencial,Mujer,Portal Web,Viudo,103218.0,102031.0,1.0,2.0,1.0,6.0,895724.0,88.0,88.0,50.0
+Presencial,Mujer,Referidos,Soltero,100426.0,102043.0,1.0,2.0,0.0,1.0,208498.0,98.0,67.0,20.0
+Presencial,Mujer,Portal Web,Casado,100215.0,102084.0,1.0,2.0,8.0,4.0,428422.0,90.0,65.0,33.0
+Presencial,Mujer,Linkedin,Soltero,102110.0,102074.0,2.0,2.0,5.0,2.0,998000.0,87.0,76.0,29.0
+Presencial,Hombre,Portal Web,Casado,100074.0,102045.0,1.0,2.0,2.0,14.0,440246.0,90.0,70.0,38.0
+Presencial,Mujer,Portal Web,Soltero,100082.0,102065.0,1.0,5.0,6.0,3.0,837045.0,92.0,72.0,46.0
+Presencial,Mujer,Portal Web,Divorciado,100406.0,102018.0,1.0,3.0,1.0,8.0,797939.0,98.0,71.0,42.0
+Presencial,Mujer,Referidos,Soltero,103300.0,102024.0,1.0,5.0,3.0,8.0,486856.0,86.0,77.0,32.0
+Presencial,Mujer,Portal Web,Divorciado,102875.0,102018.0,1.0,3.0,1.0,8.0,796781.0,83.0,71.0,42.0
+Presencial,Mujer,Linkedin,Casado,100325.0,102003.0,1.0,4.0,3.0,3.0,227618.0,83.0,77.0,19.0
+Presencial,Mujer,Portal Web,Soltero,101570.0,102062.0,1.0,1.0,0.0,3.0,445745.0,90.0,76.0,34.0
+Presencial,Mujer,Portal Web,Viudo,101767.0,102037.0,1.0,2.0,3.0,9.0,695104.0,88.0,73.0,43.0
+Presencial,Mujer,Linkedin,Casado,103677.0,102003.0,1.0,4.0,2.0,3.0,226487.0,92.0,77.0,19.0
+Presencial,Mujer,Portal Web,Casado,103005.0,102073.0,1.0,6.0,1.0,9.0,407185.0,98.0,86.0,31.0
+Presencial,Mujer,Portal Web,Soltero,102343.0,102062.0,1.0,1.0,1.0,3.0,451669.0,87.0,76.0,34.0
+Presencial,Mujer,Linkedin,Soltero,100937.0,102101.0,1.0,1.0,2.0,1.0,140559.0,85.0,77.0,19.0
+Presencial,Hombre,Linkedin,Soltero,100565.0,102154.0,1.0,5.0,0.0,6.0,227557.0,89.0,70.0,28.0
+Presencial,Hombre,Ferias & Networking,Casado,101817.0,102115.0,1.0,3.0,2.0,3.0,246416.0,81.0,70.0,26.0
+Presencial,Hombre,Portal Web,Soltero,100769.0,102150.0,1.0,5.0,7.0,9.0,390718.0,91.0,61.0,37.0
+Presencial,Mujer,Referidos,Casado,100149.0,102117.0,1.0,2.0,1.0,6.0,788434.0,85.0,77.0,36.0
+Presencial,Mujer,Portal Web,Casado,100243.0,102013.0,1.0,1.0,3.0,6.0,877505.0,86.0,70.0,46.0
+Presencial,Mujer,Referidos,Soltero,103215.0,102109.0,1.0,6.0,2.0,1.0,250693.0,90.0,74.0,28.0
+Presencial,Hombre,Portal Web,Soltero,103715.0,102150.0,1.0,5.0,6.0,9.0,390678.0,82.0,61.0,37.0
+Presencial,Mujer,Referidos,Casado,102367.0,102117.0,1.0,2.0,1.0,6.0,790710.0,81.0,77.0,36.0
+Presencial,Hombre,Portal Web,Casado,100152.0,102110.0,1.0,4.0,0.0,1.0,180570.0,90.0,79.0,24.0
+Presencial,Hombre,Linkedin,Casado,101204.0,102084.0,1.0,1.0,1.0,5.0,307154.0,91.0,64.0,28.0
+Presencial,Mujer,Portal Web,Divorciado,100577.0,102152.0,1.0,1.0,1.0,5.0,301061.0,80.0,86.0,47.0
+Presencial,Mujer,Linkedin,Viudo,101478.0,102075.0,1.0,2.0,2.0,3.0,419357.0,92.0,81.0,42.0
+Presencial,Mujer,Portal Web,Casado,102026.0,102074.0,2.0,3.0,1.0,15.0,1616000.0,97.0,79.0,59.0
+Presencial,Mujer,Linkedin,Soltero,103479.0,102101.0,1.0,1.0,1.0,1.0,146416.0,96.0,77.0,20.0
+Presencial,Mujer,Linkedin,Soltero,102549.0,102068.0,1.0,2.0,0.0,1.0,160667.0,97.0,82.0,19.0
+Presencial,Hombre,Portal Web,Casado,103588.0,102110.0,1.0,4.0,0.0,1.0,185488.0,92.0,79.0,24.0
+Presencial,Mujer,Portal Web,Casado,103336.0,102064.0,1.0,2.0,1.0,7.0,420718.0,97.0,76.0,39.0
+Presencial,Mujer,Linkedin,Divorciado,102515.0,102056.0,1.0,2.0,0.0,10.0,269612.0,86.0,76.0,36.0
+Presencial,Hombre,Referidos,Casado,102703.0,102172.0,1.0,2.0,2.0,12.0,317459.0,88.0,70.0,50.0
+Presencial,Hombre,Ferias & Networking,Divorciado,103013.0,102098.0,1.0,4.0,2.0,13.0,873262.0,96.0,87.0,46.0
+Presencial,Mujer,Portal Web,Divorciado,102950.0,102048.0,1.0,6.0,2.0,18.0,742229.0,86.0,71.0,48.0
+Presencial,Mujer,Linkedin,Soltero,101105.0,102068.0,1.0,2.0,1.0,1.0,165775.0,87.0,82.0,19.0
+Presencial,Mujer,Portal Web,Soltero,101804.0,102069.0,1.0,3.0,2.0,3.0,186157.0,85.0,71.0,21.0
+Presencial,Mujer,Portal Web,Casado,100402.0,102096.0,1.0,1.0,5.0,6.0,326166.0,89.0,68.0,30.0
+Presencial,Mujer,Portal Web,Casado,102714.0,102096.0,1.0,1.0,4.0,6.0,327055.0,88.0,68.0,30.0
+Presencial,Hombre,Portal Web,Soltero,102417.0,102065.0,1.0,2.0,9.0,1.0,141722.0,92.0,76.0,17.0
+Presencial,Mujer,Ferias & Networking,Casado,100485.0,102101.0,1.0,2.0,1.0,2.0,143062.0,94.0,72.0,18.0
+Presencial,Hombre,Ferias & Networking,Soltero,100746.0,102122.0,1.0,2.0,1.0,3.0,163646.0,91.0,76.0,23.0
+Presencial,Mujer,Portal Web,Soltero,100043.0,102011.0,1.0,1.0,1.0,6.0,328927.0,96.0,82.0,24.0
+Presencial,Mujer,Portal Web,Soltero,100600.0,102010.0,1.0,1.0,1.0,8.0,408888.0,98.0,69.0,28.0
+Presencial,Hombre,Portal Web,Soltero,101758.0,102138.0,1.0,1.0,4.0,5.0,310423.0,94.0,77.0,48.0
+Presencial,Hombre,Referidos,Viudo,101434.0,102105.0,1.0,5.0,0.0,8.0,310809.0,85.0,76.0,44.0
+Presencial,Mujer,Linkedin,Divorciado,100718.0,102091.0,1.0,2.0,2.0,9.0,405082.0,88.0,81.0,43.0
+Presencial,Mujer,Portal Web,Viudo,101577.0,102153.0,1.0,4.0,1.0,7.0,676172.0,95.0,76.0,51.0
+Presencial,Hombre,Portal Web,Casado,101932.0,102036.0,1.0,2.0,0.0,4.0,720228.0,89.0,71.0,43.0
+Presencial,Mujer,Referidos,Casado,101772.0,102031.0,1.0,2.0,1.0,21.0,901724.0,85.0,80.0,50.0
+Presencial,Mujer,Portal Web,Soltero,104075.0,102094.0,1.0,1.0,2.0,1.0,100872.0,89.0,74.0,17.0
+Presencial,Hombre,Ferias & Networking,Soltero,102422.0,102102.0,1.0,5.0,2.0,1.0,227979.0,88.0,75.0,25.0
+Presencial,Mujer,Portal Web,Soltero,102502.0,102026.0,1.0,2.0,0.0,1.0,226937.0,82.0,74.0,20.0
+Presencial,Mujer,Linkedin,Soltero,103732.0,102071.0,1.0,1.0,0.0,7.0,331890.0,98.0,74.0,27.0
+Presencial,Mujer,Portal Web,Soltero,102942.0,102011.0,1.0,1.0,1.0,6.0,333345.0,87.0,82.0,24.0
+Presencial,Mujer,Portal Web,Soltero,102336.0,102069.0,1.0,6.0,8.0,5.0,351052.0,92.0,74.0,30.0
+Presencial,Hombre,Linkedin,Casado,102949.0,102083.0,1.0,6.0,1.0,6.0,468818.0,83.0,75.0,35.0
+Presencial,Hombre,Portal Web,Soltero,102673.0,102103.0,1.0,2.0,1.0,12.0,264111.0,82.0,61.0,41.0
+Presencial,Hombre,Portal Web,Soltero,103531.0,102121.0,1.0,2.0,5.0,10.0,269868.0,87.0,83.0,45.0
+Presencial,Mujer,Referidos,Soltero,102258.0,102092.0,1.0,5.0,0.0,12.0,285019.0,82.0,72.0,42.0
+Presencial,Mujer,Linkedin,Soltero,102804.0,102088.0,1.0,2.0,2.0,14.0,312036.0,87.0,87.0,44.0
+Presencial,Mujer,Linkedin,Divorciado,102983.0,102091.0,1.0,2.0,3.0,9.0,406177.0,91.0,81.0,43.0
+Presencial,Hombre,Ferias & Networking,Viudo,103682.0,102116.0,1.0,2.0,2.0,5.0,642085.0,82.0,72.0,48.0
+Presencial,Mujer,Portal Web,Viudo,102583.0,102153.0,1.0,4.0,2.0,7.0,682624.0,92.0,76.0,51.0
+Presencial,Hombre,Portal Web,Casado,103750.0,102067.0,1.0,1.0,2.0,3.0,736279.0,96.0,66.0,49.0
+Presencial,Mujer,Referidos,Casado,103287.0,102031.0,1.0,2.0,2.0,20.0,898122.0,83.0,80.0,50.0
+Presencial,Mujer,Portal Web,Soltero,101973.0,102144.0,1.0,2.0,1.0,3.0,138624.0,84.0,68.0,24.0
+Presencial,Mujer,Portal Web,Soltero,100809.0,102122.0,1.0,2.0,2.0,1.0,139161.0,88.0,82.0,20.0
+Presencial,Mujer,Referidos,Soltero,100791.0,102104.0,1.0,3.0,3.0,2.0,166920.0,92.0,75.0,22.0
+Presencial,Mujer,Ferias & Networking,Casado,101019.0,102065.0,1.0,6.0,0.0,4.0,229014.0,90.0,72.0,24.0
+Presencial,Mujer,Portal Web,Soltero,102014.0,102109.0,2.0,2.0,1.0,2.0,488000.0,98.0,78.0,26.0
+Presencial,Mujer,Portal Web,Casado,101411.0,102096.0,1.0,4.0,0.0,4.0,269006.0,88.0,76.0,28.0
+Presencial,Mujer,Linkedin,Soltero,101607.0,102094.0,1.0,2.0,11.0,5.0,267730.0,97.0,76.0,28.0
+Presencial,Mujer,Portal Web,Casado,100510.0,102047.0,1.0,1.0,1.0,7.0,312053.0,82.0,74.0,25.0
+Presencial,Hombre,Linkedin,Casado,101876.0,102099.0,1.0,8.0,2.0,2.0,311691.0,98.0,71.0,28.0
+Presencial,Mujer,Linkedin,Soltero,100067.0,102071.0,1.0,1.0,0.0,7.0,333688.0,85.0,74.0,27.0
+Presencial,Mujer,Portal Web,Casado,100977.0,102142.0,1.0,6.0,2.0,3.0,329986.0,83.0,74.0,33.0
+Presencial,Hombre,Portal Web,Soltero,100508.0,102171.0,1.0,1.0,1.0,4.0,405453.0,92.0,72.0,39.0
+Presencial,Mujer,Portal Web,Casado,102109.0,102074.0,2.0,4.0,1.0,5.0,998000.0,97.0,82.0,32.0
+Presencial,Mujer,Portal Web,Casado,100735.0,102123.0,1.0,2.0,3.0,12.0,849030.0,98.0,82.0,38.0
+Presencial,Mujer,Linkedin,Soltero,100585.0,102077.0,1.0,4.0,3.0,4.0,845456.0,82.0,69.0,36.0
+Presencial,Hombre,Linkedin,Divorciado,101837.0,102102.0,1.0,3.0,1.0,9.0,809260.0,86.0,79.0,40.0
+Presencial,Mujer,Linkedin,Divorciado,101029.0,102112.0,1.0,2.0,0.0,15.0,378245.0,97.0,76.0,44.0
+Presencial,Hombre,Linkedin,Viudo,101417.0,102129.0,1.0,1.0,1.0,11.0,418469.0,89.0,63.0,47.0
+Presencial,Mujer,Referidos,Divorciado,100806.0,102116.0,1.0,4.0,0.0,14.0,657322.0,93.0,72.0,48.0
+Presencial,Hombre,Portal Web,Casado,102064.0,102074.0,2.0,1.0,0.0,6.0,1616000.0,92.0,92.0,44.0
+Presencial,Hombre,Portal Web,Casado,101415.0,102067.0,1.0,1.0,2.0,3.0,741647.0,91.0,66.0,49.0
+Presencial,Mujer,Referidos,Casado,100749.0,102137.0,1.0,2.0,2.0,7.0,734277.0,89.0,71.0,54.0
+Presencial,Hombre,Portal Web,Divorciado,101946.0,102153.0,1.0,4.0,2.0,9.0,918753.0,96.0,80.0,59.0
+Presencial,Hombre,Portal Web,Casado,102029.0,102074.0,2.0,6.0,2.0,16.0,1616000.0,80.0,84.0,49.0
+Presencial,Mujer,Linkedin,Divorciado,100257.0,102132.0,1.0,5.0,8.0,6.0,856924.0,94.0,75.0,58.0
+Presencial,Mujer,Linkedin,Divorciado,100674.0,102108.0,1.0,2.0,0.0,10.0,920911.0,84.0,67.0,59.0
+Presencial,Hombre,Portal Web,Divorciado,102101.0,102074.0,2.0,6.0,0.0,26.0,1616000.0,92.0,68.0,56.0
+Presencial,Mujer,Linkedin,Soltero,103623.0,102089.0,1.0,2.0,1.0,2.0,83936.0,80.0,98.0,17.0
+Presencial,Mujer,Ferias & Networking,Casado,103223.0,102101.0,1.0,2.0,2.0,2.0,146479.0,89.0,72.0,18.0
+Presencial,Mujer,Ferias & Networking,Soltero,103929.0,102119.0,1.0,2.0,2.0,2.0,182791.0,84.0,64.0,23.0
+Presencial,Hombre,Referidos,Soltero,104071.0,102079.0,1.0,2.0,2.0,1.0,185396.0,98.0,75.0,21.0
+Presencial,Mujer,Linkedin,Soltero,103387.0,102070.0,1.0,5.0,2.0,1.0,187433.0,98.0,70.0,21.0
+Presencial,Mujer,Portal Web,Casado,103939.0,102131.0,1.0,5.0,1.0,4.0,270882.0,85.0,84.0,29.0
+Presencial,Mujer,Portal Web,Casado,102428.0,102096.0,1.0,4.0,0.0,4.0,270434.0,81.0,76.0,29.0
+Presencial,Hombre,Ferias & Networking,Casado,102861.0,102014.0,1.0,4.0,1.0,2.0,290432.0,93.0,82.0,21.0
+Presencial,Mujer,Portal Web,Casado,103681.0,102047.0,1.0,1.0,1.0,7.0,304771.0,93.0,74.0,25.0
+Presencial,Mujer,Portal Web,Casado,103822.0,102142.0,1.0,6.0,2.0,3.0,330753.0,85.0,74.0,32.0
+Presencial,Hombre,Linkedin,Casado,102589.0,102099.0,1.0,8.0,2.0,2.0,311489.0,87.0,71.0,28.0
+Presencial,Hombre,Portal Web,Casado,103328.0,102129.0,1.0,4.0,1.0,3.0,326682.0,86.0,75.0,32.0
+Presencial,Mujer,Portal Web,Soltero,102350.0,102041.0,1.0,2.0,1.0,2.0,388577.0,91.0,71.0,29.0
+Presencial,Hombre,Linkedin,Casado,102512.0,102097.0,1.0,5.0,1.0,11.0,428675.0,86.0,75.0,35.0
+Presencial,Mujer,Portal Web,Soltero,102685.0,102010.0,1.0,1.0,1.0,8.0,409018.0,98.0,69.0,28.0
+Presencial,Mujer,Referidos,Soltero,102880.0,102109.0,1.0,3.0,2.0,4.0,466567.0,98.0,77.0,38.0
+Presencial,Mujer,Linkedin,Soltero,103850.0,102077.0,1.0,4.0,2.0,4.0,850127.0,90.0,69.0,36.0
+Presencial,Hombre,Linkedin,Divorciado,103241.0,102102.0,1.0,3.0,1.0,9.0,806013.0,95.0,79.0,40.0
+Presencial,Mujer,Linkedin,Divorciado,102369.0,102041.0,1.0,2.0,2.0,6.0,511828.0,82.0,70.0,36.0
+Presencial,Mujer,Portal Web,Casado,104064.0,102032.0,1.0,3.0,3.0,7.0,257764.0,94.0,79.0,36.0
+Presencial,Hombre,Referidos,Viudo,102813.0,102105.0,1.0,5.0,1.0,8.0,311511.0,94.0,76.0,45.0
+Presencial,Mujer,Referidos,Divorciado,102610.0,102144.0,1.0,5.0,3.0,5.0,660243.0,84.0,68.0,50.0
+Presencial,Mujer,Portal Web,Casado,103726.0,102112.0,1.0,2.0,2.0,4.0,695922.0,82.0,77.0,49.0
+Presencial,Hombre,Ferias & Networking,Soltero,101218.0,102045.0,1.0,3.0,1.0,1.0,99657.0,88.0,80.0,12.0
+Presencial,Hombre,Portal Web,Casado,101310.0,102056.0,1.0,2.0,0.0,3.0,163660.0,81.0,83.0,18.0
+Presencial,Mujer,Portal Web,Soltero,101208.0,102069.0,1.0,1.0,2.0,1.0,163445.0,84.0,76.0,17.0
+Presencial,Mujer,Ferias & Networking,Soltero,101332.0,102119.0,1.0,2.0,1.0,2.0,183897.0,84.0,64.0,23.0
+Presencial,Mujer,Linkedin,Soltero,101156.0,102086.0,1.0,3.0,1.0,5.0,273003.0,92.0,72.0,28.0
+Presencial,Hombre,Portal Web,Casado,100689.0,102129.0,1.0,3.0,2.0,3.0,332707.0,95.0,75.0,32.0
+Presencial,Mujer,Referidos,Casado,100354.0,102052.0,1.0,6.0,1.0,11.0,453026.0,97.0,72.0,33.0
+Presencial,Mujer,Portal Web,Casado,101261.0,102032.0,1.0,3.0,4.0,7.0,258081.0,82.0,79.0,36.0
+Presencial,Mujer,Linkedin,Casado,101439.0,102121.0,1.0,3.0,2.0,10.0,433399.0,88.0,70.0,45.0
+Presencial,Mujer,Portal Web,Casado,101224.0,102124.0,1.0,2.0,2.0,6.0,307104.0,89.0,83.0,48.0
+Presencial,Mujer,Ferias & Networking,Soltero,100608.0,102047.0,1.0,3.0,2.0,13.0,457527.0,93.0,87.0,41.0
+Presencial,Hombre,Portal Web,Casado,100437.0,102114.0,1.0,2.0,11.0,4.0,675685.0,83.0,86.0,50.0
+Presencial,Mujer,Linkedin,Soltero,103485.0,102057.0,1.0,7.0,2.0,1.0,97212.0,80.0,65.0,11.0
+Presencial,Mujer,Linkedin,Soltero,104027.0,102122.0,1.0,2.0,2.0,1.0,136755.0,88.0,82.0,20.0
+Presencial,Mujer,Linkedin,Divorciado,104149.0,102131.0,1.0,2.0,1.0,7.0,251902.0,93.0,87.0,28.0
+Presencial,Hombre,Ferias & Networking,Casado,102890.0,102042.0,1.0,2.0,2.0,2.0,312907.0,92.0,70.0,26.0
+Presencial,Hombre,Portal Web,Casado,103457.0,102073.0,1.0,3.0,4.0,3.0,348779.0,96.0,85.0,29.0
+Presencial,Mujer,Linkedin,Soltero,103375.0,102122.0,1.0,3.0,1.0,10.0,488929.0,85.0,76.0,39.0
+Presencial,Mujer,Linkedin,Casado,103866.0,102121.0,1.0,3.0,1.0,10.0,437851.0,84.0,70.0,45.0
+Presencial,Mujer,Ferias & Networking,Soltero,103565.0,102047.0,1.0,3.0,2.0,13.0,453673.0,93.0,87.0,41.0
+Presencial,Mujer,Portal Web,Soltero,103197.0,102008.0,1.0,4.0,1.0,11.0,423949.0,87.0,79.0,39.0
+Presencial,Hombre,Portal Web,Casado,103938.0,102026.0,1.0,4.0,9.0,7.0,894707.0,88.0,79.0,40.0
+Presencial,Mujer,Portal Web,Divorciado,103835.0,102040.0,1.0,1.0,5.0,9.0,814625.0,81.0,58.0,46.0
+Presencial,Hombre,Portal Web,Divorciado,103995.0,102153.0,1.0,4.0,3.0,9.0,913239.0,81.0,80.0,59.0
+Presencial,Mujer,Linkedin,Soltero,101528.0,102102.0,1.0,1.0,3.0,2.0,148824.0,96.0,77.0,20.0
+Presencial,Mujer,Portal Web,Soltero,101505.0,102076.0,1.0,2.0,5.0,7.0,332559.0,97.0,85.0,27.0
+Presencial,Hombre,Portal Web,Casado,102160.0,102133.0,2.0,2.0,0.0,3.0,794000.0,83.0,78.0,28.0
+Presencial,Mujer,Referidos,Casado,101127.0,102087.0,1.0,3.0,1.0,9.0,784444.0,93.0,82.0,34.0
+Presencial,Hombre,Portal Web,Soltero,100974.0,102089.0,1.0,2.0,5.0,3.0,805397.0,85.0,92.0,37.0
+Presencial,Mujer,Ferias & Networking,Soltero,101982.0,102073.0,1.0,2.0,2.0,4.0,492094.0,91.0,69.0,37.0
+Presencial,Hombre,Referidos,Casado,101771.0,102092.0,1.0,2.0,2.0,10.0,279513.0,97.0,84.0,43.0
+Presencial,Mujer,Portal Web,Viudo,101220.0,102072.0,1.0,6.0,5.0,15.0,914778.0,85.0,82.0,47.0
+Presencial,Hombre,Portal Web,Divorciado,102003.0,102074.0,2.0,4.0,12.0,8.0,1616000.0,83.0,82.0,50.0
+Presencial,Mujer,Portal Web,Viudo,102157.0,102074.0,2.0,1.0,1.0,6.0,1616000.0,85.0,66.0,44.0
+Presencial,Mujer,Linkedin,Soltero,103967.0,102130.0,1.0,3.0,1.0,1.0,83957.0,89.0,76.0,19.0
+Presencial,Hombre,Ferias & Networking,Soltero,103022.0,102045.0,1.0,3.0,1.0,1.0,100689.0,89.0,80.0,12.0
+Presencial,Mujer,Linkedin,Soltero,103364.0,102102.0,1.0,1.0,3.0,2.0,147472.0,93.0,77.0,20.0
+Presencial,Mujer,Linkedin,Soltero,102346.0,102086.0,1.0,3.0,1.0,5.0,268744.0,97.0,72.0,28.0
+Presencial,Hombre,Portal Web,Casado,103417.0,102079.0,1.0,2.0,3.0,4.0,265668.0,96.0,74.0,27.0
+Presencial,Mujer,Referidos,Divorciado,103642.0,102021.0,1.0,5.0,2.0,2.0,267561.0,80.0,75.0,22.0
+Presencial,Mujer,Ferias & Networking,Casado,102556.0,102128.0,1.0,2.0,3.0,5.0,390975.0,83.0,81.0,36.0
+Presencial,Mujer,Linkedin,Soltero,103100.0,102082.0,1.0,2.0,2.0,10.0,428595.0,97.0,80.0,35.0
+Presencial,Hombre,Portal Web,Casado,102790.0,102035.0,1.0,5.0,0.0,5.0,485543.0,95.0,83.0,34.0
+Presencial,Hombre,Referidos,Casado,103231.0,102092.0,1.0,2.0,1.0,10.0,278001.0,96.0,84.0,43.0
+Presencial,Hombre,Ferias & Networking,Viudo,102233.0,102044.0,1.0,1.0,1.0,14.0,376876.0,92.0,80.0,36.0
+Presencial,Mujer,Portal Web,Casado,103222.0,102051.0,1.0,6.0,1.0,4.0,286232.0,90.0,71.0,40.0
+Presencial,Hombre,Portal Web,Divorciado,103383.0,102069.0,1.0,3.0,2.0,9.0,682586.0,85.0,81.0,47.0
+Presencial,Mujer,Portal Web,Viudo,103550.0,102072.0,1.0,6.0,6.0,15.0,914026.0,91.0,82.0,47.0
+Presencial,Hombre,Linkedin,Soltero,102392.0,102151.0,1.0,7.0,1.0,6.0,838669.0,95.0,72.0,56.0
+Presencial,Hombre,Portal Web,Divorciado,104093.0,102086.0,1.0,1.0,3.0,14.0,893905.0,84.0,73.0,53.0
+Presencial,Mujer,Portal Web,Divorciado,102435.0,102069.0,1.0,2.0,2.0,13.0,899570.0,85.0,81.0,48.0
+Presencial,Mujer,Portal Web,Soltero,100751.0,102147.0,1.0,4.0,2.0,2.0,118206.0,92.0,75.0,20.0
+Presencial,Mujer,Portal Web,Soltero,101693.0,102108.0,1.0,3.0,7.0,4.0,183660.0,84.0,80.0,21.0
+Presencial,Hombre,Linkedin,Soltero,100212.0,102068.0,1.0,2.0,0.0,4.0,245098.0,90.0,77.0,22.0
+Presencial,Mujer,Portal Web,Divorciado,101131.0,102021.0,1.0,5.0,2.0,2.0,273683.0,83.0,75.0,22.0
+Presencial,Mujer,Linkedin,Soltero,101153.0,102131.0,1.0,4.0,10.0,4.0,330181.0,90.0,78.0,33.0
+Presencial,Hombre,Referidos,Soltero,100666.0,102123.0,1.0,7.0,3.0,5.0,408928.0,84.0,81.0,37.0
+Presencial,Mujer,Linkedin,Casado,101465.0,102103.0,1.0,2.0,1.0,5.0,844532.0,87.0,76.0,38.0
+Presencial,Hombre,Ferias & Networking,Viudo,100964.0,102101.0,1.0,3.0,2.0,10.0,659526.0,96.0,68.0,47.0
+Presencial,Mujer,Ferias & Networking,Viudo,100012.0,102099.0,1.0,5.0,2.0,13.0,733778.0,92.0,70.0,52.0
+Presencial,Hombre,Ferias & Networking,Soltero,103613.0,102120.0,1.0,1.0,2.0,5.0,345607.0,87.0,71.0,34.0
+Presencial,Mujer,Referidos,Casado,102635.0,102083.0,1.0,1.0,2.0,10.0,386575.0,92.0,67.0,33.0
+Presencial,Hombre,Referidos,Soltero,103562.0,102123.0,1.0,7.0,2.0,5.0,413312.0,81.0,81.0,37.0
+Presencial,Mujer,Linkedin,Casado,103134.0,102103.0,1.0,2.0,1.0,5.0,846640.0,97.0,76.0,38.0
+Presencial,Hombre,Linkedin,Casado,102511.0,102131.0,1.0,3.0,1.0,10.0,258477.0,92.0,78.0,42.0
+Presencial,Hombre,Ferias & Networking,Casado,103309.0,102110.0,1.0,2.0,1.0,7.0,289877.0,81.0,76.0,45.0
+Presencial,Hombre,Linkedin,Casado,102594.0,102113.0,1.0,5.0,5.0,12.0,862087.0,87.0,80.0,52.0
+Presencial,Hombre,Portal Web,Casado,103414.0,102083.0,1.0,2.0,3.0,13.0,777291.0,91.0,78.0,51.0
+Presencial,Mujer,Portal Web,Casado,103786.0,102172.0,1.0,2.0,2.0,9.0,856103.0,95.0,74.0,56.0
+Presencial,Mujer,Ferias & Networking,Viudo,103115.0,102099.0,1.0,5.0,1.0,13.0,736348.0,98.0,70.0,52.0
+Presencial,Mujer,Ferias & Networking,Soltero,101269.0,102138.0,1.0,3.0,1.0,1.0,76490.0,81.0,81.0,18.0
+Presencial,Hombre,Portal Web,Soltero,100479.0,102050.0,1.0,7.0,1.0,2.0,122530.0,83.0,76.0,12.0
+Presencial,Mujer,Ferias & Networking,Soltero,100611.0,102035.0,1.0,3.0,2.0,1.0,166899.0,84.0,77.0,17.0
+Presencial,Hombre,Portal Web,Soltero,100077.0,102134.0,1.0,1.0,3.0,5.0,227370.0,86.0,79.0,28.0
+Presencial,Hombre,Portal Web,Casado,101191.0,102070.0,1.0,2.0,7.0,4.0,292841.0,85.0,76.0,27.0
+Presencial,Mujer,Referidos,Casado,101548.0,102017.0,1.0,5.0,3.0,11.0,258060.0,94.0,84.0,34.0
+Presencial,Hombre,Linkedin,Divorciado,100475.0,102101.0,1.0,1.0,0.0,10.0,677210.0,83.0,80.0,49.0
+Presencial,Mujer,Referidos,Casado,101792.0,102073.0,1.0,3.0,1.0,4.0,840074.0,80.0,72.0,46.0
+Presencial,Hombre,Linkedin,Casado,100182.0,102050.0,1.0,4.0,3.0,11.0,758170.0,88.0,70.0,47.0
+Presencial,Hombre,Portal Web,Soltero,104148.0,102117.0,1.0,4.0,2.0,3.0,123591.0,86.0,69.0,21.0
+Presencial,Hombre,Portal Web,Soltero,103733.0,102050.0,1.0,7.0,2.0,2.0,115618.0,82.0,76.0,12.0
+Presencial,Hombre,Linkedin,Soltero,103593.0,102030.0,1.0,0.0,6.0,2.0,138784.0,85.0,72.0,15.0
+Presencial,Hombre,Portal Web,Soltero,103684.0,102150.0,1.0,4.0,8.0,1.0,229142.0,93.0,82.0,28.0
+Presencial,Hombre,Linkedin,Casado,102704.0,102081.0,1.0,5.0,2.0,8.0,768565.0,90.0,84.0,33.0
+Presencial,Hombre,Referidos,Soltero,102558.0,102072.0,1.0,3.0,2.0,9.0,257745.0,90.0,76.0,38.0
+Presencial,Hombre,Portal Web,Soltero,102563.0,102085.0,1.0,4.0,2.0,10.0,276075.0,83.0,70.0,40.0
+Presencial,Mujer,Ferias & Networking,Viudo,103812.0,102127.0,1.0,4.0,2.0,16.0,637957.0,86.0,72.0,49.0
+Presencial,Mujer,Portal Web,Viudo,103448.0,102052.0,1.0,5.0,2.0,3.0,913218.0,97.0,77.0,49.0
+Presencial,Hombre,Ferias & Networking,Soltero,100469.0,102159.0,1.0,3.0,0.0,2.0,137456.0,88.0,79.0,22.0
+Presencial,Mujer,Portal Web,Divorciado,100390.0,102043.0,1.0,2.0,1.0,1.0,135882.0,88.0,85.0,14.0
+Presencial,Mujer,Referidos,Casado,101064.0,102154.0,1.0,3.0,2.0,2.0,203590.0,94.0,76.0,27.0
+Presencial,Hombre,Referidos,Soltero,100465.0,102144.0,1.0,3.0,3.0,7.0,372493.0,98.0,75.0,35.0
+Presencial,Mujer,Referidos,Casado,100612.0,102053.0,1.0,2.0,0.0,4.0,401739.0,98.0,79.0,41.0
+Presencial,Mujer,Portal Web,Divorciado,102033.0,102074.0,2.0,6.0,2.0,16.0,1616000.0,90.0,79.0,40.0
+Presencial,Mujer,Ferias & Networking,Viudo,100192.0,102172.0,1.0,3.0,3.0,4.0,700499.0,90.0,79.0,54.0
+Presencial,Mujer,Linkedin,Viudo,102092.0,102074.0,2.0,1.0,6.0,13.0,1616000.0,98.0,95.0,42.0
+Presencial,Hombre,Portal Web,Casado,101189.0,102120.0,1.0,2.0,0.0,13.0,893481.0,90.0,70.0,54.0
+Presencial,Mujer,Linkedin,Viudo,102080.0,102074.0,2.0,2.0,0.0,18.0,1616000.0,94.0,75.0,47.0
+Presencial,Mujer,Ferias & Networking,Soltero,103444.0,102035.0,1.0,3.0,3.0,1.0,168343.0,87.0,77.0,17.0
+Presencial,Hombre,Portal Web,Soltero,102920.0,102009.0,1.0,4.0,1.0,3.0,188884.0,86.0,82.0,17.0
+Presencial,Hombre,Portal Web,Soltero,103489.0,102010.0,1.0,2.0,0.0,2.0,291831.0,84.0,79.0,23.0
+Presencial,Hombre,Linkedin,Casado,102530.0,102171.0,1.0,2.0,0.0,6.0,365673.0,97.0,77.0,37.0
+Presencial,Hombre,Portal Web,Casado,102799.0,102039.0,1.0,5.0,7.0,2.0,390073.0,87.0,79.0,29.0
+Presencial,Mujer,Referidos,Casado,103144.0,102113.0,1.0,2.0,1.0,8.0,446206.0,94.0,86.0,35.0
+Presencial,Hombre,Ferias & Networking,Soltero,103122.0,102070.0,1.0,4.0,1.0,5.0,451897.0,91.0,80.0,32.0
+Presencial,Hombre,Portal Web,Soltero,103806.0,102077.0,1.0,2.0,1.0,4.0,471789.0,85.0,79.0,34.0
+Presencial,Mujer,Referidos,Casado,102640.0,102017.0,1.0,5.0,2.0,11.0,259263.0,82.0,84.0,34.0
+Presencial,Hombre,Linkedin,Casado,104146.0,102079.0,1.0,3.0,2.0,9.0,288681.0,89.0,71.0,42.0
+Presencial,Hombre,Ferias & Networking,Viudo,104095.0,102063.0,1.0,2.0,2.0,9.0,453922.0,98.0,73.0,42.0
+Presencial,Hombre,Portal Web,Casado,103777.0,102033.0,1.0,2.0,12.0,15.0,641285.0,91.0,75.0,40.0
+Presencial,Mujer,Linkedin,Soltero,103082.0,102099.0,1.0,3.0,3.0,6.0,718904.0,95.0,75.0,50.0
+Presencial,Mujer,Referidos,Casado,102544.0,102073.0,1.0,3.0,0.0,4.0,839740.0,88.0,72.0,46.0
+Presencial,Mujer,Portal Web,Soltero,101964.0,102061.0,1.0,1.0,1.0,1.0,77350.0,88.0,81.0,12.0
+Presencial,Mujer,Portal Web,Soltero,100240.0,102044.0,1.0,4.0,2.0,4.0,164678.0,90.0,74.0,17.0
+Presencial,Hombre,Portal Web,Casado,101931.0,102069.0,1.0,7.0,0.0,5.0,253489.0,96.0,81.0,25.0
+Presencial,Mujer,Referidos,Casado,100599.0,102136.0,1.0,2.0,3.0,4.0,273246.0,93.0,78.0,31.0
+Presencial,Hombre,Ferias & Networking,Casado,101710.0,102089.0,1.0,2.0,3.0,6.0,326801.0,98.0,68.0,30.0
+Presencial,Hombre,Portal Web,Soltero,101322.0,102077.0,1.0,2.0,2.0,4.0,466618.0,86.0,79.0,34.0
+Presencial,Hombre,Referidos,Casado,100292.0,102042.0,1.0,2.0,1.0,5.0,469179.0,85.0,78.0,33.0
+Presencial,Hombre,Linkedin,Casado,101342.0,102029.0,1.0,4.0,1.0,4.0,490162.0,83.0,77.0,33.0
+Presencial,Hombre,Referidos,Casado,100681.0,102039.0,1.0,5.0,2.0,3.0,270076.0,87.0,70.0,37.0
+Presencial,Hombre,Linkedin,Casado,101959.0,102079.0,1.0,3.0,3.0,9.0,284693.0,86.0,71.0,42.0
+Presencial,Mujer,Portal Web,Soltero,101778.0,102099.0,1.0,3.0,12.0,9.0,299035.0,98.0,70.0,46.0
+Presencial,Hombre,Portal Web,Viudo,100715.0,102115.0,1.0,1.0,2.0,15.0,455724.0,92.0,77.0,46.0
+Presencial,Hombre,Portal Web,Casado,100783.0,102092.0,1.0,2.0,7.0,8.0,298529.0,80.0,85.0,44.0
+Presencial,Mujer,Portal Web,Casado,100928.0,102075.0,1.0,5.0,1.0,12.0,636682.0,98.0,79.0,43.0
+Presencial,Mujer,Ferias & Networking,Viudo,101356.0,102016.0,1.0,2.0,3.0,11.0,879451.0,92.0,79.0,42.0
+Presencial,Hombre,Portal Web,Casado,101027.0,102008.0,1.0,4.0,3.0,14.0,861045.0,85.0,70.0,41.0
+Presencial,Mujer,Linkedin,Casado,102087.0,102074.0,2.0,7.0,9.0,10.0,1616000.0,98.0,79.0,42.0
+Presencial,Mujer,Portal Web,Soltero,100009.0,102111.0,1.0,1.0,1.0,13.0,917750.0,97.0,77.0,56.0
+Presencial,Hombre,Referidos,Casado,102060.0,102074.0,2.0,4.0,3.0,16.0,1616000.0,82.0,62.0,46.0
+Presencial,Hombre,Referidos,Soltero,102814.0,102041.0,1.0,3.0,1.0,1.0,103723.0,89.0,75.0,11.0
+Presencial,Mujer,Portal Web,Casado,103305.0,102060.0,1.0,2.0,1.0,2.0,203154.0,89.0,90.0,21.0
+Presencial,Mujer,Portal Web,Soltero,102711.0,102098.0,1.0,5.0,1.0,7.0,365463.0,80.0,72.0,34.0
+Presencial,Hombre,Portal Web,Casado,102631.0,102154.0,1.0,1.0,1.0,10.0,407992.0,92.0,70.0,38.0
+Presencial,Mujer,Portal Web,Casado,102634.0,102046.0,1.0,5.0,2.0,8.0,448194.0,88.0,76.0,30.0
+Presencial,Hombre,Referidos,Casado,102255.0,102042.0,1.0,2.0,1.0,5.0,469752.0,81.0,78.0,33.0
+Presencial,Hombre,Portal Web,Soltero,103975.0,102088.0,1.0,3.0,1.0,7.0,443778.0,80.0,71.0,37.0
+Presencial,Hombre,Portal Web,Casado,102440.0,102032.0,1.0,1.0,0.0,3.0,507572.0,80.0,74.0,35.0
+Presencial,Hombre,Portal Web,Casado,103577.0,102069.0,1.0,2.0,4.0,8.0,268667.0,95.0,76.0,39.0
+Presencial,Mujer,Ferias & Networking,Soltero,102629.0,102065.0,1.0,7.0,1.0,10.0,271281.0,82.0,76.0,37.0
+Presencial,Mujer,Portal Web,Viudo,102723.0,102093.0,1.0,2.0,6.0,13.0,461896.0,82.0,74.0,43.0
+Presencial,Hombre,Portal Web,Divorciado,102918.0,102172.0,1.0,3.0,0.0,7.0,389853.0,82.0,75.0,49.0
+Presencial,Hombre,Portal Web,Viudo,103725.0,102115.0,1.0,1.0,2.0,15.0,457299.0,94.0,77.0,46.0
+Presencial,Hombre,Portal Web,Casado,103601.0,102092.0,1.0,2.0,7.0,8.0,298957.0,91.0,85.0,44.0
+Presencial,Mujer,Referidos,Casado,102808.0,102053.0,1.0,2.0,1.0,4.0,396418.0,85.0,79.0,41.0
+Presencial,Hombre,Referidos,Casado,102839.0,102122.0,1.0,2.0,4.0,8.0,654339.0,97.0,79.0,48.0
+Presencial,Mujer,Ferias & Networking,Viudo,102211.0,102016.0,1.0,2.0,3.0,11.0,881899.0,97.0,79.0,42.0
+Presencial,Mujer,Portal Web,Viudo,103795.0,102065.0,1.0,2.0,2.0,9.0,879821.0,89.0,78.0,50.0
+Presencial,Hombre,Portal Web,Casado,102309.0,102120.0,1.0,2.0,0.0,13.0,893347.0,96.0,70.0,54.0
+Presencial,Mujer,Linkedin,Soltero,100855.0,102007.0,1.0,5.0,2.0,2.0,95604.0,91.0,72.0,11.0
+Presencial,Mujer,Portal Web,Casado,101955.0,102015.0,1.0,4.0,9.0,2.0,251801.0,80.0,77.0,21.0
+Presencial,Mujer,Linkedin,Soltero,101426.0,102133.0,1.0,3.0,9.0,7.0,288710.0,94.0,76.0,31.0
+Presencial,Mujer,Portal Web,Casado,100235.0,102110.0,1.0,4.0,5.0,5.0,365409.0,85.0,76.0,32.0
+Presencial,Mujer,Portal Web,Casado,101432.0,102089.0,1.0,2.0,2.0,3.0,411351.0,84.0,76.0,33.0
+Presencial,Mujer,Ferias & Networking,Soltero,100592.0,102065.0,1.0,7.0,1.0,10.0,271937.0,94.0,76.0,37.0
+Presencial,Hombre,Linkedin,Soltero,101849.0,102131.0,1.0,2.0,2.0,13.0,290277.0,92.0,80.0,47.0
+Presencial,Hombre,Linkedin,Soltero,101176.0,102144.0,1.0,4.0,7.0,10.0,284287.0,90.0,85.0,47.0
+Presencial,Mujer,Linkedin,Soltero,100237.0,102101.0,1.0,2.0,10.0,14.0,409842.0,88.0,78.0,44.0
+Presencial,Mujer,Portal Web,Soltero,101050.0,102058.0,1.0,1.0,1.0,8.0,439318.0,94.0,71.0,42.0
+Presencial,Mujer,Portal Web,Viudo,101852.0,102054.0,1.0,3.0,2.0,8.0,702302.0,89.0,78.0,47.0
+Presencial,Mujer,Portal Web,Casado,101759.0,102146.0,1.0,2.0,1.0,13.0,715178.0,86.0,71.0,53.0
+Presencial,Hombre,Portal Web,Divorciado,101878.0,102053.0,1.0,3.0,4.0,10.0,741986.0,86.0,76.0,46.0
+Presencial,Mujer,Referidos,Casado,101706.0,102009.0,1.0,2.0,0.0,8.0,878877.0,89.0,79.0,49.0
+Presencial,Hombre,Ferias & Networking,Soltero,102490.0,102036.0,1.0,3.0,0.0,1.0,169169.0,87.0,75.0,15.0
+Presencial,Hombre,Referidos,Soltero,102227.0,102135.0,1.0,3.0,2.0,2.0,189117.0,89.0,78.0,25.0
+Presencial,Mujer,Referidos,Casado,102192.0,102115.0,1.0,2.0,2.0,4.0,225035.0,81.0,71.0,25.0
+Presencial,Mujer,Portal Web,Casado,103198.0,102015.0,1.0,4.0,10.0,2.0,246660.0,81.0,77.0,21.0
+Presencial,Mujer,Portal Web,Casado,103233.0,102110.0,1.0,4.0,5.0,5.0,372527.0,89.0,76.0,31.0
+Presencial,Hombre,Linkedin,Divorciado,103510.0,102106.0,1.0,3.0,0.0,4.0,386898.0,98.0,78.0,33.0
+Presencial,Hombre,Portal Web,Divorciado,103442.0,102077.0,1.0,4.0,3.0,8.0,509804.0,90.0,78.0,36.0
+Presencial,Hombre,Portal Web,Soltero,103949.0,102093.0,1.0,3.0,9.0,7.0,427230.0,98.0,84.0,38.0
+Presencial,Mujer,Portal Web,Casado,103561.0,102072.0,1.0,4.0,3.0,5.0,270921.0,84.0,71.0,38.0
+Presencial,Hombre,Referidos,Casado,103107.0,102039.0,1.0,5.0,3.0,3.0,266359.0,80.0,70.0,37.0
+Presencial,Hombre,Linkedin,Soltero,104163.0,102144.0,1.0,5.0,7.0,10.0,284793.0,95.0,85.0,47.0
+Presencial,Mujer,Linkedin,Soltero,103950.0,102099.0,1.0,3.0,12.0,9.0,300258.0,90.0,70.0,46.0
+Presencial,Mujer,Linkedin,Casado,103941.0,102101.0,1.0,2.0,11.0,14.0,410600.0,89.0,78.0,44.0
+Presencial,Mujer,Portal Web,Casado,102987.0,102086.0,1.0,3.0,8.0,9.0,799339.0,90.0,74.0,47.0
+Presencial,Mujer,Portal Web,Divorciado,103919.0,102120.0,1.0,3.0,2.0,6.0,795483.0,84.0,79.0,50.0
+Presencial,Hombre,Referidos,Casado,103960.0,102059.0,1.0,3.0,8.0,8.0,881911.0,93.0,72.0,45.0
+Presencial,Mujer,Portal Web,Casado,102731.0,102146.0,1.0,2.0,1.0,13.0,714967.0,97.0,71.0,52.0
+Presencial,Mujer,Portal Web,Viudo,104078.0,102054.0,1.0,3.0,3.0,8.0,702317.0,87.0,78.0,47.0
+Presencial,Hombre,Referidos,Soltero,101941.0,102026.0,1.0,2.0,3.0,2.0,213824.0,98.0,78.0,19.0
+Presencial,Mujer,Ferias & Networking,Soltero,102093.0,102109.0,2.0,5.0,0.0,4.0,488000.0,89.0,62.0,24.0
+Presencial,Mujer,Portal Web,Soltero,102088.0,102109.0,2.0,5.0,1.0,3.0,488000.0,82.0,65.0,21.0
+Presencial,Mujer,Linkedin,Casado,102013.0,102089.0,2.0,2.0,2.0,4.0,743000.0,96.0,79.0,30.0
+Presencial,Mujer,Linkedin,Casado,100642.0,102139.0,1.0,2.0,5.0,7.0,347865.0,92.0,88.0,33.0
+Presencial,Mujer,Portal Web,Casado,101924.0,102145.0,1.0,2.0,3.0,6.0,450484.0,93.0,69.0,37.0
+Presencial,Mujer,Portal Web,Divorciado,101349.0,102083.0,1.0,2.0,9.0,7.0,787647.0,95.0,70.0,34.0
+Presencial,Mujer,Referidos,Soltero,100504.0,102072.0,1.0,2.0,2.0,5.0,511137.0,91.0,75.0,36.0
+Presencial,Mujer,Linkedin,Divorciado,101956.0,102022.0,1.0,5.0,6.0,7.0,267423.0,97.0,70.0,35.0
+Presencial,Hombre,Linkedin,Casado,100488.0,102114.0,1.0,4.0,2.0,5.0,277927.0,84.0,83.0,44.0
+Presencial,Mujer,Portal Web,Soltero,101524.0,102116.0,1.0,2.0,1.0,10.0,451137.0,82.0,76.0,44.0
+Presencial,Mujer,Referidos,Casado,100575.0,102094.0,1.0,3.0,3.0,15.0,294567.0,91.0,81.0,45.0
+Presencial,Mujer,Portal Web,Casado,100625.0,102086.0,1.0,3.0,7.0,9.0,799596.0,96.0,74.0,47.0
+Presencial,Mujer,Portal Web,Divorciado,101355.0,102120.0,1.0,3.0,3.0,6.0,796214.0,83.0,79.0,50.0
+Presencial,Hombre,Linkedin,Casado,100256.0,102049.0,1.0,2.0,7.0,3.0,796074.0,82.0,72.0,45.0
+Presencial,Mujer,Ferias & Networking,Casado,100188.0,102124.0,1.0,1.0,2.0,9.0,778277.0,85.0,75.0,54.0
+Presencial,Hombre,Linkedin,Divorciado,100218.0,102017.0,1.0,2.0,9.0,9.0,915728.0,95.0,63.0,45.0
+Presencial,Mujer,Linkedin,Casado,102289.0,102116.0,1.0,2.0,6.0,3.0,188553.0,81.0,74.0,22.0
+Presencial,Mujer,Portal Web,Casado,102626.0,102137.0,1.0,1.0,4.0,3.0,223166.0,98.0,68.0,25.0
+Presencial,Mujer,Portal Web,Casado,102825.0,102118.0,1.0,3.0,5.0,1.0,206662.0,91.0,85.0,27.0
+Presencial,Mujer,Referidos,Soltero,103138.0,102075.0,1.0,8.0,0.0,2.0,232324.0,80.0,70.0,24.0
+Presencial,Hombre,Portal Web,Soltero,103959.0,102125.0,1.0,4.0,6.0,1.0,271148.0,96.0,79.0,30.0
+Presencial,Mujer,Portal Web,Casado,102405.0,102086.0,1.0,2.0,2.0,3.0,266313.0,93.0,84.0,26.0
+Presencial,Hombre,Linkedin,Soltero,104126.0,102084.0,1.0,3.0,2.0,3.0,346535.0,96.0,80.0,31.0
+Presencial,Mujer,Portal Web,Divorciado,102781.0,102083.0,1.0,2.0,10.0,7.0,790729.0,93.0,70.0,34.0
+Presencial,Mujer,Referidos,Soltero,103186.0,102072.0,1.0,2.0,1.0,5.0,507573.0,88.0,75.0,36.0
+Presencial,Mujer,Ferias & Networking,Casado,102654.0,102048.0,1.0,4.0,2.0,8.0,261663.0,92.0,68.0,34.0
+Presencial,Mujer,Portal Web,Soltero,102584.0,102109.0,1.0,3.0,0.0,12.0,419029.0,88.0,69.0,41.0
+Presencial,Mujer,Referidos,Casado,102756.0,102045.0,1.0,2.0,0.0,5.0,277639.0,87.0,78.0,36.0
+Presencial,Mujer,Portal Web,Casado,103484.0,102159.0,1.0,2.0,2.0,4.0,279363.0,86.0,77.0,46.0
+Presencial,Hombre,Linkedin,Casado,103252.0,102114.0,1.0,4.0,2.0,5.0,277256.0,95.0,83.0,44.0
+Presencial,Hombre,Linkedin,Soltero,102590.0,102131.0,1.0,2.0,2.0,13.0,290363.0,94.0,80.0,47.0
+Presencial,Mujer,Portal Web,Casado,104045.0,102112.0,1.0,3.0,2.0,8.0,298014.0,82.0,81.0,44.0
+Presencial,Mujer,Referidos,Viudo,103533.0,102156.0,1.0,2.0,2.0,12.0,655545.0,93.0,70.0,51.0
+Presencial,Hombre,Linkedin,Casado,103985.0,102049.0,1.0,2.0,8.0,3.0,795917.0,97.0,72.0,45.0
+Presencial,Hombre,Linkedin,Divorciado,103573.0,102017.0,1.0,2.0,8.0,9.0,919113.0,81.0,63.0,45.0
+Presencial,Mujer,Portal Web,Soltero,101097.0,102120.0,1.0,5.0,4.0,2.0,140343.0,86.0,72.0,21.0
+Presencial,Mujer,Portal Web,Soltero,100026.0,102088.0,1.0,2.0,1.0,1.0,148328.0,87.0,66.0,19.0
+Presencial,Mujer,Ferias & Networking,Soltero,101717.0,102084.0,1.0,3.0,3.0,1.0,163079.0,90.0,74.0,21.0
+Presencial,Hombre,Linkedin,Casado,100016.0,102146.0,1.0,4.0,1.0,5.0,203055.0,95.0,79.0,26.0
+Presencial,Mujer,Portal Web,Casado,101421.0,102148.0,1.0,5.0,2.0,4.0,203226.0,87.0,78.0,26.0
+Presencial,Mujer,Portal Web,Divorciado,101250.0,102038.0,1.0,1.0,0.0,5.0,186984.0,89.0,79.0,18.0
+Presencial,Hombre,Portal Web,Divorciado,100915.0,102172.0,1.0,6.0,1.0,4.0,230418.0,86.0,80.0,29.0
+Presencial,Mujer,Linkedin,Soltero,100391.0,102151.0,1.0,1.0,0.0,5.0,286767.0,82.0,70.0,32.0
+Presencial,Mujer,Portal Web,Soltero,100335.0,102131.0,1.0,6.0,3.0,5.0,330503.0,81.0,85.0,34.0
+Presencial,Hombre,Portal Web,Casado,100570.0,102111.0,1.0,8.0,4.0,9.0,392729.0,91.0,71.0,33.0
+Presencial,Hombre,Portal Web,Divorciado,101116.0,102145.0,1.0,2.0,1.0,4.0,827088.0,87.0,75.0,38.0
+Presencial,Mujer,Referidos,Soltero,100472.0,102124.0,1.0,2.0,1.0,5.0,420582.0,90.0,84.0,42.0
+Presencial,Mujer,Portal Web,Divorciado,100636.0,102015.0,1.0,2.0,1.0,11.0,269571.0,93.0,74.0,36.0
+Presencial,Mujer,Linkedin,Casado,101036.0,102138.0,1.0,1.0,2.0,4.0,279036.0,80.0,76.0,46.0
+Presencial,Hombre,Linkedin,Casado,101909.0,102029.0,1.0,3.0,2.0,10.0,279687.0,90.0,72.0,38.0
+Presencial,Hombre,Referidos,Casado,100130.0,102028.0,1.0,1.0,0.0,10.0,277124.0,84.0,75.0,37.0
+Presencial,Hombre,Portal Web,Viudo,101109.0,102041.0,1.0,7.0,10.0,9.0,817157.0,88.0,75.0,44.0
+Presencial,Mujer,Linkedin,Soltero,100273.0,102054.0,1.0,2.0,4.0,8.0,694421.0,86.0,82.0,46.0
+Presencial,Hombre,Referidos,Soltero,101912.0,102111.0,1.0,3.0,1.0,19.0,877586.0,85.0,68.0,51.0
+Presencial,Mujer,Referidos,Divorciado,100416.0,102057.0,1.0,2.0,2.0,12.0,738016.0,80.0,81.0,46.0
+Presencial,Hombre,Portal Web,Viudo,100493.0,102078.0,1.0,6.0,2.0,3.0,834817.0,97.0,80.0,52.0
+Presencial,Hombre,Portal Web,Casado,101214.0,102089.0,1.0,2.0,2.0,14.0,893896.0,83.0,77.0,53.0
+Presencial,Hombre,Referidos,Soltero,102715.0,102122.0,1.0,1.0,2.0,1.0,163835.0,82.0,74.0,23.0
+Presencial,Mujer,Portal Web,Casado,102461.0,102148.0,1.0,5.0,1.0,4.0,200219.0,81.0,78.0,26.0
+Presencial,Hombre,Linkedin,Casado,102344.0,102035.0,1.0,6.0,3.0,2.0,226036.0,81.0,64.0,19.0
+Presencial,Hombre,Portal Web,Soltero,102400.0,102035.0,1.0,2.0,2.0,9.0,386412.0,90.0,70.0,29.0
+Presencial,Mujer,Portal Web,Soltero,103166.0,102153.0,1.0,3.0,7.0,7.0,428942.0,83.0,66.0,40.0
+Presencial,Hombre,Portal Web,Divorciado,103998.0,102145.0,1.0,2.0,2.0,4.0,826522.0,82.0,75.0,38.0
+Presencial,Mujer,Referidos,Soltero,102221.0,102124.0,1.0,2.0,0.0,5.0,416042.0,80.0,84.0,42.0
+Presencial,Mujer,Referidos,Divorciado,102259.0,102015.0,1.0,2.0,1.0,11.0,264237.0,81.0,74.0,36.0
+Presencial,Mujer,Ferias & Networking,Viudo,102749.0,102146.0,1.0,4.0,1.0,9.0,640828.0,82.0,75.0,51.0
+Presencial,Hombre,Portal Web,Viudo,103620.0,102041.0,1.0,7.0,11.0,9.0,818142.0,96.0,75.0,44.0
+Presencial,Hombre,Referidos,Soltero,103346.0,102115.0,1.0,7.0,2.0,11.0,699410.0,96.0,81.0,51.0
+Presencial,Mujer,Ferias & Networking,Soltero,101008.0,102107.0,1.0,6.0,3.0,1.0,75517.0,90.0,80.0,17.0
+Presencial,Hombre,Portal Web,Soltero,100997.0,102143.0,1.0,6.0,1.0,1.0,119344.0,86.0,72.0,21.0
+Presencial,Mujer,Ferias & Networking,Soltero,100581.0,102137.0,1.0,6.0,1.0,1.0,180275.0,96.0,85.0,26.0
+Presencial,Mujer,Portal Web,Casado,101300.0,102089.0,1.0,3.0,2.0,5.0,325991.0,82.0,77.0,31.0
+Presencial,Mujer,Portal Web,Casado,101640.0,102029.0,1.0,2.0,2.0,7.0,388798.0,85.0,85.0,29.0
+Presencial,Hombre,Portal Web,Soltero,100127.0,102035.0,1.0,1.0,1.0,9.0,386702.0,86.0,70.0,29.0
+Presencial,Hombre,Linkedin,Soltero,101132.0,102115.0,1.0,6.0,2.0,8.0,489279.0,93.0,70.0,40.0
+Presencial,Mujer,Portal Web,Casado,101725.0,102031.0,1.0,2.0,2.0,6.0,488016.0,80.0,81.0,33.0
+Presencial,Mujer,Portal Web,Casado,100300.0,102041.0,1.0,3.0,2.0,13.0,269865.0,95.0,66.0,34.0
+Presencial,Hombre,Ferias & Networking,Soltero,101598.0,102118.0,1.0,6.0,2.0,5.0,266895.0,92.0,69.0,42.0
+Presencial,Mujer,Referidos,Soltero,101110.0,102161.0,1.0,5.0,2.0,5.0,449228.0,94.0,77.0,46.0
+Presencial,Mujer,Portal Web,Soltero,102079.0,102074.0,2.0,3.0,1.0,4.0,1358450.0,80.0,81.0,36.0
+Presencial,Mujer,Ferias & Networking,Viudo,101675.0,102146.0,1.0,4.0,0.0,9.0,639218.0,87.0,75.0,50.0
+Presencial,Hombre,Portal Web,Casado,101475.0,102075.0,1.0,2.0,3.0,10.0,433559.0,97.0,69.0,43.0
+Presencial,Mujer,Referidos,Soltero,100505.0,102044.0,1.0,3.0,2.0,12.0,721934.0,94.0,78.0,45.0
+Presencial,Mujer,Referidos,Viudo,102158.0,102074.0,2.0,2.0,1.0,27.0,1900000.0,87.0,74.0,54.0
+Presencial,Hombre,Portal Web,Soltero,103452.0,102093.0,1.0,2.0,1.0,1.0,99940.0,90.0,76.0,15.0
+Presencial,Hombre,Portal Web,Soltero,102627.0,102143.0,1.0,6.0,0.0,1.0,122573.0,80.0,72.0,21.0
+Presencial,Mujer,Ferias & Networking,Soltero,102272.0,102137.0,1.0,6.0,0.0,1.0,187188.0,98.0,85.0,26.0
+Presencial,Mujer,Portal Web,Soltero,103338.0,102035.0,1.0,1.0,2.0,4.0,181235.0,95.0,78.0,18.0
+Presencial,Hombre,Portal Web,Divorciado,103996.0,102172.0,1.0,6.0,1.0,4.0,227082.0,82.0,80.0,29.0
+Presencial,Hombre,Ferias & Networking,Casado,103595.0,102086.0,1.0,5.0,2.0,6.0,492019.0,96.0,77.0,36.0
+Presencial,Hombre,Referidos,Soltero,102486.0,102039.0,1.0,1.0,2.0,8.0,255595.0,95.0,72.0,36.0
+Presencial,Mujer,Ferias & Networking,Divorciado,102188.0,102028.0,1.0,6.0,0.0,3.0,374012.0,82.0,76.0,38.0
+Presencial,Hombre,Portal Web,Casado,102356.0,102075.0,1.0,2.0,2.0,10.0,434387.0,97.0,69.0,43.0
+Presencial,Mujer,Ferias & Networking,Casado,102370.0,102055.0,1.0,1.0,1.0,12.0,680450.0,82.0,67.0,43.0
+Presencial,Mujer,Referidos,Soltero,103512.0,102044.0,1.0,3.0,2.0,12.0,718187.0,80.0,78.0,45.0
+Presencial,Hombre,Referidos,Soltero,103190.0,102111.0,1.0,3.0,2.0,19.0,875637.0,89.0,68.0,51.0
+Presencial,Mujer,Referidos,Divorciado,102958.0,102057.0,1.0,2.0,2.0,12.0,736821.0,89.0,81.0,46.0
+Presencial,Mujer,Portal Web,Soltero,102358.0,102111.0,1.0,4.0,7.0,1.0,100460.0,94.0,73.0,17.0
+Presencial,Mujer,Ferias & Networking,Soltero,100434.0,102110.0,1.0,3.0,1.0,5.0,286593.0,90.0,79.0,43.0
+Presencial,Hombre,Linkedin,Casado,102164.0,102074.0,2.0,4.0,2.0,7.0,1461470.0,83.0,77.0,40.0
+Presencial,Hombre,Ferias & Networking,Soltero,103680.0,102109.0,1.0,3.0,1.0,7.0,492568.0,83.0,79.0,39.0
+Presencial,Mujer,Referidos,Divorciado,101762.0,102146.0,1.0,4.0,1.0,10.0,409810.0,94.0,80.0,37.0
+Presencial,Hombre,Portal Web,Soltero,101529.0,102006.0,1.0,2.0,5.0,1.0,250393.0,82.0,84.0,20.0
+Presencial,Hombre,Linkedin,Soltero,101971.0,102018.0,1.0,2.0,3.0,5.0,270353.0,95.0,89.0,21.0
+Presencial,Hombre,Portal Web,Divorciado,101840.0,102160.0,1.0,2.0,2.0,13.0,287743.0,86.0,75.0,47.0
+Presencial,Hombre,Portal Web,Soltero,102852.0,102006.0,1.0,2.0,5.0,1.0,252449.0,85.0,84.0,20.0
+Presencial,Mujer,Portal Web,Casado,102209.0,102014.0,1.0,5.0,1.0,3.0,267540.0,80.0,84.0,22.0
+Presencial,Mujer,Linkedin,Casado,100272.0,102049.0,1.0,2.0,3.0,6.0,251460.0,80.0,75.0,20.0
+Presencial,Mujer,Ferias & Networking,Soltero,100759.0,102110.0,1.0,1.0,3.0,6.0,269059.0,86.0,75.0,30.0
+Presencial,Mujer,Portal Web,Casado,100186.0,102014.0,1.0,5.0,1.0,3.0,267708.0,83.0,84.0,22.0
+Presencial,Mujer,Linkedin,Soltero,100343.0,102125.0,1.0,2.0,2.0,5.0,285772.0,86.0,79.0,31.0
+Presencial,Hombre,Portal Web,Soltero,101718.0,102080.0,1.0,3.0,3.0,2.0,391361.0,80.0,69.0,31.0
+Presencial,Mujer,Portal Web,Divorciado,101069.0,102109.0,1.0,5.0,1.0,4.0,917058.0,96.0,75.0,50.0
+Presencial,Mujer,Linkedin,Casado,103318.0,102049.0,1.0,2.0,3.0,6.0,249880.0,92.0,75.0,21.0
+Presencial,Mujer,Referidos,Divorciado,103093.0,102039.0,1.0,5.0,2.0,5.0,266305.0,92.0,70.0,21.0
+Presencial,Hombre,Portal Web,Soltero,102867.0,102089.0,1.0,3.0,10.0,8.0,367619.0,84.0,78.0,33.0
+Presencial,Hombre,Ferias & Networking,Casado,103131.0,102158.0,1.0,2.0,1.0,9.0,280984.0,87.0,80.0,46.0
+Presencial,Hombre,Referidos,Soltero,103065.0,102172.0,1.0,2.0,2.0,12.0,290605.0,85.0,68.0,48.0
+Presencial,Hombre,Portal Web,Divorciado,103164.0,102160.0,1.0,2.0,3.0,13.0,290378.0,89.0,75.0,47.0
+Presencial,Hombre,Linkedin,Casado,103099.0,102123.0,1.0,3.0,0.0,4.0,289173.0,88.0,75.0,44.0
+Presencial,Mujer,Linkedin,Soltero,103342.0,102127.0,1.0,5.0,11.0,12.0,715281.0,94.0,73.0,54.0
+Presencial,Hombre,Portal Web,Casado,102427.0,102059.0,1.0,6.0,0.0,18.0,713768.0,89.0,78.0,47.0
+Presencial,Mujer,Portal Web,Divorciado,103312.0,102109.0,1.0,5.0,2.0,4.0,914132.0,80.0,75.0,51.0
+Presencial,Hombre,Portal Web,Divorciado,100414.0,102152.0,1.0,3.0,5.0,7.0,297320.0,96.0,77.0,47.0
+Presencial,Hombre,Portal Web,Soltero,100228.0,102023.0,1.0,1.0,7.0,6.0,385064.0,95.0,69.0,38.0
+Presencial,Mujer,Ferias & Networking,Soltero,101111.0,102109.0,1.0,1.0,3.0,8.0,449826.0,94.0,74.0,45.0
+Presencial,Hombre,Linkedin,Casado,101835.0,102093.0,1.0,6.0,6.0,6.0,699720.0,91.0,63.0,48.0
+Presencial,Mujer,Linkedin,Soltero,100031.0,102127.0,1.0,5.0,11.0,12.0,720179.0,85.0,73.0,54.0
+Presencial,Mujer,Linkedin,Soltero,103116.0,102125.0,1.0,2.0,2.0,5.0,285905.0,97.0,79.0,31.0
+Presencial,Hombre,Portal Web,Divorciado,103169.0,102134.0,1.0,6.0,2.0,3.0,300917.0,87.0,81.0,49.0
+Presencial,Hombre,Ferias & Networking,Casado,100123.0,102038.0,1.0,2.0,2.0,5.0,212360.0,86.0,75.0,20.0
+Presencial,Hombre,Linkedin,Soltero,102112.0,102073.0,2.0,2.0,7.0,1.0,692000.0,83.0,74.0,26.0
+Presencial,Hombre,Headhunter,Divorciado,100174.0,102031.0,1.0,3.0,23.0,4.0,407694.0,82.0,63.0,37.0
+Presencial,Mujer,Linkedin,Soltero,101213.0,102141.0,1.0,2.0,11.0,15.0,438318.0,93.0,66.0,49.0
+Presencial,Mujer,Referidos,Casado,102902.0,102135.0,1.0,2.0,1.0,2.0,289409.0,83.0,70.0,32.0
+Presencial,Mujer,Portal Web,Soltero,104007.0,102093.0,1.0,2.0,1.0,6.0,658181.0,96.0,70.0,45.0
+Presencial,Hombre,Linkedin,Soltero,100203.0,102100.0,1.0,4.0,10.0,6.0,255003.0,86.0,86.0,40.0
+Presencial,Mujer,Ferias & Networking,Divorciado,101696.0,102129.0,1.0,8.0,1.0,5.0,391199.0,96.0,79.0,46.0
+Presencial,Mujer,Portal Web,Divorciado,100145.0,102118.0,1.0,2.0,2.0,16.0,697634.0,91.0,81.0,52.0
+Presencial,Hombre,Linkedin,Viudo,100444.0,102055.0,1.0,1.0,6.0,12.0,722063.0,94.0,76.0,48.0
+Presencial,Mujer,Portal Web,Soltero,101980.0,102047.0,1.0,3.0,1.0,13.0,721014.0,90.0,70.0,46.0
+Presencial,Mujer,Portal Web,Soltero,101578.0,102037.0,1.0,4.0,8.0,9.0,819490.0,92.0,86.0,45.0
+Presencial,Hombre,Linkedin,Soltero,100969.0,102071.0,1.0,2.0,6.0,5.0,913006.0,85.0,79.0,50.0
+Presencial,Hombre,Referidos,Viudo,101547.0,102085.0,1.0,2.0,2.0,12.0,879943.0,86.0,77.0,49.0
+Presencial,Hombre,Portal Web,Soltero,101533.0,102036.0,1.0,2.0,0.0,10.0,738048.0,93.0,79.0,48.0
+Presencial,Hombre,Portal Web,Casado,103136.0,102083.0,1.0,2.0,2.0,5.0,271901.0,97.0,75.0,25.0
+Presencial,Hombre,Portal Web,Viudo,103706.0,102111.0,1.0,2.0,1.0,6.0,391862.0,89.0,75.0,36.0
+Presencial,Hombre,Headhunter,Divorciado,103333.0,102031.0,1.0,3.0,23.0,4.0,406613.0,85.0,63.0,36.0
+Presencial,Hombre,Linkedin,Casado,102517.0,102053.0,1.0,4.0,0.0,4.0,280577.0,91.0,71.0,38.0
+Presencial,Mujer,Ferias & Networking,Divorciado,102819.0,102129.0,1.0,8.0,2.0,5.0,384166.0,94.0,79.0,46.0
+Presencial,Hombre,Ferias & Networking,Divorciado,104101.0,102118.0,1.0,2.0,2.0,4.0,654188.0,81.0,71.0,49.0
+Presencial,Hombre,Ferias & Networking,Casado,102901.0,102069.0,1.0,3.0,2.0,12.0,662326.0,87.0,70.0,46.0
+Presencial,Hombre,Linkedin,Soltero,103895.0,102037.0,1.0,2.0,8.0,14.0,777327.0,97.0,78.0,43.0
+Presencial,Hombre,Linkedin,Soltero,103042.0,102071.0,1.0,2.0,6.0,5.0,919140.0,96.0,79.0,50.0
+Presencial,Mujer,Portal Web,Soltero,101707.0,102092.0,1.0,2.0,2.0,1.0,101968.0,96.0,71.0,16.0
+Presencial,Mujer,Referidos,Soltero,100799.0,102096.0,1.0,1.0,4.0,2.0,162553.0,90.0,74.0,20.0
+Presencial,Mujer,Linkedin,Soltero,101845.0,102060.0,1.0,6.0,2.0,10.0,391574.0,87.0,76.0,39.0
+Presencial,Hombre,Portal Web,Soltero,100011.0,102037.0,1.0,2.0,8.0,14.0,780391.0,95.0,78.0,43.0
+Presencial,Mujer,Portal Web,Viudo,101990.0,102023.0,1.0,5.0,2.0,9.0,916188.0,86.0,79.0,49.0
+Presencial,Mujer,Portal Web,Viudo,103619.0,102092.0,1.0,2.0,1.0,1.0,100471.0,96.0,71.0,15.0
+Presencial,Mujer,Linkedin,Casado,103497.0,102075.0,1.0,6.0,3.0,2.0,286217.0,88.0,83.0,25.0
+Presencial,Mujer,Portal Web,Casado,102348.0,102091.0,1.0,2.0,2.0,7.0,388735.0,80.0,76.0,32.0
+Presencial,Mujer,Portal Web,Divorciado,103610.0,102118.0,1.0,2.0,3.0,16.0,694357.0,81.0,81.0,52.0
+Presencial,Mujer,Portal Web,Viudo,103016.0,102023.0,1.0,5.0,2.0,9.0,916404.0,87.0,79.0,49.0
+Presencial,Mujer,Portal Web,Casado,101572.0,102103.0,1.0,2.0,3.0,2.0,251612.0,81.0,69.0,28.0
+Presencial,Hombre,Linkedin,Casado,100190.0,102044.0,1.0,1.0,2.0,2.0,350478.0,86.0,78.0,29.0
+Presencial,Hombre,Portal Web,Casado,100560.0,102084.0,1.0,6.0,3.0,14.0,419722.0,89.0,74.0,39.0
+Presencial,Mujer,Portal Web,Casado,103437.0,102103.0,1.0,2.0,2.0,2.0,247573.0,94.0,69.0,28.0
+Presencial,Mujer,Portal Web,Soltero,104136.0,102172.0,1.0,2.0,0.0,3.0,408487.0,87.0,84.0,39.0
+Presencial,Mujer,Ferias & Networking,Soltero,101024.0,102043.0,1.0,6.0,1.0,4.0,311881.0,90.0,75.0,25.0
+Presencial,Hombre,Portal Web,Casado,101807.0,102086.0,1.0,1.0,9.0,8.0,366827.0,84.0,75.0,32.0
+Presencial,Mujer,Portal Web,Soltero,101442.0,102172.0,1.0,2.0,1.0,3.0,405606.0,96.0,84.0,39.0
+Presencial,Mujer,Linkedin,Soltero,100876.0,102096.0,1.0,2.0,3.0,5.0,829120.0,91.0,72.0,39.0
+Presencial,Mujer,Ferias & Networking,Casado,100988.0,102049.0,1.0,2.0,1.0,12.0,489218.0,86.0,74.0,34.0
+Presencial,Mujer,Headhunter,Casado,100909.0,102100.0,1.0,2.0,0.0,11.0,284211.0,98.0,74.0,43.0
+Presencial,Hombre,Portal Web,Casado,100069.0,102074.0,1.0,2.0,2.0,14.0,277795.0,90.0,86.0,42.0
+Presencial,Mujer,Linkedin,Soltero,102501.0,102096.0,1.0,2.0,3.0,5.0,829523.0,87.0,72.0,39.0
+Presencial,Hombre,Portal Web,Soltero,103451.0,102030.0,1.0,2.0,2.0,6.0,758197.0,89.0,79.0,43.0
+Presencial,Mujer,Portal Web,Divorciado,103250.0,102007.0,1.0,5.0,5.0,5.0,678275.0,83.0,88.0,42.0
+Presencial,Hombre,Ferias & Networking,Casado,101335.0,102141.0,1.0,3.0,2.0,3.0,512138.0,96.0,75.0,43.0
+Presencial,Hombre,Portal Web,Casado,100941.0,102130.0,1.0,4.0,10.0,8.0,266869.0,84.0,68.0,42.0
+Presencial,Mujer,Portal Web,Viudo,101641.0,102063.0,1.0,2.0,3.0,15.0,640218.0,84.0,71.0,45.0
+Presencial,Hombre,Ferias & Networking,Soltero,100771.0,102030.0,1.0,8.0,1.0,8.0,675162.0,90.0,82.0,43.0
+Presencial,Hombre,Portal Web,Soltero,103886.0,102077.0,1.0,2.0,3.0,8.0,247272.0,90.0,78.0,24.0
+Presencial,Hombre,Ferias & Networking,Casado,103407.0,102141.0,1.0,3.0,2.0,3.0,509216.0,84.0,75.0,43.0
+Presencial,Hombre,Portal Web,Soltero,103958.0,102007.0,1.0,6.0,7.0,9.0,268659.0,96.0,82.0,35.0
+Presencial,Hombre,Portal Web,Soltero,103056.0,102051.0,1.0,2.0,1.0,9.0,280623.0,94.0,75.0,37.0
+Presencial,Mujer,Portal Web,Viudo,102611.0,102063.0,1.0,2.0,2.0,15.0,639862.0,90.0,71.0,45.0
+Presencial,Mujer,Referidos,Casado,102212.0,102069.0,1.0,1.0,2.0,5.0,674922.0,92.0,79.0,44.0
+Presencial,Hombre,Portal Web,Viudo,102966.0,102067.0,1.0,4.0,2.0,8.0,819437.0,88.0,65.0,43.0
+Presencial,Hombre,Portal Web,Viudo,100587.0,102067.0,1.0,4.0,2.0,8.0,822117.0,89.0,65.0,43.0
+Presencial,Mujer,Referidos,Casado,101672.0,102069.0,1.0,1.0,2.0,5.0,674425.0,95.0,79.0,44.0
+Presencial,Hombre,Ferias & Networking,Casado,102278.0,102025.0,1.0,4.0,3.0,6.0,246938.0,89.0,77.0,20.0
+Presencial,Hombre,Portal Web,Casado,103632.0,102130.0,1.0,4.0,10.0,8.0,270389.0,82.0,68.0,42.0
+Presencial,Mujer,Linkedin,Soltero,100542.0,102029.0,1.0,3.0,3.0,2.0,143382.0,91.0,82.0,12.0
+Presencial,Hombre,Portal Web,Soltero,101274.0,102129.0,1.0,4.0,4.0,2.0,253108.0,98.0,78.0,29.0
+Presencial,Mujer,Portal Web,Soltero,100728.0,102050.0,1.0,3.0,1.0,3.0,390279.0,98.0,75.0,27.0
+Presencial,Hombre,Referidos,Soltero,102643.0,102136.0,1.0,3.0,2.0,1.0,100689.0,89.0,78.0,19.0
+Presencial,Mujer,Portal Web,Soltero,102769.0,102050.0,1.0,3.0,1.0,3.0,389484.0,83.0,75.0,27.0
+Presencial,Hombre,Linkedin,Divorciado,103820.0,102062.0,1.0,5.0,2.0,3.0,486742.0,84.0,77.0,37.0
+Presencial,Hombre,Linkedin,Divorciado,100980.0,102065.0,1.0,4.0,7.0,3.0,390474.0,81.0,80.0,32.0
+Presencial,Mujer,Headhunter,Casado,100388.0,102136.0,1.0,4.0,1.0,3.0,471808.0,81.0,77.0,40.0
+Presencial,Mujer,Headhunter,Casado,103516.0,102136.0,1.0,4.0,1.0,3.0,467505.0,89.0,77.0,40.0
+Presencial,Hombre,Linkedin,Casado,103460.0,102015.0,1.0,2.0,1.0,12.0,512305.0,85.0,84.0,33.0
+Presencial,Mujer,Portal Web,Casado,101854.0,102037.0,1.0,3.0,1.0,4.0,206319.0,87.0,76.0,17.0
+Presencial,Hombre,Linkedin,Casado,101169.0,102015.0,1.0,1.0,1.0,12.0,504558.0,98.0,84.0,32.0
+Presencial,Mujer,Linkedin,Divorciado,102127.0,102074.0,2.0,4.0,2.0,9.0,1306940.0,88.0,78.0,33.0
+Presencial,Hombre,Portal Web,Soltero,101988.0,102028.0,1.0,2.0,2.0,4.0,276849.0,82.0,82.0,37.0
+Presencial,Mujer,Portal Web,Casado,102218.0,102037.0,1.0,3.0,2.0,4.0,201128.0,94.0,76.0,17.0
+Presencial,Mujer,Linkedin,Casado,102473.0,102144.0,1.0,3.0,0.0,5.0,425517.0,95.0,75.0,46.0
+Presencial,Hombre,Referidos,Casado,100848.0,102044.0,1.0,2.0,2.0,3.0,653783.0,87.0,86.0,44.0
+Presencial,Hombre,Linkedin,Divorciado,102054.0,102074.0,2.0,3.0,1.0,17.0,1616000.0,85.0,74.0,41.0
+Presencial,Hombre,Referidos,Casado,102695.0,102044.0,1.0,2.0,2.0,3.0,658682.0,81.0,86.0,44.0
+Presencial,Hombre,Portal Web,Divorciado,101039.0,102154.0,1.0,1.0,1.0,6.0,739483.0,82.0,77.0,56.0
+Presencial,Mujer,Referidos,Casado,101729.0,102089.0,1.0,2.0,1.0,8.0,288676.0,86.0,81.0,26.0
+Presencial,Mujer,Ferias & Networking,Soltero,100114.0,102077.0,1.0,2.0,1.0,1.0,146775.0,92.0,63.0,18.0
+Presencial,Mujer,Ferias & Networking,Soltero,103966.0,102077.0,1.0,2.0,1.0,1.0,146460.0,98.0,63.0,18.0
+Presencial,Mujer,Linkedin,Soltero,101513.0,102157.0,1.0,5.0,2.0,12.0,718690.0,84.0,81.0,54.0
+Presencial,Mujer,Portal Web,Viudo,102964.0,102109.0,1.0,2.0,0.0,18.0,716730.0,96.0,75.0,53.0
+Presencial,Mujer,Portal Web,Soltero,100349.0,102162.0,1.0,6.0,6.0,1.0,78566.0,80.0,76.0,21.0
+Presencial,Mujer,Portal Web,Soltero,101714.0,102154.0,1.0,4.0,3.0,2.0,137930.0,86.0,64.0,23.0
+Presencial,Hombre,Linkedin,Soltero,100842.0,102135.0,1.0,2.0,11.0,3.0,138489.0,81.0,78.0,24.0
+Presencial,Hombre,Portal Web,Soltero,100101.0,102171.0,1.0,6.0,6.0,4.0,162042.0,86.0,69.0,26.0
+Presencial,Mujer,Portal Web,Casado,100385.0,102171.0,1.0,3.0,12.0,4.0,184788.0,96.0,69.0,26.0
+Presencial,Hombre,Portal Web,Casado,101930.0,102142.0,1.0,3.0,1.0,1.0,205952.0,98.0,71.0,29.0
+Presencial,Mujer,Linkedin,Soltero,100854.0,102142.0,1.0,2.0,1.0,3.0,227327.0,82.0,77.0,30.0
+Presencial,Mujer,Portal Web,Casado,100368.0,102172.0,1.0,5.0,7.0,5.0,228406.0,80.0,70.0,30.0
+Presencial,Hombre,Linkedin,Soltero,101149.0,102170.0,1.0,3.0,0.0,1.0,246055.0,84.0,79.0,31.0
+Presencial,Hombre,Portal Web,Casado,100088.0,102150.0,1.0,2.0,2.0,5.0,293544.0,87.0,66.0,32.0
+Presencial,Hombre,Portal Web,Casado,101929.0,102142.0,1.0,4.0,3.0,2.0,307230.0,92.0,78.0,34.0
+Presencial,Hombre,Referidos,Soltero,101553.0,102169.0,1.0,2.0,2.0,3.0,307517.0,97.0,84.0,34.0
+Presencial,Hombre,Referidos,Casado,100168.0,102162.0,1.0,3.0,3.0,2.0,352914.0,86.0,83.0,36.0
+Presencial,Hombre,Portal Web,Casado,101902.0,102165.0,1.0,4.0,1.0,10.0,404855.0,87.0,83.0,39.0
+Presencial,Mujer,Headhunter,Soltero,101945.0,102171.0,1.0,1.0,1.0,11.0,407545.0,84.0,85.0,39.0
+Presencial,Hombre,Portal Web,Casado,100024.0,102158.0,1.0,1.0,3.0,6.0,424966.0,87.0,74.0,40.0
+Presencial,Mujer,Linkedin,Soltero,101867.0,102171.0,1.0,2.0,7.0,10.0,487421.0,80.0,75.0,43.0
+Presencial,Mujer,Referidos,Casado,101136.0,102172.0,1.0,6.0,3.0,9.0,888997.0,89.0,79.0,43.0
+Presencial,Mujer,Linkedin,Soltero,102118.0,102074.0,2.0,5.0,17.0,4.0,1616000.0,86.0,74.0,39.0
+Presencial,Hombre,Portal Web,Casado,101770.0,102171.0,1.0,2.0,1.0,5.0,381314.0,95.0,74.0,46.0
+Presencial,Hombre,Portal Web,Casado,101405.0,102172.0,1.0,2.0,0.0,3.0,272212.0,81.0,79.0,46.0
+Presencial,Mujer,Ferias & Networking,Soltero,100109.0,102147.0,1.0,2.0,1.0,12.0,279346.0,94.0,75.0,47.0
+Presencial,Hombre,Linkedin,Casado,100355.0,102157.0,1.0,2.0,2.0,8.0,298691.0,97.0,69.0,49.0
+Presencial,Mujer,Referidos,Casado,100940.0,102143.0,1.0,2.0,0.0,7.0,425192.0,98.0,75.0,50.0
+Presencial,Hombre,Portal Web,Casado,101679.0,102141.0,1.0,6.0,3.0,6.0,800918.0,89.0,80.0,52.0
+Presencial,Hombre,Linkedin,Divorciado,102002.0,102074.0,2.0,2.0,12.0,10.0,1616000.0,97.0,69.0,48.0
+Presencial,Hombre,Portal Web,Soltero,101646.0,102144.0,1.0,4.0,0.0,7.0,873149.0,81.0,69.0,53.0
+Presencial,Mujer,Linkedin,Soltero,100261.0,102152.0,1.0,7.0,2.0,8.0,720776.0,86.0,75.0,55.0
+Presencial,Mujer,Portal Web,Divorciado,102084.0,102074.0,2.0,3.0,3.0,14.0,1616000.0,89.0,76.0,51.0
+Presencial,Hombre,Portal Web,Viudo,102071.0,102074.0,2.0,1.0,1.0,11.0,1616000.0,85.0,72.0,51.0
+Presencial,Hombre,Portal Web,Casado,102045.0,102074.0,2.0,3.0,3.0,11.0,1616000.0,97.0,65.0,53.0
+Presencial,Hombre,Referidos,Casado,102066.0,102074.0,2.0,4.0,3.0,5.0,1616000.0,97.0,84.0,55.0
+Presencial,Mujer,Referidos,Casado,100462.0,102171.0,1.0,3.0,2.0,18.0,899631.0,83.0,82.0,60.0
+Presencial,Hombre,Portal Web,Soltero,102156.0,102074.0,2.0,4.0,2.0,22.0,1616000.0,92.0,76.0,63.0
+Presencial,Mujer,Portal Web,Soltero,104060.0,102154.0,1.0,4.0,3.0,2.0,143225.0,98.0,64.0,23.0
+Presencial,Hombre,Linkedin,Soltero,103028.0,102135.0,1.0,2.0,10.0,3.0,136659.0,94.0,78.0,24.0
+Presencial,Mujer,Linkedin,Soltero,102828.0,102150.0,1.0,3.0,3.0,2.0,163644.0,91.0,76.0,24.0
+Presencial,Mujer,Portal Web,Soltero,104056.0,102167.0,1.0,2.0,2.0,2.0,162075.0,92.0,67.0,26.0
+Presencial,Hombre,Linkedin,Soltero,103821.0,102136.0,1.0,6.0,6.0,1.0,188328.0,93.0,76.0,26.0
+Presencial,Mujer,Linkedin,Soltero,103790.0,102142.0,1.0,2.0,2.0,3.0,226542.0,84.0,77.0,30.0
+Presencial,Mujer,Portal Web,Casado,103389.0,102172.0,1.0,5.0,8.0,5.0,230498.0,97.0,70.0,30.0
+Presencial,Hombre,Portal Web,Casado,102585.0,102142.0,1.0,4.0,3.0,2.0,313355.0,91.0,78.0,34.0
+Presencial,Hombre,Referidos,Soltero,104086.0,102169.0,1.0,2.0,2.0,3.0,313049.0,96.0,84.0,34.0
+Presencial,Hombre,Linkedin,Casado,102778.0,102139.0,1.0,6.0,4.0,4.0,411337.0,80.0,77.0,39.0
+Presencial,Hombre,Linkedin,Casado,102432.0,102165.0,1.0,4.0,2.0,10.0,411363.0,96.0,83.0,39.0
+Presencial,Mujer,Referidos,Casado,102990.0,102172.0,1.0,6.0,4.0,9.0,890608.0,91.0,79.0,43.0
+Presencial,Hombre,Portal Web,Soltero,102423.0,102171.0,1.0,2.0,2.0,5.0,378845.0,93.0,74.0,46.0
+Presencial,Mujer,Ferias & Networking,Soltero,103289.0,102147.0,1.0,2.0,1.0,12.0,274387.0,84.0,75.0,47.0
+Presencial,Hombre,Referidos,Divorciado,102386.0,102171.0,1.0,1.0,1.0,11.0,286394.0,97.0,74.0,48.0
+Presencial,Hombre,Linkedin,Divorciado,103154.0,102171.0,1.0,6.0,3.0,5.0,308396.0,90.0,77.0,49.0
+Presencial,Hombre,Linkedin,Casado,103727.0,102157.0,1.0,2.0,2.0,8.0,297922.0,97.0,69.0,49.0
+Presencial,Mujer,Referidos,Viudo,103332.0,102143.0,1.0,2.0,1.0,7.0,424714.0,92.0,75.0,50.0
+Presencial,Mujer,Portal Web,Casado,103839.0,102139.0,1.0,3.0,4.0,3.0,642391.0,98.0,71.0,51.0
+Presencial,Mujer,Portal Web,Soltero,103755.0,102161.0,1.0,3.0,2.0,16.0,700814.0,90.0,69.0,53.0
+Presencial,Mujer,Portal Web,Divorciado,103976.0,102171.0,1.0,3.0,0.0,5.0,677071.0,93.0,66.0,53.0
+Presencial,Hombre,Portal Web,Soltero,104115.0,102144.0,1.0,4.0,1.0,7.0,876285.0,84.0,69.0,53.0
+Presencial,Mujer,Linkedin,Soltero,103920.0,102152.0,1.0,7.0,1.0,8.0,719102.0,91.0,75.0,55.0
+Presencial,Mujer,Referidos,Casado,103151.0,102171.0,1.0,3.0,3.0,18.0,898994.0,89.0,82.0,60.0
